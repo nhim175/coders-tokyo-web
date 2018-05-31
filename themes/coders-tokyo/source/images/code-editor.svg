@@ -26,7 +26,7 @@
         <rect id="Rectangle-2" fill="#272622" x="-1" y="55" width="591" height="590"></rect>
         <rect id="Rectangle-6" fill="#D8D8D8" x="-1" y="22" width="591" height="33"></rect>
         <g id="Group-Copy-3" transform="translate(214.000000, 356.000000)"></g>
-        <g id="Group-4" opacity="0.5" transform="translate(22.000000, 80.000000)">
+        <g id="Group-4" transform="translate(22.000000, 80.000000)">
             <rect id="Rectangle" fill="#65D9EF" x="28" y="0" width="101" height="12" rx="3"></rect>
             <rect id="Rectangle-Copy-16" fill="#AE80FF" x="142" y="0" width="148" height="12" rx="3"></rect>
             <rect id="Rectangle-Copy-17" fill="#AE80FF" x="162" y="15" width="148" height="12" rx="3"></rect>
