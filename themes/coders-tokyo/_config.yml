@@ -1,6 +1,7 @@
 # Header
 menu:
-  Home: /
+  Trang chủ: /
+  Sự kiện: /events
   # Tutorials: https://www.youtube.com/channel/UCwczk9A3ITHTZT6W_9nalqg/playlists
 rss: /atom.xml
 
@@ -30,7 +31,7 @@ show_count: false
 # Miscellaneous
 google_analytics: UA-119975443-1
 gauges_analytics:
-favicon: images/favicon.png
+favicon: /images/favicon.png
 twitter:
 google_plus:
 fb_admins:
