@@ -153,11 +153,18 @@ markdown:
       </div>
       <!--end of row-->
       <div class="row">
-        <div class="col-md-4 offset-md-4">
-          <div class="feature feature-8 text-center">
+        <div class="col-md-3 offset-md-3">
+          <div class="feature feature-8">
             <img alt="Phong Nguyễn" style="width: 128px;" src="/images/events/phong.png" />
             <h5>Phong Nguyễn</h5>
             <span>Researcher @ Hitachi</span>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="feature feature-8">
+            <img alt="Ngọc Long" style="width: 128px;" src="/images/events/long.png" />
+            <h5>Ngọc Long</h5>
+            <span>CEO @ Iteb</span>
           </div>
         </div>
       </div>
@@ -199,6 +206,11 @@ markdown:
         <div class="col-md text-center col-6 mb-4">
           <a href="#" target="_blank">
             <img alt="Talenta" class="image--xxs" src="/images/events/talenta.png" />
+          </a>
+        </div>
+        <div class="col-md text-center col-6 mb-4">
+          <a href="#" target="_blank">
+            <img alt="Talenta" class="image--xxs" src="/images/events/iteb.png" />
           </a>
         </div>
         <!--end of col-->
