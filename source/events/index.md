@@ -131,16 +131,16 @@ markdown:
         </div>
         <div class="col-md-3">
           <div class="feature feature-8">
-            <img alt="Duy Anh" style="width: 128px;" src="/images/events/mr-hung.png" />
-            <h5>Nguyễn Đoàn Hùng</h5>
-            <span>Founder @ KIS Japan Co., Ltd.</span>
+            <img alt="Prof. Trần Xuân Nam" style="width: 128px;" src="/images/events/prof-nam.png" />
+            <h5>Prof. Trần Xuân Nam</h5>
+            <span>Trưởng Phòng Đào tạo HVKTQS</span>
           </div>
         </div>
         <div class="col-md-3">
           <div class="feature feature-8">
-            <img alt="Prof. Trần Xuân Nam" style="width: 128px;" src="/images/events/prof-nam.png" />
-            <h5>Prof. Trần Xuân Nam</h5>
-            <span>Trưởng Phòng Đào tạo HVKTQS</span>
+            <img alt="Duy Anh" style="width: 128px;" src="/images/events/mr-hung.png" />
+            <h5>Nguyễn Đoàn Hùng</h5>
+            <span>Founder @ KIS Japan Co., Ltd.</span>
           </div>
         </div>
         <div class="col-md-3">
