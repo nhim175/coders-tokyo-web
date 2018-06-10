@@ -131,9 +131,9 @@ markdown:
         </div>
         <div class="col-md-3">
           <div class="feature feature-8">
-            <img alt="Duy Anh" style="width: 128px;" src="/images/events/duy-anh.png" />
-            <h5>Duy Anh</h5>
-            <span>Bridge SE @ Framgia</span>
+            <img alt="Duy Anh" style="width: 128px;" src="/images/events/mr-hung.png" />
+            <h5>Nguyễn Đoàn Hùng</h5>
+            <span>Founder @ KIS Japan Co., Ltd.</span>
           </div>
         </div>
         <div class="col-md-3">
@@ -153,14 +153,28 @@ markdown:
       </div>
       <!--end of row-->
       <div class="row">
-        <div class="col-md-3 offset-md-3">
+        <div class="col-md-3 text-center">
+          <div class="feature feature-8">
+            <img alt="Duy Anh" style="width: 128px;" src="/images/events/ngan.png" />
+            <h5>Ngân Nguyễn</h5>
+            <span>Founder & CEO @ Ekoios</span>
+          </div>
+        </div>
+        <div class="col-md-3 text-center">
+          <div class="feature feature-8">
+            <img alt="Duy Anh" style="width: 128px;" src="/images/events/duy-anh.png" />
+            <h5>Duy Anh</h5>
+            <span>Bridge SE @ Framgia</span>
+          </div>
+        </div>
+        <div class="col-md-3 text-center">
           <div class="feature feature-8">
             <img alt="Phong Nguyễn" style="width: 128px;" src="/images/events/phong.png" />
             <h5>Phong Nguyễn</h5>
             <span>Researcher @ Hitachi</span>
           </div>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-3 text-center">
           <div class="feature feature-8">
             <img alt="Ngọc Long" style="width: 128px;" src="/images/events/long.png" />
             <h5>Ngọc Long</h5>
