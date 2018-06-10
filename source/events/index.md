@@ -197,32 +197,39 @@ markdown:
     </div>
     <div class="container">
       <div class="row mb-5">
-        <div class="col-md text-center col-6 mb-4">
+        <div class="col-md-3 text-center col-6 mb-4">
           <a href="https://www.zehitomo.com" target="_blank">
             <img alt="Zehitomo" class="image--xxs" src="/images/events/zehitomo.png" />
           </a>
         </div>
-        <div class="col-md text-center col-6 mb-4">
+        <div class="col-md-3 text-center col-6 mb-4">
           <a href="http://mta.edu.vn" target="_blank">
             <img alt="HVKQS" class="image--xxs" src="/images/events/hvktqs.png" />
           </a>
         </div>
-        <div class="col-md text-center col-6 mb-4">
+        <div class="col-md-3 text-center col-6 mb-4">
           <a href="http://www.ekoios.jp" target="_blank">
             <img alt="Ekoios Japan" class="image--xxs" src="/images/events/ekoios.png" />
           </a>
         </div>
-        <div class="col-md text-center col-6 mb-4">
+        <div class="col-md-3 text-center col-6 mb-4">
           <a href="http://koijapan.edu.vn" target="_blank">
             <img alt="KoiJapan" class="image--xxs" src="/images/events/koijapan.png" />
           </a>
         </div>
-        <div class="col-md text-center col-6 mb-4">
+      </div>
+      <div class="row justify-content-center mb-5">
+        <div class="col-md-3 text-center col-6 mb-4">
+          <a href="http://www.kis-v.com" target="_blank">
+            <img alt="KIS Group" class="image--xxs" src="/images/events/kis.png" />
+          </a>
+        </div>
+        <div class="col-md-3 text-center col-6 mb-4">
           <a href="#" target="_blank">
             <img alt="Talenta" class="image--xxs" src="/images/events/talenta.png" />
           </a>
         </div>
-        <div class="col-md text-center col-6 mb-4">
+        <div class="col-md-3 text-center col-6 mb-4">
           <a href="#" target="_blank">
             <img alt="Talenta" class="image--xxs" src="/images/events/iteb.png" />
           </a>
