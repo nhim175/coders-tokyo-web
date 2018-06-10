@@ -140,7 +140,7 @@ markdown:
           <div class="feature feature-8">
             <img alt="Duy Anh" style="width: 128px;" src="/images/events/mr-hung.png" />
             <h5>Nguyễn Đoàn Hùng</h5>
-            <span>Founder @ KIS Japan Co., Ltd.</span>
+            <span>Founder @ KIS Group Companies</span>
           </div>
         </div>
         <div class="col-md-3">
