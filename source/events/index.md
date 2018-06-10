@@ -258,6 +258,8 @@ markdown:
             &mdash; Học lập trình bắt đầu từ đâu? - Thịnh Phạm<br>
             &mdash; Chia sẻ kinh nghiệm làm việc 5 năm tại Nhật - Thịnh Phạm<br>
             &mdash; Giới thiệu về Học viện KTQS và chia sẻ về văn hoá Nhật Bản - Prof. Nam<br>
+            &mdash; Giấc mơ Nhật Bản hay Giấc mơ Mỹ? - Chú Nguyễn Đoàn Hùng<br>
+            &mdash; Giới thiệu về Ekoios và tầm nhìn 10 năm? - Ngân Nguyễn<br>
             &mdash; Thực tập &amp; phỏng vấn, mục tiêu &amp; phương pháp - Duy Anh<br>
             &mdash; Giới thiệu về chương trình học tiếng Nhật miễn phí - Khoa Bùi<br>
             &mdash; Thị trường việc làm tại Nhật Bản - Phong Nguyễn<br>
