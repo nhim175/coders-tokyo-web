@@ -147,7 +147,7 @@ markdown:
           <div class="feature feature-8">
             <img alt="Khoa Bùi" style="width: 128px;" src="/images/events/khoa.png" />
             <h5>Khoa Bùi</h5>
-            <span>CEO @ KoiJapan</span>
+            <span>Founder & CEO @ KoiJapan</span>
           </div>
         </div>
       </div>
@@ -270,6 +270,7 @@ markdown:
             &mdash; Thực tập &amp; phỏng vấn, mục tiêu &amp; phương pháp - Duy Anh<br>
             &mdash; Giới thiệu về chương trình học tiếng Nhật miễn phí - Khoa Bùi<br>
             &mdash; Thị trường việc làm tại Nhật Bản - Phong Nguyễn<br>
+            &mdash; Tư vấn việc làm IT tại Nhật Bản miễn phí - Ngân Nguyễn<br>
             &mdash; Hỏi đáp &amp; tặng quà<br>
           </p>
         </div>
