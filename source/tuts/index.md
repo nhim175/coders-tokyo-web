@@ -46,6 +46,25 @@ markdown:
       <div class="row justify-content-center">
         <div class="col-md-10 col-lg-8">
           <div class="text-block">
+            <h2>Định hướng học lập trình</h2>
+            <span>Made by Coders.Tokyo</span>
+          </div>
+          <iframe class="mb-4" src="https://www.youtube.com/embed/videoseries?list=PLkY6Xj8Sg8-uFYSMKhuaxKM0kfpFMEZ8H" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          <p class="lead">
+            Community founder cũng đã từng trải qua quá trình tự học lập trình giống như bạn bây giờ. Chuỗi video định hướng giúp định hướng các bạn muốn học lập trình mà chưa biết bắt đầu từ đâu. Các video chủ yếu nói về cách học hiệu quả, trình tự học.
+          </p>
+        </div>
+      </div>
+      <!--end of row-->
+    </div>
+    <!--end of container-->
+  </section>
+
+  <section class="text-center bg--secondary">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-10 col-lg-8">
+          <div class="text-block">
             <h2>JavaScript từ A-Z 2018</h2>
             <span>Made by Coders.Tokyo</span>
           </div>
@@ -60,7 +79,7 @@ markdown:
     <!--end of container-->
   </section>
 
-  <section class="text-center bg--secondary">
+  <section class="text-center">
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-md-10 col-lg-8">
@@ -71,6 +90,25 @@ markdown:
           <iframe class="mb-4" src="https://www.youtube.com/embed/videoseries?list=PLkY6Xj8Sg8-ueeAEQWHW1HeMf0IvZg6Xy" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           <p class="lead">
             Chuỗi bài giảng về HTML bao gồm các kiến thức khác có liên quan tới lập trình web như Web server, Network, những bài giảng mà bạn ít khi gặp khi đi học ở các trung tâm dạy lập trình. Ngoài ra các bạn sẽ được học HTML DOM để biết cách sử dụng JavaScript để điều khiển, thay đổi nội dung trang web, làm cho trang web của bạn trở nên "động" hơn.
+          </p>
+        </div>
+      </div>
+      <!--end of row-->
+    </div>
+    <!--end of container-->
+  </section>
+
+  <section class="text-center bg--secondary">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-10 col-lg-8">
+          <div class="text-block">
+            <h2>Live stream videos</h2>
+            <span>Made by Coders.Tokyo</span>
+          </div>
+          <iframe class="mb-4" src="https://www.youtube.com/embed/videoseries?list=PLkY6Xj8Sg8-uks4KrMqPC8YsZ77xTqfpU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          <p class="lead">
+            Playlist tổng hợp video các buổi live stream 2 tuần một lần. Xem lịch live stream lần tới <a href="https://www.facebook.com/events/181709499152508/" target="_blank">tại đây</a>.
           </p>
         </div>
       </div>
