@@ -96,3 +96,5 @@ Một dịp đặc biệt sẽ trở nên đặc biệt hơn bao giờ hết b�
 Luôn có một lý do nào đó để bạn thực hiện một chuyến đi. Đơn giản chỉ là kỉ niệm sinh nhật, hay lễ tốt nghiệp, kỉ niệm trước ngày cưới. Hay thậm chí là kì nghĩ trước khi sinh.
 
 Một dịp đặc biệt sẽ trở nên đặc biệt hơn bao giờ hết bằng cách kỷ niệm ở một nơi xa thay vì cuộc sống hối hả ở quê nhà. Đó là một cách hay để tụ họp người thân và bạn bè từ nơi xa xôi và đánh dấu mốc quan trọng. Kì nghỉ kỷ niệm mang lại lợi ích lâu dài đó là : Sẽ chia kỉ niệm để mang theo suốt cuộc đời.
+
+Nguồn: [http://blog.virtuoso.com/tips-and-trends/10-powerful-reasons-why-people-love-to-travel/](http://blog.virtuoso.com/tips-and-trends/10-powerful-reasons-why-people-love-to-travel/)

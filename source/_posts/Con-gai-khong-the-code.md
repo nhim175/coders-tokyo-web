@@ -38,3 +38,5 @@ Việc này không làm nhụt đi ý chí của tôi, tôi yêu những thử t
 Như đã nói, tôi đã mở rộng được vốn kiến thức của mình, và tôi sẽ tiếp tục học và không bỏ cuộc bởi những gã phỏng vấn kiểu này. Cố lên những cô gái tuyệt vời đang cố gắng tạo những thứ *awesome* and *wonderful*.
 
 ***Don't let the magic fade :)***
+
+Nguồn: [https://code.likeagirl.io/experiences-of-a-self-taught-female-coder-girls-can-t-code-30ae10e39b33](https://code.likeagirl.io/experiences-of-a-self-taught-female-coder-girls-can-t-code-30ae10e39b33)

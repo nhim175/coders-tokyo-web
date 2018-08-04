@@ -73,14 +73,17 @@ pagination_dir: page
 # Authors
 authors:
   default:
-    name: 'Coders.Tokyo'
-    url: 'https://coders.tokyo'
+    name: Coders.Tokyo
+    url: https://coders.tokyo'
   hong_quang:
-    name: 'Hồng Quang'
+    name: Hồng Quang
     url: https://www.facebook.com/spaceraem
   minh_phu:
-    name: 'Nguyễn Minh Phú'
+    name: Nguyễn Minh Phú
     url: https://www.facebook.com/minhphu1107
+  ngoc_tram:
+    name: Ngọc Trâm
+    url: https://www.facebook.com/tramnn83
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
