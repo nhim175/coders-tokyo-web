@@ -1,0 +1,40 @@
+<section class="masonry-blog-list">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-10 col-lg-8">
+        <h1 class="text-center">Coders.Tokyo's Blog</h1>
+
+        <% if (pagination == 2){ %>
+          <% page.posts.each(function(post){ %>
+            <%- partial('article', {post: post, index: true}) %>
+          <% }) %>
+        <% } else { %>
+          <% var last; %>
+          <% page.posts.each(function(post, i){ %>
+            <% var year = post.date.year(); %>
+            <% if (last != year){ %>
+              <% if (last != null){ %>
+                </div></section>
+              <% } %>
+              <% last = year; %>
+                <div class="archives">
+            <% } %>
+            <%- partial('archive-post', {post: post, even: i % 2 == 0}) %>
+          <% }) %>
+          <% if (page.posts.length){ %>
+            </div>
+          <% } %>
+        <% } %>
+        <% if (page.total > 1){ %>
+          <nav id="page-nav">
+            <% var prev_text = "&laquo; " + __('prev');var next_text = __('next') + " &raquo;"%>
+            <%- paginator({
+              prev_text: prev_text,
+              next_text: next_text
+            }) %>
+          </nav>
+        <% } %>
+      </div>
+    <div>
+  </div>
+</section>

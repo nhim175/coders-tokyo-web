@@ -2,6 +2,7 @@
 menu:
   Trang chủ: /
   Tutorials: /tuts
+  Blog: /archives
 rss: /atom.xml
 
 # Content
@@ -35,3 +36,8 @@ twitter:
 google_plus:
 fb_admins:
 fb_app_id:
+
+authors:
+  - hong_quang:
+    name: Hồng Quang
+    url: facebook.com

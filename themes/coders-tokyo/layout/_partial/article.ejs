@@ -1,24 +1,32 @@
-<article id="<%= post.layout %>-<%= post.slug %>" class="article article-type-<%= post.layout %>" itemscope itemprop="blogPost">
-  <div class="article-inner">
-    <div class="article-entry" itemprop="articleBody">
-      <% if (post.excerpt && index){ %>
-        <%- post.excerpt %>
-        <% if (theme.excerpt_link){ %>
-          <p class="article-more-link">
-            <a href="<%- url_for(post.path) %>#more"><%= theme.excerpt_link %></a>
-          </p>
-        <% } %>
-      <% } else { %>
-        <%- post.content %>
-      <% } %>
-    </div>
-  </div>
-</article>
+<section>
+  <div class="container">
+    <article id="<%= post.layout %>-<%= post.slug %>" class="article article-type-<%= post.layout %>" itemscope itemprop="blogPost">
+      <div class="article-inner row justify-content-center">
+        <div class="article-entry col-md-10 col-lg-8" itemprop="articleBody">
+          <% if (post.excerpt && index){ %>
+            <%- post.excerpt %>
+            <% if (theme.excerpt_link){ %>
+              <p class="article-more-link">
+                <a href="<%- url_for(post.path) %>#more"><%= theme.excerpt_link %></a>
+              </p>
+            <% } %>
+          <% } else { %>
+            <div class="article__title">
+              <h2 class="text-center"><%- post.title %></h2>
+              <div class="article__meta text-center"><%- partial('post/meta', {class_name: 'archive-article-date', date_format: 'DD/MM/YYYY'}) %></div>
+            </div>
+            <div class="article__body"><%- post.content %></div>
+          <% } %>
+        </div>
+      </div>
+    </article>
 
-<% if (!index && post.comments && config.disqus_shortname){ %>
-<section id="comments">
-  <div id="disqus_thread">
-    <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <% if (!index && post.comments && config.disqus_shortname){ %>
+    <section id="comments">
+      <div id="disqus_thread">
+        <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+      </div>
+    </section>
+    <% } %>
   </div>
 </section>
-<% } %>
