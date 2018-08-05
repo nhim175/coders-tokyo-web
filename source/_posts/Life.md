@@ -7,6 +7,8 @@ tags:
 
 Ngày đầu tiên mình có những suy nghĩ thực sự về cuộc đời, là vào khoảng thời gian đó. Cũng không hiểu vì sao những suy nghĩ này tự dưng nảy ra trong lúc mình đang tắm, đứng dưới vòi vò vò cái đầu đầy bọt xà phòng. Trong khoảng thời gian đó (16 tuổi), mình rất hay suy nghĩ về vấn đề này khi tắm, hoặc trước khi ngủ, đại loại là những lúc không gian yên tĩnh và ở một mình. Thế nên hồi đó mình rất ghét ở một mình vì không muốn những suy nghĩ kiểu như thế quanh quẩn trong đầu. Qua thời gian đó thì nó cũng nhạt bớt đi, nhưng thỉnh thoảng vẫn tìm lại.
 
+<!-- more -->
+
 ## 1. Mình là ai trong quá khứ (vài trăm, vài vạn năm trước)
 
 Mình không theo đạo, những suy nghĩ mang tính logic nảy ra trong đầu. Cứ giả sử như có kiếp trước, tại sao mình không nhớ gì, và nếu có tồn tại cái gọi là “kiếp trước” đi nữa thì nó cũng có ý nghĩa gì với cuộc sống hiện tại? Câu trả lời là **Không**, nó chẳng có ý nghĩa gì. Mình chỉ thấy là mình có được may mắn là được sinh ra và tồn tại trong 1 khoảng thời gian không ngắn, không dài trên thế giới này. Cái mà mình sẽ mất đi, có thể là hoàn toàn chỉ trong vài chục năm nữa, KHÔNG BAO GIỜ LẤY LẠI.
