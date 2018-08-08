@@ -103,6 +103,44 @@ markdown:
       <div class="row justify-content-center">
         <div class="col-md-10 col-lg-8">
           <div class="text-block">
+            <h2>Git - from Zero to Hero</h2>
+            <span>Made by Coders.Tokyo</span>
+          </div>
+          <iframe class="mb-4" src="https://www.youtube.com/embed/videoseries?list=PLkY6Xj8Sg8-viFVtaVps_h_Emi2wQyE7q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          <p class="lead">
+            Đã là một người làm lập trình thì không thể không biết cách sử dụng Git. Git giúp bạn quản lý code tốt hơn, làm việc với team một cách dễ dàng hơn. Chuỗi bài giảng này giúp bạn có những kiến thức thực tế, sẽ đi cùng bạn suốt con đường lập trình viên của mình.
+          </p>
+        </div>
+      </div>
+      <!--end of row-->
+    </div>
+    <!--end of container-->
+  </section>
+
+  <section class="text-center">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-10 col-lg-8">
+          <div class="text-block">
+            <h2>UI Design 2018</h2>
+            <span>Made by Coders.Tokyo</span>
+          </div>
+          <iframe class="mb-4" src="https://www.youtube.com/embed/videoseries?list=PLkY6Xj8Sg8-sXiG2d0OVT51dU5ifqoV-e" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          <p class="lead">
+            Để trở thành một Front-end developer tốt, làm ra những sản phẩm đẹp mắt, thân thiện với người dùng, bạn nên có những kiến thức cơ bản về design. Chuỗi bài giảng này là những kiến thức hữu ích, bổ trợ cho khoá học CSS tiếp theo.
+          </p>
+        </div>
+      </div>
+      <!--end of row-->
+    </div>
+    <!--end of container-->
+  </section>
+
+  <section class="text-center bg--secondary">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-10 col-lg-8">
+          <div class="text-block">
             <h2>Live stream videos</h2>
             <span>Made by Coders.Tokyo</span>
           </div>
