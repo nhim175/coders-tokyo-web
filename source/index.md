@@ -1,8 +1,7 @@
 ---
-title: Hội thảo Cùng học lập trình, Cùng nhau đi Nhật 30/6
+title: Coders.Tokyo - Cộng đồng học lập trình miễn phí
+description: Coders.Tokyo là một cộng đồng học lập trình miễn phí, với mong muốn tất cả mọi người ở khắp nơi trên thế giới được học lập trình miễn phí.
 date: 2018-06-03 17:40:47
-photos:
-- https://res.cloudinary.com/djeghcumw/image/upload/v1533219247/blog/Credit:%20Surbhi%20Oberoi.png
 markdown:
   gfm: false
 ---
