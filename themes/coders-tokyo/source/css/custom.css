@@ -1,1 +1,27 @@
 /*! Place your custom styles here */
+.pagination {
+  display: flex;
+  justify-content: center;
+}
+
+.pagination .page-number {
+  display: inline-block;
+  margin: 0;
+  font-weight: 700;
+  line-height: 23px;
+  width: 1.85714286em;
+  height: 1.85714286em;
+  border-radius: 50%;
+  border: 1px solid #ececec;
+  margin: 0px 3px;
+}
+
+.pagination .extend {
+  display: inline-block;
+  margin: 0;
+  font-weight: 700;
+  line-height: 23px;
+  width: 1.85714286em;
+  height: 1.85714286em;
+  margin: 0px 3px;
+}

@@ -17,8 +17,8 @@
           <%- partial('archive-post', {post: post, even: i % 2 == 0}) %>
         <% }) %>
         <% if (page.total > 1){ %>
-          <nav id="page-nav">
-            <% var prev_text = "&laquo; " + __('prev');var next_text = __('next') + " &raquo;"%>
+          <nav id="page-nav" class="pagination">
+            <% var prev_text = "&laquo;" ;var next_text = " &raquo;"%>
             <%- paginator({
               prev_text: prev_text,
               next_text: next_text
