@@ -1,0 +1,22 @@
+version: '3.6'
+
+volumes:
+  # We'll define a volume that will store the data from the npm:
+  npm-node_modules:
+    driver: local
+  npm-global-cache:
+    driver: local
+
+services:
+  web:
+    stdin_open: true
+    tty: true
+    build: .
+    ports:
+      - 4000:4000
+    volumes:
+      - npm-global-cache:/home/root/.npm
+      - .:/home/root/app
+      - npm-node_modules:/home/root/app/node_modules
+    working_dir: /home/root/app
+    command: ./docker.sh
