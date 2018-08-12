@@ -43,6 +43,8 @@ markdown:
     <!--end of container-->
   </section>
 
+  <img class="d-none" src="https://coders.tokyo/images/meta-cover.jpg" />
+
   <section class="cta cta-4 space--xxs">
     <div class="container">
       <div class="row">
