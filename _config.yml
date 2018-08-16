@@ -108,6 +108,11 @@ authors:
 ## Themes: https://hexo.io/themes/
 theme: coders-tokyo
 
+# https://github.com/hexojs/hexo-generator-sitemap
+sitemap:
+  path: sitemap.xml
+  template: ./sitemap_template.xml
+
 # Disqus
 disqus_shortname: coders-tokyo
 
