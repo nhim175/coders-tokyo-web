@@ -180,7 +180,9 @@ Vậy là đến thời điểm này, tôi đã *build* được vài thứ gì 
 
 Vì thế, một lần nữa tôi thử tự *build* vài thứ hay ho bằng chính sức mình. Thay vì nhảy thẳng tới một dự án lớn ngay lập tức, tôi sẽ tìm một *repo* rồi *setup* ứng dụng của mình.
 
-Ví dụ, nếu có một ***GRUD*** online để làm dùng thư viện ReactJs, có thể tôi sẽ *build* một ứng dụng ***GRUD*** khác. Đủ khác để giữ tôi bận rộn, nhưng sẽ không khác đến mức khiến tôi thấy nản lòng nếu gặp vấn đề nào đó không ổn.
+Ví dụ, nếu có một ứng dụng ***CRUD todo app*** dùng thư viện ReactJs, có thể tôi sẽ *build* một ứng dụng ***CRUD*** khác. Đủ khác để làm tôi thấy hứng thú, nhưng sẽ không khác đến mức khiến tôi thấy nản lòng nếu gặp vấn đề nào đó không ổn.
+
+Giải thích: CRUD = Create, Retrieve, Update, Delete là 4 chức năng cơ bản của một ứng dụng đơn giản (Tạo dữ liệu, Lấy và hiển thị dữ liệu, Thay đổi dữ liệu, Xoá dữ liệu). Ví dụ như một app quản lý sinh viên, người dùng sẽ cần Tạo sinh viên mới, Hiển thị danh sách sinh viên, Thay đổi dữ liệu của 1 sinh viên, Xoá 1 sinh viên.
 
 ### Sự tinh thông
 
