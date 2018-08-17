@@ -11,7 +11,7 @@ markdown:
       <div class="row">
         <div class="col-md-6 col-lg-8">
           <h1 class="color--primary">Các bài giảng về lập trình Web.</h1>
-          <h2 class="h1">JavaScript, HTML, CSS</h2>
+          <h2 class="h2">JavaScript, HTML, Git, UI Design, CSS and more.</h2>
           <a class="btn btn--primary type--uppercase"
             href="http://bit.ly/coders-tokyo-signup"
             target="_blank">
