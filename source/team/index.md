@@ -200,6 +200,15 @@ markdown:
         </div>
       </div>
     </div>
+    <div class="row">
+      <div class="col-md-3">
+        <div class="feature feature-8">
+          <img alt="Phạm Quang Đạt" style="width: 128px;" src="/images/team/quang-dat.png" />
+          <h5>Phạm Quang Đạt</h5>
+          <span>Exercise maker</span>
+        </div>
+      </div>
+    </div>
   </section>
 
   <section class="text-center bg--secondary">
