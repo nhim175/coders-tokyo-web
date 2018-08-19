@@ -1,5 +1,6 @@
 ---
-title: team
+title: Đội ngũ phát triển cộng đồng Coders.Tokyo
+description: Những con người đang làm việc chăm chỉ hàng ngày để đem lại nền giáo dục miễn phí cho bạn.
 date: 2018-08-19 12:16:53
 markdown:
   gfm: false
