@@ -60,28 +60,28 @@ markdown:
           <div class="feature feature-8">
             <img alt="Hồng Quang" style="width: 128px;" src="/images/team/quang.png" />
             <h5>Hồng Quang</h5>
-            <span>Writer</span>
+            <span>Translator</span>
           </div>
         </div>
         <div class="col-md-3">
           <div class="feature feature-8">
             <img alt="Minh Phú" style="width: 128px;" src="/images/team/minh-phu.png" />
             <h5>Minh Phú</h5>
-            <span>Writer</span>
+            <span>Translator</span>
           </div>
         </div>
         <div class="col-md-3">
           <div class="feature feature-8">
             <img alt="Trâm Nguyễn" style="width: 128px;" src="/images/team/tram-nguyen.png" />
             <h5>Trâm Nguyễn</h5>
-            <span>Writer</span>
+            <span>Translator</span>
           </div>
         </div>
         <div class="col-md-3">
           <div class="feature feature-8">
             <img alt="Phương Linh" style="width: 128px;" src="/images/team/phuong-linh.png" />
             <h5>Phương Linh</h5>
-            <span>Writer</span>
+            <span>Translator</span>
           </div>
         </div>
       </div>
@@ -90,28 +90,28 @@ markdown:
           <div class="feature feature-8">
             <img alt="Mạnh Cường" style="width: 128px;" src="/images/team/manh-cuong.png" />
             <h5>Mạnh Cường</h5>
-            <span>Writer</span>
+            <span>Translator</span>
           </div>
         </div>
         <div class="col-md-3">
           <div class="feature feature-8">
             <img alt="Vũ Duy" style="width: 128px;" src="/images/team/duy-vu.png" />
             <h5>Vũ Duy</h5>
-            <span>Writer</span>
+            <span>Translator</span>
           </div>
         </div>
         <div class="col-md-3">
           <div class="feature feature-8">
             <img alt="Minh Toàn" style="width: 128px;" src="/images/team/minh-toan.png" />
             <h5>Minh Toàn</h5>
-            <span>Writer</span>
+            <span>Translator</span>
           </div>
         </div>
         <div class="col-md-3">
           <div class="feature feature-8">
             <img alt="Việt Long" style="width: 128px;" src="/images/team/viet-long.png" />
             <h5>Việt Long</h5>
-            <span>Writer</span>
+            <span>Translator</span>
           </div>
         </div>
       </div>
@@ -120,7 +120,7 @@ markdown:
           <div class="feature feature-8">
             <img alt="Ngô Minh" style="width: 128px;" src="/images/team/ngo-minh.png" />
             <h5>Ngô Minh</h5>
-            <span>Writer</span>
+            <span>Translator</span>
           </div>
         </div>
       </div>
@@ -199,13 +199,13 @@ markdown:
           </div>
         </div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-3">
-        <div class="feature feature-8">
-          <img alt="Phạm Quang Đạt" style="width: 128px;" src="/images/team/quang-dat.png" />
-          <h5>Phạm Quang Đạt</h5>
-          <span>Exercise maker</span>
+      <div class="row">
+        <div class="col-md-3">
+          <div class="feature feature-8">
+            <img alt="Phạm Quang Đạt" style="width: 128px;" src="/images/team/quang-dat.png" />
+            <h5>Phạm Quang Đạt</h5>
+            <span>Exercise maker</span>
+          </div>
         </div>
       </div>
     </div>
