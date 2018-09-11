@@ -35,15 +35,14 @@
           <div class="bar__module">
             <ul class="menu-horizontal text-left">
               <% for (var item in theme.menu){ %>
-                <li><a href="<%- url_for(theme.menu[item]) %>"><%= item %></a></li>
+              <li><a href="<%- url_for(theme.menu[item]) %>">
+                  <%= item %></a></li>
               <% } %>
             </ul>
           </div>
           <!--end module-->
           <div class="bar__module">
-            <a class="btn btn--sm btn--primary type--uppercase"
-              target="_blank"
-              href="http://bit.ly/coders-tokyo-signup">
+            <a class="btn btn--sm btn--primary type--uppercase" target="_blank" href="http://school.coders.tokyo/register">
               <span class="btn__text">
                 Đăng ký học
               </span>

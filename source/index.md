@@ -5,6 +5,7 @@ date: 2018-06-03 17:40:47
 markdown:
   gfm: false
 ---
+
 <div class="main-container">
   <section class="cover height-80 text-center">
     <div class="container pos-vertical-center">
@@ -13,7 +14,7 @@ markdown:
           <h1 class="color--primary">Together coding the future.</h1>
           <h2 class="h1">Cùng nhau học lập trình miễn phí.</h2>
           <a class="btn btn--primary type--uppercase"
-            href="http://bit.ly/coders-tokyo-signup"
+            href="http://school.coders.tokyo/register"
             target="_blank">
             <span class="btn__text">
               Đăng ký học
@@ -33,7 +34,7 @@ markdown:
         <div class="col-md-12 text-center">
           <hr>
           <span class="label label--inline">Free</span>
-          <span><a href="http://bit.ly/coders-tokyo-signup" target="_blank"><b>Đăng ký</b></a> để nhận ngay <b class="color--primary-2">khoá học lập trình 1 năm</b> và cơ hội <b class="color--primary-2">đi làm tại Nhật</b> hoàn toàn <b class="color--primary-2">MIỄN PHÍ</b>.</span>
+          <span><a href="http://school.coders.tokyo/register" target="_blank"><b>Đăng ký</b></a> để nhận ngay <b class="color--primary-2">khoá học lập trình 1 năm</b> và cơ hội <b class="color--primary-2">đi làm tại Nhật</b> hoàn toàn <b class="color--primary-2">MIỄN PHÍ</b>.</span>
         </div>
       </div>
       <!--end of row-->
