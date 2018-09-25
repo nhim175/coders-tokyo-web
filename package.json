@@ -5,6 +5,10 @@
   "hexo": {
     "version": "3.7.1"
   },
+  "scripts": {
+    "start": "hexo server",
+    "create-post": "hexo new post"
+  },
   "dependencies": {
     "hexo": "^3.2.0",
     "hexo-authors": "^0.1.0",
