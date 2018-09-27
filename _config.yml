@@ -16,7 +16,7 @@ timezone: Asia/Bangkok
 url: http://coders.tokyo
 root: /
 permalink: :year/:month/:day/:title/
-permalink_defaults:
+? permalink_defaults
 
 # Directory
 source_dir: source
@@ -26,7 +26,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+? skip_render
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -42,7 +42,7 @@ highlight:
   enable: true
   line_number: true
   auto_detect: false
-  tab_replace:
+  ? tab_replace
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
@@ -55,8 +55,8 @@ index_generator:
 
 # Category & Tag
 default_category: uncategorized
-category_map:
-tag_map:
+? category_map
+? tag_map
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
@@ -108,6 +108,9 @@ authors:
   kim_hai:
     name: Kim Hải
     url: https://www.facebook.com/shinichi.pug
+  minh_thong:
+    name: Minh Thông
+    url: https://www.facebook.com/minhthong.lu.58
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
@@ -125,4 +128,4 @@ disqus_shortname: coders-tokyo
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  ? type
