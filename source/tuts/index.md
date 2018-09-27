@@ -144,6 +144,44 @@ markdown:
       <div class="row justify-content-center">
         <div class="col-md-10 col-lg-8">
           <div class="text-block">
+            <h2>Master CSS 2018</h2>
+            <span>Made by Coders.Tokyo</span>
+          </div>
+          <iframe class="mb-4" src="https://www.youtube.com/embed/videoseries?list=PLkY6Xj8Sg8-tdVqf_n14swXtQ71XO2-l7" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          <p class="lead">
+            Các bài giảng về CSS được trình bày một cách dễ hiểu nhất, liên quan chặt chẽ đến khoá UI Design, giúp các bạn hình dung được việc chuyển một thiết kế sang code HTML và CSS như thế nào để hiển thị trên trình duyệt.
+          </p>
+        </div>
+      </div>
+      <!--end of row-->
+    </div>
+    <!--end of container-->
+  </section>
+
+  <section class="text-center">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-10 col-lg-8">
+          <div class="text-block">
+            <h2>Bootstrap 4 in a nutshell</h2>
+            <span>Made by Coders.Tokyo</span>
+          </div>
+          <iframe class="mb-4" src="https://www.youtube.com/embed/videoseries?list=PLkY6Xj8Sg8-ucgEGqlA2F6eO00LlXFaPD" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          <p class="lead">
+            Chuỗi bài giảng ngắn gọn giới thiệu về Bootstrap, các thành phần trong Bootstrap như Grid, Form, ... giúp bạn tự tin làm những trang web responsive hoạt động ngon lành trên Desktop cũng như các thiết bị Mobile.
+          </p>
+        </div>
+      </div>
+      <!--end of row-->
+    </div>
+    <!--end of container-->
+  </section>
+
+  <section class="text-center bg--secondary">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-10 col-lg-8">
+          <div class="text-block">
             <h2>Live stream videos</h2>
             <span>Made by Coders.Tokyo</span>
           </div>
