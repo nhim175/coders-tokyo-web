@@ -11,31 +11,20 @@ markdown:
     </div>
     <div class="container pos-vertical-center">
       <div class="row justify-content-around">
-        <div class="col-lg-5 col-md-7">
-          <div class="switchable__text">
+        <div class="col-sm-8 col-sm-offset-2">
+          <div class="text-center">
             <h1>
-              Cùng học lập trình.<br>
-              Cùng nhau đi Nhật.
+              Cùng học lập trình MIỄN PHÍ.
             </h1>
             <p class="lead">
-              Cùng tham gia để nhận 1 suất học lập trình 1 năm, kèm theo cơ hội được giới thiệu tới các công ty tại Nhật Bản, hoàn toàn MIỄN PHÍ.
+              Cùng tham gia để nhận 1 suất học lập trình 1 năm, kèm theo cơ hội được giới thiệu tới các công ty tại Nhật Bản, hoàn toàn MIỄN PHÍ và nhiều phần quà khác.
             </p>
-            <a class="btn btn--primary type--uppercase" href="http://bit.ly/coders-tokyo-30-6" target="_blank">
+            <a class="btn btn--primary type--uppercase" href="http://bit.ly/coders-tokyo-da-nang" target="_blank">
               <span class="btn__text">
-                Đăng ký tham dự hội thảo 30/6
+                Đăng ký tham dự hội thảo 9/10 tại Đà Nẵng
               </span>
             </a>
           </div>
-        </div>
-        <div class="col-lg-6 col-md-4 col-12">
-          <div class="video-cover border--round box-shadow-wide">
-            <div class="background-image-holder">
-              <img alt="image" src="/images/events/video-cover.jpg" />
-            </div>
-            <div class="video-play-icon"></div>
-            <iframe data-src="https://www.youtube.com/embed/G5QJabuyKJw?VQ=HD720&autoplay=1" allowfullscreen="allowfullscreen"></iframe>
-          </div>
-          <!--end video cover-->
         </div>
       </div>
       <!--end of row-->
@@ -50,7 +39,7 @@ markdown:
       <div class="row">
         <div class="col-md-12 text-center">
           <span class="label label--inline">Support</span>
-          <span>Coders.Tokyo hỗ trợ sinh viên nghèo ở xa chi phí tàu xe, hãy giữ vé tàu xe và mang tới hội thảo.
+          <span>Free 1 đồ uống và gửi xe miễn phí.
           </span>
         </div>
       </div>
@@ -82,21 +71,21 @@ markdown:
           <div class="text-block">
             <h5>Thời gian</h5>
             <p>
-              Ngày 30 tháng 6 năm 2018
+              Ngày 9 tháng 10 năm 2018
             </p>
           </div>
           <div class="text-block">
             <h5>Giờ mở cửa</h5>
             <p>
-              13:30 - 15:30
+              16:30 - 19:00
             </p>
           </div>
           <div class="text-block">
             <h5>Địa điểm</h5>
             <p>
-              Hội trường S5
-              <br> Học viện Kỹ thuật Quân sự
-              <br> 236 Hoàng Quốc Việt
+              ROVER Coffee Shop & Workspace
+              <br> 555 Tôn Đức Thắng, Đà Nẵng
+              <br> <a href="https://goo.gl/maps/smcJ3n2VU7R2" target="_blank">Xem trên Google maps</a>
             </p>
           </div>
         </div>
@@ -124,63 +113,18 @@ markdown:
   <section class="text-center">
     <div class="container">
       <div class="row">
-        <div class="col-md-3">
+        <div class="col-md-3 offset-md-3">
           <div class="feature feature-8">
             <img alt="Thịnh Phạm" style="width: 128px;" src="/images/events/thinh.png" />
             <h5>Thịnh Phạm</h5>
-            <span>Lead Developer @ Zehitomo</span>
+            <span>Founder @ Coders.Tokyo</span>
           </div>
         </div>
         <div class="col-md-3">
           <div class="feature feature-8">
-            <img alt="Prof. Trần Xuân Nam" style="width: 128px;" src="/images/events/prof-nam.png" />
-            <h5>Prof. Trần Xuân Nam</h5>
-            <span>Trưởng Phòng Đào tạo HVKTQS</span>
-          </div>
-        </div>
-        <div class="col-md-3">
-          <div class="feature feature-8">
-            <img alt="Duy Anh" style="width: 128px;" src="/images/events/mr-hung.png" />
-            <h5>Nguyễn Đoàn Hùng</h5>
-            <span>Founder @ KIS Group Companies</span>
-          </div>
-        </div>
-        <div class="col-md-3">
-          <div class="feature feature-8">
-            <img alt="Khoa Bùi" style="width: 128px;" src="/images/events/khoa.png" />
-            <h5>Khoa Bùi</h5>
-            <span>Founder & CEO @ KoiJapan</span>
-          </div>
-        </div>
-      </div>
-      <!--end of row-->
-      <div class="row">
-        <div class="col-md-3 text-center">
-          <div class="feature feature-8">
-            <img alt="Duy Anh" style="width: 128px;" src="/images/events/ngan.png" />
-            <h5>Ngân Nguyễn</h5>
-            <span>Founder & CEO @ Ekoios</span>
-          </div>
-        </div>
-        <div class="col-md-3 text-center">
-          <div class="feature feature-8">
-            <img alt="Duy Anh" style="width: 128px;" src="/images/events/duy-anh.png" />
-            <h5>Duy Anh</h5>
-            <span>Bridge SE @ Framgia</span>
-          </div>
-        </div>
-        <div class="col-md-3 text-center">
-          <div class="feature feature-8">
-            <img alt="Phong Nguyễn" style="width: 128px;" src="/images/events/phong.png" />
-            <h5>Phong Nguyễn</h5>
-            <span>Researcher @ Hitachi</span>
-          </div>
-        </div>
-        <div class="col-md-3 text-center">
-          <div class="feature feature-8">
-            <img alt="Ngọc Long" style="width: 128px;" src="/images/events/long.png" />
-            <h5>Ngọc Long</h5>
-            <span>CEO @ Iteb</span>
+            <img alt="Katsutoshi Yamada" style="width: 128px;" src="/images/events/toshi.png" />
+            <h5>Katsutoshi Yamada</h5>
+            <span>Co-founder @ Coders.Tokyo</span>
           </div>
         </div>
       </div>
@@ -189,68 +133,6 @@ markdown:
   </section>
 
   <section class="bg--secondary">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
-          <h2 class="text-center mb-5">Nhà tài trợ</h2>
-        </div>
-      </div>
-      <!--end of row-->
-    </div>
-    <div class="container">
-      <div class="row mb-5">
-        <div class="col-md-3 text-center col-6 mb-4">
-          <a href="https://www.zehitomo.com" target="_blank">
-            <img alt="Zehitomo" class="image--xxs" src="/images/events/zehitomo.png" />
-          </a>
-        </div>
-        <div class="col-md-3 text-center col-6 mb-4">
-          <a href="http://mta.edu.vn" target="_blank">
-            <img alt="HVKQS" class="image--xxs" src="/images/events/hvktqs.png" />
-          </a>
-        </div>
-        <div class="col-md-3 text-center col-6 mb-4">
-          <a href="http://www.ekoios.jp" target="_blank">
-            <img alt="Ekoios Japan" class="image--xxs" src="/images/events/ekoios.png" />
-          </a>
-        </div>
-        <div class="col-md-3 text-center col-6 mb-4">
-          <a href="http://koijapan.edu.vn" target="_blank">
-            <img alt="KoiJapan" class="image--xxs" src="/images/events/koijapan.png" />
-          </a>
-        </div>
-      </div>
-      <div class="row justify-content-center mb-5">
-        <div class="col-md-3 text-center col-6 mb-4">
-          <a href="http://www.kis-v.com" target="_blank">
-            <img alt="KIS Group" class="image--xxs" src="/images/events/kis.png" />
-          </a>
-        </div>
-        <div class="col-md-3 text-center col-6 mb-4">
-          <a href="#" target="_blank">
-            <img alt="Talenta" class="image--xxs" src="/images/events/talenta.png" />
-          </a>
-        </div>
-        <div class="col-md-3 text-center col-6 mb-4">
-          <a href="#" target="_blank">
-            <img alt="Talenta" class="image--xxs" src="/images/events/iteb.png" />
-          </a>
-        </div>
-        <!--end of col-->
-      </div>
-      <!--end row-->
-      <div class="text-center">
-        <a class="btn type--uppercase" href="mailto:info@coders.tokyo?subject=Đăng ký tài trợ event 30-06" target="_blank">
-          <span class="btn__text">
-            Đăng ký tài trợ
-          </span>
-        </a>
-      </div>
-    </div>
-    <!--end of container-->
-  </section>
-
-  <section>
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-md-10 col-lg-8">
@@ -265,20 +147,15 @@ markdown:
           <p class="lead">
             &mdash; Tại sao Coders.Tokyo được thành lập? - Thịnh Phạm<br>
             &mdash; Học lập trình bắt đầu từ đâu? - Thịnh Phạm<br>
+            &mdash; Nội dung khoá học lập trình web/app full-stack tại Coders.Tokyo - Thịnh Phạm<br>
             &mdash; Chia sẻ kinh nghiệm làm việc 5 năm tại Nhật - Thịnh Phạm<br>
-            &mdash; Giới thiệu về Học viện KTQS và chia sẻ về văn hoá Nhật Bản - Prof. Nam<br>
-            &mdash; Giấc mơ Nhật Bản hay Giấc mơ Mỹ? - Chú Nguyễn Đoàn Hùng<br>
-            &mdash; Giới thiệu về Ekoios và tầm nhìn 10 năm? - Ngân Nguyễn<br>
-            &mdash; Thực tập &amp; phỏng vấn, mục tiêu &amp; phương pháp - Duy Anh<br>
-            &mdash; Giới thiệu về chương trình học tiếng Nhật miễn phí - Khoa Bùi<br>
-            &mdash; Thị trường việc làm tại Nhật Bản - Phong Nguyễn<br>
-            &mdash; Tư vấn việc làm IT tại Nhật Bản miễn phí - Ngân Nguyễn<br>
-            &mdash; Hỏi đáp &amp; tặng quà<br>
+            &mdash; Chia sẻ về cuộc sống tại Nhật và văn hoá làm việc của người Nhật - Katsutoshi Yamada<br>
+            &mdash; Chơi game tặng áo cộng đồng<br>
           </p>
         </div>
       </div>
       <div class="text-center">
-        <a class="btn btn--primary type--uppercase" href="http://bit.ly/coders-tokyo-30-6" target="_blank">
+        <a class="btn btn--primary type--uppercase" href="http://bit.ly/coders-tokyo-da-nang" target="_blank">
           <span class="btn__text">
             Đăng ký tham dự
           </span>
@@ -287,7 +164,7 @@ markdown:
     </div>
   </section>
 
-  <section class="bg--secondary">
+  <section>
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-md-10 col-lg-8">
@@ -306,7 +183,7 @@ markdown:
           <p class="lead text-center"><b>Áo phông Coders.Tokyo</b></p>
           <div class="text-center">
             <a class="btn type--uppercase"
-              href="http://bit.ly/coders-tokyo-30-6"
+              href="http://bit.ly/coders-tokyo-da-nang"
               target="_blank">
               <span class="btn__text">
                 Giới thiệu để nhận quà
@@ -321,38 +198,7 @@ markdown:
     </div>
   </section>
 
-  <section class="bg--dark">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
-          <h2 class="text-center mb-5">Top 10 giới thiệu</h2>
-        </div>
-      </div>
-      <!--end of row-->
-      <div class="row text-center">
-        <div class="col-md-4">
-          <div class="feature feature-8">
-            <img alt="Danh Lợi" style="width: 128px;" src="/images/events/loi.png" />
-            <h5>Danh Lợi</h5>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="feature feature-8">
-            <img alt="Hồng Quang" style="width: 128px;" src="/images/events/quang.png" />
-            <h5>Hồng Quang</h5>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="feature feature-8">
-            <img alt="Lê Tuấn" style="width: 128px;" src="/images/events/tuan.png" />
-            <h5>Lê Tuấn</h5>
-          </div>
-        </div>
-      </div>
-      <!--end of row-->
-    </div>
-
-  </section>
+  <iframe src="https://snazzymaps.com/embed/103627" width="100%" height="600px" style="border:none;"></iframe>
 
   <section class="pb-0">
     <div class="container">

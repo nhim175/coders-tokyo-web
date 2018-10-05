@@ -7,7 +7,9 @@
   },
   "scripts": {
     "start": "hexo server",
-    "create-post": "hexo new post"
+    "create-post": "hexo new post",
+    "build": "hexo generate",
+    "deploy": "firebase deploy"
   },
   "dependencies": {
     "hexo": "^3.2.0",
