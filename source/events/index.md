@@ -1,5 +1,5 @@
 ---
-title: Hội thảo Cùng học lập trình, Cùng nhau đi Nhật 30/6
+title: Hội thảo Cùng học lập trình, Cùng nhau đi Nhật 9/10
 date: 2018-06-03 17:40:47
 markdown:
   gfm: false
