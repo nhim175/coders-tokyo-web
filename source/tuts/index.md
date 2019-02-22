@@ -1,6 +1,6 @@
 ---
-title: Các bài giảng miễn phí về lập trình Web
-description: Các bài giảng miễn phí về lập trình Web bao gồm JavaScript, HTML, CSS
+title: Các bài giảng miễn phí về lập trình Web/App
+description: Các bài giảng miễn phí về lập trình Web bao gồm JavaScript, HTML, CSS, NodeJS, React, Angular
 date: 2018-07-22 13:45:55
 markdown:
   gfm: false
@@ -11,8 +11,8 @@ markdown:
     <div class="container pos-vertical-center">
       <div class="row">
         <div class="col-md-6 col-lg-8">
-          <h1 class="color--primary">Các bài giảng về lập trình Web.</h1>
-          <h2 class="h2">JavaScript, HTML, Git, UI Design, CSS and more.</h2>
+          <h1 class="color--primary">Các bài giảng về lập trình Web/App.</h1>
+          <h2 class="h2">JavaScript, Node, React, Angular and more.</h2>
           <a class="btn btn--primary type--uppercase"
             href="http://school.coders.tokyo/register"
             target="_blank">
@@ -169,6 +169,82 @@ markdown:
           <iframe class="mb-4" src="https://www.youtube.com/embed/videoseries?list=PLkY6Xj8Sg8-ucgEGqlA2F6eO00LlXFaPD" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           <p class="lead">
             Chuỗi bài giảng ngắn gọn giới thiệu về Bootstrap, các thành phần trong Bootstrap như Grid, Form, ... giúp bạn tự tin làm những trang web responsive hoạt động ngon lành trên Desktop cũng như các thiết bị Mobile.
+          </p>
+        </div>
+      </div>
+      <!--end of row-->
+    </div>
+    <!--end of container-->
+  </section>
+
+  <section class="text-center bg--secondary">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-10 col-lg-8">
+          <div class="text-block">
+            <h2>NodeJS Web Server using Express 2018</h2>
+            <span>Made by Coders.Tokyo</span>
+          </div>
+          <iframe class="mb-4" src="https://www.youtube.com/embed/videoseries?list=PLkY6Xj8Sg8-s-m-qFBQFoeNSfpCTBiwMU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          <p class="lead">
+            Chuỗi bài giảng về ExpressJS không chỉ giúp bạn làm chủ được framework này mà còn hiểu được các khái niệm trong lập trình web nói chung như cookie, authentication, template, database... Sau khoá học bạn sẽ có thể tự làm một trang web hoàn chỉnh cho mình.
+          </p>
+        </div>
+      </div>
+      <!--end of row-->
+    </div>
+    <!--end of container-->
+  </section>
+
+  <section class="text-center">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-10 col-lg-8">
+          <div class="text-block">
+            <h2>JavaScript Advanced 2018</h2>
+            <span>Made by Coders.Tokyo</span>
+          </div>
+          <iframe class="mb-4" src="https://www.youtube.com/embed/videoseries?list=PLkY6Xj8Sg8-tVbSFcv-p1yOaHiG8fo0kP" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          <p class="lead">
+            Tổng hợp các kiến thức về các tính năng mới nhất của JavaScript, bước đệm cho chuỗi bài giảng tiếp theo về React.
+          </p>
+        </div>
+      </div>
+      <!--end of row-->
+    </div>
+    <!--end of container-->
+  </section>
+
+  <section class="text-center bg--secondary">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-10 col-lg-8">
+          <div class="text-block">
+            <h2>Tự học React 2018</h2>
+            <span>Made by Coders.Tokyo</span>
+          </div>
+          <iframe class="mb-4" src="https://www.youtube.com/embed/videoseries?list=PLkY6Xj8Sg8-vV5kALCOT0LShKc6mVFBvW" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          <p class="lead">
+            React là một thư viện lớn được phát triển bởi Facebook dùng để xây dựng giao diện người dùng. Khoá học này sẽ giúp bạn có đủ kiến thức để xây dựng một ứng dụng single-page application (SPA) phức tạp và hiệu năng cao. Sau khi học xong khoá học React, bạn sẽ có thể tự tin học khoá tiếp theo về React Native dùng để xây dựng các ứng dụng Mobile.
+          </p>
+        </div>
+      </div>
+      <!--end of row-->
+    </div>
+    <!--end of container-->
+  </section>
+
+  <section class="text-center">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-10 col-lg-8">
+          <div class="text-block">
+            <h2>Tự học Angular 2018</h2>
+            <span>Made by Chau Tran</span>
+          </div>
+          <iframe class="mb-4" src="https://www.youtube.com/embed/videoseries?list=PLkY6Xj8Sg8-uBQaBU8wMLo2CrFkE-9VIZ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          <p class="lead">
+            Không chỉ là một thư viện UI, Angular là một front-end framework bao gồm đầy đủ các component tích hợp như Form validation, Routing, Data binding, ... Angular được phát triển bởi Google sử dụng ngôn ngữ TypeScript làm ngôn ngữ chính.
           </p>
         </div>
       </div>
