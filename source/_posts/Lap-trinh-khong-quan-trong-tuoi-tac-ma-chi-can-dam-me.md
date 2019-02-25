@@ -1,3 +1,9 @@
+---
+title : Lập trình không quan trọng tuổi tác mà chỉ cần đam mê
+date: 2019-02-25 17:08:01
+authorId: minh_thong
+tags:
+---
 # Lập trình không quan trọng tuổi tác mà chỉ cần đam mê
 
 Mình là Thông, năm nay 19 tuổi và đã tự học lập trình được hơn 1 năm. Phải nói là mình thật may mắn khi nhận ra bản thân thích lập trình từ sớm. Có nhiều lợi thế hơn về mặt thời gian để phát triển kỹ năng cho bản thân.
