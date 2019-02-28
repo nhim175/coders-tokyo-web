@@ -1,6 +1,6 @@
 ---
 title : Lập trình không quan trọng tuổi tác mà chỉ cần đam mê
-date: 2019-02-28 11:09:01
+date: 2019-02-28 20:00:01
 authorId: minh_thong
 tags:
 ---
@@ -8,7 +8,7 @@ tags:
 
 Mình năm nay 19 tuổi !! Đã tự học lập trình được gần 2 năm. Mình khá là may mắn khi nhận ra bản thân thích lập trình từ rất sớm. Nên có nhiều lợi thế về mặt thời gian để phát triển và hoàn thiện kỹ năng. Thêm một sự may mắn nữa là mình được tiếp xúc với các tiền bối trong nghành từ rất sớm. Nhờ vậy nên mình đã được định hướng rõ ràng về con đường phía trước và biết bản thân cần phải phải làm những gì.
 
-![Học lập trình muộn vài năm thì sao? Học lập trình trễ có được không?](https://images.unsplash.com/photo-1495704907664-81f74a7efd9b?ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80)
+![Học lập trình muộn vài năm thì sao? Học lập trình trễ có được không?](https://res.cloudinary.com/djeghcumw/image/upload/v1551358425/blog/resized_time.jpg)
 <!-- more -->
 
 Nhưng không phải ai cũng đều thuận lợi và may mắn giống như mình. Đó là lý do mình tham gia cộng đồng này. Chỉ đơn giản là để chia sẽ sự may mắn mà mình đang có đến tất cả những bạn học khác.  
@@ -19,7 +19,7 @@ Nhưng không phải ai cũng đều thuận lợi và may mắn giống như m�
 
 Dù bạn là ai, sinh ra từ đâu và đã từng làm nghề gì đi chăng nữa. Bất cứ ai đều có thể trở thành một lập trình viên ưu tú. Nó không đòi hỏi ta phải có một cái đầu với chỉ số IQ cực cao.
 
-Càng không đòi hỏi gia đình phải có nhiều tiền mới theo học được. Không quan trọng bạn là ai! Chỉ cần có đủ một yếu tố này là có thể theo đuổi nghành lập trình, đó là **"đam mê"!**.
+Càng không đòi hỏi gia đình phải có nhiều tiền mới theo học được. Không quan trọng bạn là ai! Chỉ cần có đủ một yếu tố này là có thể theo đuổi nghành lập trình, đó là **"đam mê"!**
 
 ## Lập trình chỉ cần đam mê là đủ
 
