@@ -19,7 +19,7 @@ Nhưng không phải ai cũng đều thuận lợi và may mắn giống như m�
 
 Dù bạn là ai, sinh ra từ đâu và đã từng làm nghề gì đi chăng nữa. Bất cứ ai đều có thể trở thành một lập trình viên ưu tú. Nó không đòi hỏi ta phải có một cái đầu với chỉ số IQ cực cao.
 
-Càng không đòi hỏi gia đình phải có nhiều tiền mới theo học được. Không quan trọng bạn là ai! Chỉ cần có đủ một yếu tố này là có thể theo đuổi nghành lập trình, đó là **"đam mê"!**
+Càng không đòi hỏi gia đình phải có nhiều tiền mới theo học được. Không quan trọng bạn là ai! Chỉ cần có đủ một yếu tố này là có thể theo đuổi nghành lập trình, đó là **"đam mê"!**.
 
 ## Lập trình chỉ cần đam mê là đủ
 
