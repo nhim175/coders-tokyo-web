@@ -24,7 +24,7 @@ Dưới đây là ví dụ ,mời các bạn click vào ảnh để xem chi ti�
 
 ## 2\. Ẩn các phần tử trong HTML mà không cần dùng CSS.  
 
-Đúng là không đùa, bạn có thể ẩn các phần tử html mà không cần sự trợ giúp của CSS bằng cách sử dụng thuộc tính "hidden". Nó sẽ không hoạt động giống như một CSS hidden. Và sẽ hoạt động giống CSS “display: none”  hơn là CSS “visibility: hidden”. Khi bạn dùng hidden sẽ không tốn dung lượng , trong khi CSS “visibility: hidden” vẫn tốn dung lượng.
+Đúng là không đùa, bạn có thể ẩn các phần tử html mà không cần sự trợ giúp của CSS bằng cách sử dụng thuộc tính "hidden". Nó sẽ không hoạt động giống như một CSS hidden. Và sẽ hoạt động giống CSS `display: none`  hơn là CSS `visibility: hidden`. Khi bạn dùng hidden sẽ không tốn dung lượng , trong khi CSS `visibility: hidden` vẫn tốn dung lượng.
 
 <figure class="wp-block-image">![](https://res.cloudinary.com/djeghcumw/image/upload/v1551205705/blog/Screenshot_from_2019-02-27_01-28-02.png)</figure>
 
