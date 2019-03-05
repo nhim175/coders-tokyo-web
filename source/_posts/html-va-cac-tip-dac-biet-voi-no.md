@@ -5,9 +5,12 @@ authorId: thai_son
 tags:
 ---
 
-![HTML và các "tip" cực kì ngầu với nó!](https://res.cloudinary.com/djeghcumw/image/upload/v1551358425/blog/resized_time.jpg)
+![HTML và các "tip" cực kì ngầu với nó!](https://res.cloudinary.com/djeghcumw/image/upload/v1551793857/blog/blog_css101-main-c_scale_h_534_w_800.jpg)
 
 Thật ra, khi mình học lập trình hay làm bất thứ một chuyện gì đó mình thường tìm hiểu xem nó có mẹo hay tip gì hay ho để tối ưu hóa công việc không ? Và thật may mắn , khi mình lang thang trên các blog nước ngoài thì đã khám phá ra một bài viết cực kì bổ ích về các mẹo trong HTML. Nên hôm nay , mình quyết định làm bài viết này cho anh em cùng nhau đàm đạo nhé.
+
+
+<!-- more -->
 
 ## 1\. HTML và Map Images
 
@@ -62,7 +65,7 @@ Thông thường bạn biết đến với cách set chiều dài và chiều r�
 
 ## Kết Luận!
 
-Đó là những tip mà mình tình cờ thu thập được . Nếu bạn muốn tìm hiểu kỹ hơn về trang Web , hãy truy cập http://school.coders.tokyo/ . Với hệ thống bài giảng,bài tập phong phú và cực kì chất lượng , mình hi vọng bạn sẽ tự tay làm một trang Web thật tuyệt vời.
+Đó là những tip mà mình tình cờ thu thập được . Nếu bạn muốn tìm hiểu kỹ hơn về trang Web , hãy truy cập [Coders.Tokyo](https://coders.tokyo/) . Với hệ thống bài giảng,bài tập phong phú và cực kì chất lượng , mình hi vọng bạn sẽ tự tay làm một trang Web thật tuyệt vời.
 
 ## Các tài liệu mà mình <g class="gr_ gr_3 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" id="3" data-gr-id="3">tham</g> khảo :
 
