@@ -25,3 +25,18 @@
   height: 1.85714286em;
   margin: 0px 3px;
 }
+
+/* Fix list style in blog post */
+article .article__body ul {
+  list-style: initial;
+  margin-left: 1rem;
+}
+
+article .article__body ul ul {
+  list-style-type: circle;
+}
+
+article .article__body p,
+article .article__body ul {
+  font-size: 1.35714286rem;
+}
