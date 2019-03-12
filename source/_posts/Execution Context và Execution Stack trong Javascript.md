@@ -33,7 +33,7 @@ Mỗi lần 1 function được _invoked_, sẽ có 1 **excution context** mới
 
 Và có thể có rất nhiều \*function **execution context\***. Bất kể khi nào 1 **execution context** mới được gọi. Nó sẽ trải qua 1 chuỗi các *steps* theo thứ tự xác định - ta sẽ thảo luận nó sau.
 
-#### **Eval Function Execution Context**
+#### Eval Function Execution Context
 
 - Code mà được *executed* bên trong 1 `eval` function cũng có những execution context riêng của nó, nhưng vì `eval` không được sử dụng nhiều bởi các developers JavaScript, nên ta sẽ không thảo luận nó trong bài này.
 
@@ -132,7 +132,7 @@ Lexical environment lại được chia tiếp ra thành 2 loại:
 - (vd. array methods) bên trong **environment record** như các variables được người dùng định nghĩa. Và value of `this` sẽ tham chiếu tới global object.
 - **Function environment:** Tại đây, các variables được định nghĩa bên trong function sẽ được lưu giữ tại **environment record**. Sự tham chiếu tới outer environment có thể là global environment hoặc 1 **outer function environment** đang chứa **inner function**
 
-#### **Chú ý**
+#### Chú ý
 
 Với **function environment**, *environment record* còn chứa 1 `arguments` object mà nó *contain* mapping giữa các *index* và các *argument*được truyền vào function và *length number* của những arguments đó nữa. Ví dụ 1 argument object của function phía dưới được thể hiện như sau:
 
@@ -240,7 +240,7 @@ The **exec context** sẽ được biểu diễn như sau:
       }
     }
 
-#### **Chú ý**
+#### Chú ý
 
 Function **exec context** chỉ được tạo ra khi lời gọi `multiply`functon được *encountered*.
 
