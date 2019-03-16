@@ -40,3 +40,7 @@ article .article__body p,
 article .article__body ul {
   font-size: 1.35714286rem;
 }
+
+article .article__body pre {
+  padding: 0;
+}
