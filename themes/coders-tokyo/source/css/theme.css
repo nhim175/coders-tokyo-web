@@ -8554,7 +8554,7 @@ article .article__body ul {
   font-size: 1.35714286em;
   line-height: 1.68421053em;
   font-weight: 400;
-  color: #808080;
+  color: #555;
 }
 article .article__body p:not(:last-child),
 article .article__body ul:not(:last-child) {
