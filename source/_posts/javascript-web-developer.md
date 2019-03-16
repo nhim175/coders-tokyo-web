@@ -1,12 +1,11 @@
 ---
 title: Javascript, điều gì khiến ngôn ngữ này phát triển nhanh đến vậy?
-date: 2019-09-05 20:00:00
+date: 2019-03-09 20:00:00
 authorId: khanh_duc
 tags:
 ---
 
 ![Javascript, điều gì khiến ngôn ngữ này phát triển nhanh đến vậy?](https://cdn.lynda.com/course/417077/417077-636807318405711475-16x9.jpg)
-
 
 Javascript trước đây được tích hợp vào bên trong trình duyệt để hỗ trợ chúng ta tương tác nhiều hơn với website. Trong những năm gần đây, ngôn ngữ này phát triển mạnh mẽ và đã lấn sang rất nhiều mảng khác.
 
@@ -18,12 +17,12 @@ Với JavaScript bạn hoàn toàn có thể làm FullStack một website mà kh
 
 Pure JavaScript là một thuật ngữ ám chỉ việc dùng JavaScipt thuần túy. Không sử dụng thư viện hay Framework gì khác. Vậy Pure JavaScript thường được sử dụng như thế nào? Dưới đây là một vài ví dụ điển hình thường thấy!
 
-*   Thao tác và xử lý các đối tượng HTML.
-*   Thêm nội dung mà không phải load lại toàn bộ trang.
-*   Kiểm tra dữ liệu được nhập vào form.
-*   Là nền tảng sinh ra những thư viện và framework cho Front End như Rx.js, Vue.js...
-*   Và chắc chắn không thể không kể đến điều tạo nên 1 website hiện đại các hiệu ứng và animation.
-*   ...
+- Thao tác và xử lý các đối tượng HTML.
+- Thêm nội dung mà không phải load lại toàn bộ trang.
+- Kiểm tra dữ liệu được nhập vào form.
+- Là nền tảng sinh ra những thư viện và framework cho Front End như Rx.js, Vue.js...
+- Và chắc chắn không thể không kể đến điều tạo nên 1 website hiện đại các hiệu ứng và animation.
+- ...
 
 ## Tại sao Javascript lại được ưu tiên đến vậy?
 
@@ -46,7 +45,7 @@ Microsoft đã tự đưa vào trình duyệt của mình một cơ chế chạy
 
 ## Đâu là hồi kết?
 
-Sự thay đổi lớn nhất diễn ra sau khi JScript trên trình duyệt IE ra đời đó là Netscape's JavaScript engine còn được gọi là SpiderMonkey mà chúng ta vẫn thấy FireFox hiện tại vẫn đang dùng. Đó là 1 sự thay đổi lớn trong đội developers của Netscape đứng đầu là Eich đã làm nó Javascript dễ sử dụng clean hơn. Những năm tiếp theo đó thì JScript và [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey) engine thống trị. Sau đó được đổi tên vào những năm gần đây thành [Charkra](https://en.wikipedia.org/wiki/Chakra_(JScript_engine)) (IE), [Rhino](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino), [V8](https://v8.dev/)
+Sự thay đổi lớn nhất diễn ra sau khi JScript trên trình duyệt IE ra đời đó là Netscape's JavaScript engine còn được gọi là SpiderMonkey mà chúng ta vẫn thấy FireFox hiện tại vẫn đang dùng. Đó là 1 sự thay đổi lớn trong đội developers của Netscape đứng đầu là Eich đã làm nó Javascript dễ sử dụng clean hơn. Những năm tiếp theo đó thì JScript và [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey) engine thống trị. Sau đó được đổi tên vào những năm gần đây thành [Charkra](<https://en.wikipedia.org/wiki/Chakra_(JScript_engine)>) (IE), [Rhino](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino), [V8](https://v8.dev/)
 
 <div class="wp-block-image">
 
@@ -61,13 +60,13 @@ Những điều trên đủ để thấy bề dày của Javascript. Và đây l
 
 ## Vậy hiện nay điều gì ở Javascript, ta phải học nếu muốn là nhà phát triển website?
 
-*   Javascript có mặt ở mọi nơi:
-    *   JavaScript đã tồn tại hơn hai mươi năm, có nghĩa là bạn sẽ thấy nó chạy ở mọi nơi bạn có thể tưởng tượng. Một số trang web nổi tiếng như eBay, Linkedin, Amazon và Facebook được xây dựng trên JavaScript. Trình duyệt web là một trong những ứng dụng được sử dụng nhiều nhất trên cả máy tính để bàn và thiết bị di động. Với ngày càng nhiều dịch vụ bằng web, JavaScript sẽ chỉ tăng mức độ phổ biến và nói chung. Hiện tại rất nhiều cải tiến kỹ thuật đang diễn ra trên JavaScript.
-*   Nếu bạn có Javascript đang và sẽ được trả rất tốt trong hiện tại và tương lai:
-    *   Thực tế cho thấy tại Việt Nam thì ta có thể thấy hằng ngàn nhu cầu tuyển dụng các Framework Javascript
-    *   Và những job có sử dụng Javascript cũng được nằm trong top đầu về lương
-*   Cộng đồng sử dụng js nhiều và đa dạng.
-    *   Có thể thấy mức độ phủ của js là như thế nào trên [bảng khảo sát của githut](https://githut.info/)
+- Javascript có mặt ở mọi nơi:
+  - JavaScript đã tồn tại hơn hai mươi năm, có nghĩa là bạn sẽ thấy nó chạy ở mọi nơi bạn có thể tưởng tượng. Một số trang web nổi tiếng như eBay, Linkedin, Amazon và Facebook được xây dựng trên JavaScript. Trình duyệt web là một trong những ứng dụng được sử dụng nhiều nhất trên cả máy tính để bàn và thiết bị di động. Với ngày càng nhiều dịch vụ bằng web, JavaScript sẽ chỉ tăng mức độ phổ biến và nói chung. Hiện tại rất nhiều cải tiến kỹ thuật đang diễn ra trên JavaScript.
+- Nếu bạn có Javascript đang và sẽ được trả rất tốt trong hiện tại và tương lai:
+  - Thực tế cho thấy tại Việt Nam thì ta có thể thấy hằng ngàn nhu cầu tuyển dụng các Framework Javascript
+  - Và những job có sử dụng Javascript cũng được nằm trong top đầu về lương
+- Cộng đồng sử dụng js nhiều và đa dạng.
+  - Có thể thấy mức độ phủ của js là như thế nào trên [bảng khảo sát của githut](https://githut.info/)
 
 <div class="wp-block-image">
 
