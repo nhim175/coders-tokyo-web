@@ -32,15 +32,30 @@ article .article__body ul {
   margin-left: 1rem;
 }
 
+article .article__body ol {
+  margin-left: 1rem;
+}
+
+article .article__body ol li {
+  margin-bottom: 0;
+}
+
 article .article__body ul ul {
   list-style-type: circle;
 }
 
 article .article__body p,
-article .article__body ul {
+article .article__body ul,
+article .article__body ol {
   font-size: 1.35714286rem;
 }
 
 article .article__body pre {
   padding: 0;
+}
+
+article .article__body h2,
+article .article__body h3,
+article .article__body h4 {
+  font-weight: 600;
 }
