@@ -176,13 +176,13 @@ Hoặc bạn có thể thay đổi giá trị của element mong muốn, trong l
 ### Array.slice  
 
 Phương pháp này thường đươc sử dụng để trả về một tập hợp con, bắt đầu từ một chỉ mục cụ thể và kết thúc tùy ý tại một chỉ mục cụ thể của mảng ban đầu. Khi bạn sử dụng `array.slice()` hoặc `array.slice(0)` bạn sẽ sao chép nó với một bản sao của array ban đầu.
-
+```javascript
     const a = [1,2,3]
     let b = a.slice(0)
     b[1] = 4
     console.log(b[1]) // 4
     console.log(a[1]) // 2
-
+```
 ### Nested arrays
 
 Giống như một **object,** sử dụng phương pháp trên để sao chép một array với array hoặc object khác lồng trong nó, sẽ gây ra **shallow copy.** Để khắc phục nó, bạn phải sử dụng `JSON.parse(JSON.stringify(someArray))`
@@ -252,4 +252,3 @@ Như đề cập ở trước, bạn không thể `stringify + parse` chúng, v�
 
 ## Nguồn tham khảo: 
 * https://medium.freecodecamp.org/copying-stuff-in-javascript-how-to-differentiate-between-deep-and-shallow-copies-b6d8c1ef09cd
-
