@@ -239,6 +239,7 @@ const [xDistance, yDistance] = getDistance(position1, position2);
 _Giải thích_:
 
 - `[x1 = 0, y1 = 0]`: Đoạn code này đơn giản là bạn muốn 1 array với 2 positions. Với `index 0 = x1`, `index 1 = y1`. Trong trường hợp parameters truyền vào có ít hơn 2 giá trị, hoặc empty, thì x1 và x2 sẽ được gán = 0\. Chú ý rằng bạn có thể truyền vào 1 empty array chứ không được **omit** nó, không là bug ngay!
+
 - `const [xDistance, yDistance] = getDistance(position1, position2)`: Đoạn code này nghĩa là function `getDistance` sẽ return an array. Thay vì lưu array này trong 1 `variable`, thì bạn đã assign index 0 và 1 vào trong `xDistance` và `yDistance` 1 cách lần lượt rồi.
 
 ### Làm việc với data
