@@ -43,7 +43,7 @@ Google nhận định rằng E-A-T là một trong 3 cân nhắc cho chất lư�
 
 ![E-A-T](https://res.cloudinary.com/djeghcumw/image/upload/v1553492534/blog/e-a-t-blog1.png)
 
-Tại Sao E-A-T Thực Sự Quan Trọng Cho Trang Web Của Bạn?
+## Tại Sao E-A-T Thực Sự Quan Trọng Cho Trang Web Của Bạn?
 -------------------------------------------------------
 
 Vậy tại sao nếu có chuyên môn, thẩm quyền và sự tin cậy lại ý nghĩa như vậy? Sau tất cả, hướng dẫn đánh giá của Google không ảnh hưởng đến thứ hạng trang web.
@@ -52,7 +52,7 @@ Cực kì quan trọng, E-A-T quyết định giá trị của 1 trang web. Các
 
 Sự hài lòng khi đọc, chia sẻ hoặc đề xuất nội dung của người dùng sẽ mang lại cao mức độ E-A-T cho trang của bạn. E-A-T đóng vai trò rất lớn khi Google đánh giá chất lượng, là lí do người dùng sử dụng trang web của bạn.
 
-Mối Quan Hệ Giữa E-A-T và “Your Money or Your Life”
+## Mối Quan Hệ Giữa E-A-T và “Your Money or Your Life”
 ---------------------------------------------------
 
 Vậy tại sao E-A-T ảnh hưởng số lượng truy cập của bạn?
@@ -68,7 +68,7 @@ Các trang YMYL có thứ hạng cao hiển thị mức độ E-A-T cao. Càng c
 
 Các trang đưa ra được các lời khuyên hữu ích hoặc giải pháp cho một vấn đề thường đáp ứng được những nhu cầu trên thay vì các trang cố gắng đánh lừa hệ thống đánh giá của Google.
 
-E-A-T Là Cốt Lõi Của Vấn Đề
+## E-A-T Là Cốt Lõi Của Vấn Đề
 ---------------------------
 
 Trang của bạn thật sự hữu ích như những gì bạn đặt vào nó. Bạn cần chắc chắn rằng trang của mình đáp ứng các yêu cầu của Google. Điều đó càng quan trọng hơn nếu trang của bạn là một trang YMYL.
