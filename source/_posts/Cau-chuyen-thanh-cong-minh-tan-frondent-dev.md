@@ -5,7 +5,6 @@ authorId: hong_quang
 tags:
 ---
 
-
 <figure class="wp-block-image">![Success Story Coders Tokyo](https://res.cloudinary.com/djeghcumw/image/upload/v1553746144/blog/shutterstock_300479180-653x339.jpg)</figure>
 
 Tiếp theo chuyên mục "Câu chuyện thành công" của những học viên tại Coders.Tokyo, hôm nay phóng viên (PV) Hồng Quang của tòa báo Coders Tokyo Content Team sẽ phỏng vấn anh chàng Minh Tân (MT) - vừa được nhận làm nhân viên chính thức của công ty Everydoy.
