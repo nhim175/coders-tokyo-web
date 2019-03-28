@@ -1,8 +1,7 @@
 ---
-title: [Câu chuyện thành công] Minh Tân Fresher frontend
+title: "[Câu chuyện thành công] Minh Tân Fresher frontend"
 date: 2019-03-28 18:19:07
 authorId: hong_quang
-tags:
 ---
 
 <figure class="wp-block-image">![Success Story Coders Tokyo](https://res.cloudinary.com/djeghcumw/image/upload/v1553746144/blog/shutterstock_300479180-653x339.jpg)</figure>
