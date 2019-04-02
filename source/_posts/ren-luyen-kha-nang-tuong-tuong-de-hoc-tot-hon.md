@@ -7,49 +7,49 @@ tags:
 
 ![Rèn luyện khả năng tưởng tượng để học tốt hơn](https://res.cloudinary.com/djeghcumw/image/upload/v1533971468/blog/iStock-621827458-1600x1068.jpg)
 
-Thông thường những người thông minh học sẽ thường đọc rất nhiều sách. Đó là bằng chứng được thống kê bởi các nhà nghiêng cứu tại đại học Harvard University. Hằng năm trung bình những doanh nhân thành đạt tại Mỹ đọc ít nhất 100 quyển sách.
+Thông thường những người thông minh học sẽ đọc rất nhiều sách. Đó là số liệu đã được thống kê bởi những nhà nghiêng cứu tại đại học Harvard. Những doanh nhân thành đạt tại Mỹ đọc ít nhất 100 quyển sách mỗi năm. Điều đặt biệt ở đây là họ có một điểm chung rất hay trong để đọc và hiểu nhanh nội dung trong sách!
 
 <!--more-->
 
 # Rèn luyện khả năng tưởng tượng để học tốt hơn
 
-Mình là Thông, một thành viên gắn bó khá lâu tại Coders.Tokyo! Sau những bài viết và các sản phẩm được chia sẽ trên Facebook của mình. Có rất nhiều bạn hỏi mình về quá trình học và cách học như thế nào! Do không thể trả lời hết được nên mình quyết định viết Blog này để chia sẽ với các bạn.
+Mình là Thông, một thành viên gắn bó đã lâu tại cộng đồng Coders.Tokyo! Sau nhiều bài viết và các sản phẩm được chia sẽ trên Fanpage và Facebook của mình. Có rất nhiều bạn hỏi mình về cách học và quá trình học như thế nào! Do mình không thể trả lời hết cho từng bạn được nên mình quyết định viết Blog này như câu trả lời chung cho những ai có cùng thắc mắc.
 
-Mấu chốt học nhanh của mình nằm ở sự tưởng tượng. Mình có khả năng tưởng tượng mọi thứ theo nhiều chiều hướng phong phú. Mình sẽ chia sẽ với bạn quá trình học và cách học của mình. Nhưng trước hết mình muốn chia sẽ về sức mạnh của sự tưởng tượng vì nó thật sự rất kỳ diệu!!
+Thật ra, mấu chốt học nhanh của mình chủ yếu là ở sự tưởng tượng trong lúc học. Mình thường tưởng tượng mọi thứ, mọi vấn đề theo nhiều khía cạnh phong phú. Và điều đó đã giúp mình học và tiếp thu nhanh hơn rất nhiều. Hôm nay, mình muốn chia sẽ với các bạn về lợi ích và sức mạnh của sự tưởng tượng vì nó thật sự rất kỳ diệu!!
 
 ## Sức mạnh của sự tưởng tượng
 
-Thông thường những người thông minh học sẽ thường đọc rất nhiều sách. Đó là bằng chứng được thống kê bởi các nhà nghiêng cứu tại đại học Harvard University. Hằng năm trung bình những doanh nhân thành đạt tại Mỹ đọc ít nhất 100 quyển sách.
+Thông thường những người thông minh học sẽ thường đọc rất nhiều sách. Đó là bằng chứng được thống kê bởi các nhà nghiêng cứu tại đại học Harvard. Những doanh nhân thành đạt tại Mỹ đọc ít nhất 100 quyển sách mỗi năm. Điều đặt biệt ở đây là họ có một điểm chung rất hay trong để đọc và hiểu nhanh nội dung trong sách!
 
-Và điều tuyệt vời là họ không chỉ đọc để thư giãn và giải trí. Họ đọc để cập nhật và tìm kiếm kiến thức mới cho bản thân. Điều kỳ lạ ở đây là học đọc rất nhanh nhưng lại hiểu rất rõ nội dung trong sách. Thậm chí là họ nhớ như in những điểm quan trọng trong quyển sách họ đọc.
+Việc đọc sách giúp họ thư giãn và giải trí, nhưng không dừng lại ở đó. Họ đọc để cập nhật và tìm kiếm kiến thức mới cho bản thân. Điều kỳ lạ ở đây là học đọc rất nhanh nhưng lại hiểu rất rõ nội dung trong sách. Thậm chí là họ nhớ rất rõ ràng các tình tiết và mấu chốt của những điểm quan trọng trong quyển sách họ đọc.
 
-Sau một thời gian tìm tòi về cách mà những người thành công như Bill Gates, Obama hay Jeff Bezos. Mình tìm thấy được điểm chung giữa những người này... Đó là họ vừa đọc vừa tưởng tượng mọi thứ trong đầu.
+Sau một thời gian mình tìm hiểu về cách đọc sách của những người thành công như Bill Gates, Obama hay Jeff Bezos. Cuối cùng thì mình cũng tìm thấy được điểm chung giữa những người này... Tất cả họ đều tưởng tượng mọi thứ trong đầu trong lúc đọc sách để tiếp cận nội dung sách tốt hơn.
 
 ### Tưởng tượng giúp não hoạt động đa dạng hơn
 
-Khi họ đọc sách và liên tục tưởng tượng ra các viễn cảnh trong đầu. Não của họ sẽ hoạt động hơn 60% và liên tục như thế. Nhưng nó lại không khiến họ bị rơi vào trạng thái Stress hay căng thẳng.
+Khi đọc sách, họ liên tục tưởng tượng ra các viễn cảnh và tình tiết. Não của họ sẽ hoạt động hơn 40% và liên tục như thế. Tuy nhiên, dù não hoạt động liên tục nhưng lại không khiến họ bị rơi vào trạng thái Stress hay căng thẳng.
 
-Đây là điểm tuyệt vời của bộ não của chúng ta. Khi chúng ta đọc sách và để não mình tự do tưởng tượng ra các khung cảng, sự vật sự việc trong truyện. Chúng ta sẽ được nhận một loại hoocmon (mình không nhớ rõ tên của loại hoocmon này). Loại hoocmon này sẽ kích thích não và mang lại cho chúng ta cảm giác như được phiêu lưu và hoà mình vào viễn cảnh trong sách.
+Đây là điểm tuyệt vời của bộ não của chúng ta. Khi chúng ta đọc sách và để não mình tự do tưởng tượng ra các khung cảnh, sự vật sự việc trong đó. Chúng ta sẽ được nhận một loại hoocmon (mình không nhớ rõ tên của loại hoocmon này). Loại hoocmon này sẽ kích thích não và mang lại cho chúng ta cảm giác như được phiêu lưu và hoà mình vào viễn cảnh trong sách.
 
 Do đó sẽ tạo cảm giác thoải mái và vui vẻ khi chúng ta đọc sách và để não tự do tưởng tượng. Đó cũng là cách có thể áp dụng để tập thể dục cho não bộ mà không lo bị Stress.
 
 ![Rèn luyện khả năng tưởng tượng để học tốt hơn](https://res.cloudinary.com/djeghcumw/image/upload/v1533971468/blog/iStock-621827458-1600x1068.jpg)
 
-### Vì dụ thực tế
+### Ví dụ thực tế
 
 Đã đến lúc cho các bạn thấy sự hiểu quả của việc tưởng tượng. Đây là câu chuyện mình thường trải qua và cũng đã trở thành thói quen của mình từ rât lâu rồi.
 
-Mẹ mình thường dặn mình đi siêu thị mua những thứ cần thiết cho mẹ. Nhưng mình thường không dòm danh sách, mà thay vào đó mình tìm cách để nhớ rõ mọi thứ sau khi xem qua danh sách mà mẹ đưa 1 vài lần.
+Mẹ mình thường dặn mình đi siêu thị mua những thứ cần thiết cho mẹ. Nhưng mình thường không cầm theo danh sách khi đi mua. Thay vào đó, mình sẽ tìm cách để nhớ rõ mọi thứ sau khi xem qua danh sách mà mẹ đưa 1 vài lần.
 
-Gần đây nhất, mẹ nhờ mình mua **2 vĩ trứng, 1 gói bột mì, một bộ thìa và 1 chai nước mắm, 2 ký thịt bò.** Mình xem qua danh sách 2 lần và mình đã đi mua không hề sót bất cứ món gì.
+Gần đây nhất, mẹ có nhờ mình mua **2 vĩ trứng, 1 gói bột mì, một bộ thìa và 1 chai nước mắm, 2 ký thịt bò.** Mình xem qua danh sách 2 lần để nhở và đi mua không hề sót bất cứ món gì.
 
 #### Tưởng tượng để ghi nhớ
 
-Vậy mình đã làm gì để nhớ đống danh sách đó chi sau 1 lần nhìn qua? Mình đã **tưởng tượng** thành một câu chuyện để nhớ. Và câu chuyện của mình tưởng tượng như sau:
+Vậy mình đã làm gì để nhớ đống danh sách đó chi sau 2 lần nhìn qua? Mình đã **tưởng tượng** thành một câu chuyện để nhớ. Và câu chuyện của mình tưởng tượng như sau:
 
 > Mình sẽ lấy **2 vĩ trứng** trộn với **1 gói bột mì** rồi dùng cả bộ thìa để ngồi đánh lên để tạo ra hỗn hợp bột trứng. Sau đó mình sẽ tạt đống này vào thằng bạn thân của mình. Nó tức giận vào nhà lấy **chai nước mắm** ra tạt lại mình. Xong 2 đứa đánh nhau đến kiệt sức... Mẹ thấy tội quá nên mua tận **2 kí thịt bò** về xào cho mình ăn để bồi bổ lại.
 
-Thường thì những câu chuyện phi lí, có nội dung xàm xí sẽ khiến bạn khó chịu và nhớ nó khá lâu. Do đó mình đã tự tưởng tượng ra một mẫu chuyện xàm để nhớ đống danh sách đó. Đây là một trong những ví dụ cho thấy sự tưởng tượng sẽ có thể giúp bạn rất nhiều trong việc học.
+Thường thì những câu chuyện phi lí, có nội dung xàm xí sẽ khiến bạn khó chịu và nhớ nó khá lâu. Do đó mình đã tự tưởng tượng ra một mẫu chuyện hơi xàm xí một tí để nhớ đống danh sách đó. Đây là một trong những ví dụ cho thấy sự tưởng tượng sẽ có thể giúp bạn rất nhiều trong việc học.
 
 ### Áp dụng vào việc học
 
