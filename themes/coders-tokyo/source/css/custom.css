@@ -59,3 +59,35 @@ article .article__body h3,
 article .article__body h4 {
   font-weight: 600;
 }
+
+/* Lmint CSS */
+.course-board {
+  padding: 0 4.5rem;
+}
+
+.course {
+  box-sizing: border-box;
+  padding: 6px 1.8rem;
+}
+
+.text-block {
+  margin-bottom: 1rem;
+}
+
+.text-block h2 {
+  color: #4a90e2;
+  font-size: 1.65rem;
+  font-weight: 500;
+  margin-bottom: 0.2rem;
+}
+
+.lead {
+  font-size: 1.124rem;
+}
+
+@media (max-width: 768px) {
+  .course {
+    padding: 6px 12px;
+    text-align: center;
+  }
+}

@@ -27,7 +27,7 @@ markdown:
     </div>
     <!--end of container-->
   </section>
-  
+
   <img class="d-none" src="https://coders.tokyo/images/meta-cover.jpg" />
 
   <section class="cta cta-4 space--xxs unpad--bottom">
@@ -44,10 +44,10 @@ markdown:
     <!--end of container-->
   </section>
 
-  <section class="text-center">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
+  <section>
+    <div class="container-fluid course-board">
+      <div class="row justify-content-md-center justify-content-lg-start">
+        <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
             <h2>Định hướng học lập trình</h2>
             <span>Made by Coders.Tokyo</span>
@@ -57,54 +57,36 @@ markdown:
             Community founder cũng đã từng trải qua quá trình tự học lập trình giống như bạn bây giờ. Chuỗi video định hướng giúp định hướng các bạn muốn học lập trình mà chưa biết bắt đầu từ đâu. Các video chủ yếu nói về cách học hiệu quả, trình tự học.
           </p>
         </div>
-      </div>
-      <!--end of row-->
-    </div>
-    <!--end of container-->
-  </section>
-
-  <section class="text-center bg--secondary">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
+        <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
             <h2>JavaScript từ A-Z 2018</h2>
             <span>Made by Coders.Tokyo</span>
           </div>
           <iframe class="mb-4" src="https://www.youtube.com/embed/videoseries?list=PLkY6Xj8Sg8-uPZnTdScfuH0xD-O6Kb-V-" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           <p class="lead">
-            Nếu bạn người mới bắt đầu học lập trình, bạn nên học một ngôn ngữ lập trình trước để làm quen với tư duy, cách hoạt động của máy tính. Thứ tự học làm web <strong>đã trở nên lỗi thời</strong> là: HTML/CSS/JS. Thứ tự mới sẽ là: JS/HTML/CSS. Ngoài ra, nếu bạn đang làm web developer, nên xem lại để củng cố kiến thức, JavaScript là một ngôn ngữ dễ học nhưng khó làm chủ.
+            Khi bắt đầu học lập trình, bạn nên học một ngôn ngữ lập trình trước để học cách tư duy. Thế nên chúng ta sẽ học theo tự &nbsp;<strong>JS - HTML - CSS</strong>. Những web developer cũng nên xem lại để củng cố kiến thức. JavaScript là một ngôn ngữ dễ học nhưng khó làm chủ.
           </p>
         </div>
-      </div>
-      <!--end of row-->
-    </div>
-    <!--end of container-->
-  </section>
-
-  <section class="text-center">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
+        <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
             <h2>HTML for dummies</h2>
             <span>Made by Coders.Tokyo</span>
           </div>
           <iframe class="mb-4" src="https://www.youtube.com/embed/videoseries?list=PLkY6Xj8Sg8-ueeAEQWHW1HeMf0IvZg6Xy" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           <p class="lead">
-            Chuỗi bài giảng về HTML bao gồm các kiến thức khác có liên quan tới lập trình web như Web server, Network, những bài giảng mà bạn ít khi gặp khi đi học ở các trung tâm dạy lập trình. Ngoài ra các bạn sẽ được học HTML DOM để biết cách sử dụng JavaScript để điều khiển, thay đổi nội dung trang web, làm cho trang web của bạn trở nên "động" hơn.
+            Chuỗi HTML này bao gồm các kiến thức khác có liên quan tới lập trình web như Web server & Network. Ngoài ra bạn sẽ được học cách sử dụng JavaScript để điều khiển HTML DOM làm thay đổi nội dung trang web giúp web của bạn trở nên "động" hơn.
           </p>
         </div>
+        <!-- End of row -->
       </div>
-      <!--end of row-->
+      <!-- End of container -->
     </div>
-    <!--end of container-->
   </section>
 
-  <section class="text-center bg--secondary">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
+  <section class="bg--secondary">
+    <div class="container-fluid course-board">
+      <div class="row justify-content-md-center justify-content-lg-start">
+        <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
             <h2>Git - from Zero to Hero</h2>
             <span>Made by Coders.Tokyo</span>
@@ -114,16 +96,7 @@ markdown:
             Đã là một người làm lập trình thì không thể không biết cách sử dụng Git. Git giúp bạn quản lý code tốt hơn, làm việc với team một cách dễ dàng hơn. Chuỗi bài giảng này giúp bạn có những kiến thức thực tế, sẽ đi cùng bạn suốt con đường lập trình viên của mình.
           </p>
         </div>
-      </div>
-      <!--end of row-->
-    </div>
-    <!--end of container-->
-  </section>
-
-  <section class="text-center">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
+        <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
             <h2>UI Design 2018</h2>
             <span>Made by Coders.Tokyo</span>
@@ -133,16 +106,7 @@ markdown:
             Để trở thành một Front-end developer tốt, làm ra những sản phẩm đẹp mắt, thân thiện với người dùng, bạn nên có những kiến thức cơ bản về design. Chuỗi bài giảng này là những kiến thức hữu ích, bổ trợ cho khoá học CSS tiếp theo.
           </p>
         </div>
-      </div>
-      <!--end of row-->
-    </div>
-    <!--end of container-->
-  </section>
-
-  <section class="text-center bg--secondary">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
+        <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
             <h2>Master CSS 2018</h2>
             <span>Made by Coders.Tokyo</span>
@@ -152,16 +116,16 @@ markdown:
             Các bài giảng về CSS được trình bày một cách dễ hiểu nhất, liên quan chặt chẽ đến khoá UI Design, giúp các bạn hình dung được việc chuyển một thiết kế sang code HTML và CSS như thế nào để hiển thị trên trình duyệt.
           </p>
         </div>
+        <!-- End of row -->
       </div>
-      <!--end of row-->
+      <!-- End of container -->
     </div>
-    <!--end of container-->
   </section>
 
-  <section class="text-center">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
+  <section>
+    <div class="container-fluid course-board">
+      <div class="row justify-content-md-center justify-content-lg-start">
+        <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
             <h2>Bootstrap 4 in a nutshell</h2>
             <span>Made by Coders.Tokyo</span>
@@ -171,105 +135,88 @@ markdown:
             Chuỗi bài giảng ngắn gọn giới thiệu về Bootstrap, các thành phần trong Bootstrap như Grid, Form, ... giúp bạn tự tin làm những trang web responsive hoạt động ngon lành trên Desktop cũng như các thiết bị Mobile.
           </p>
         </div>
-      </div>
-      <!--end of row-->
-    </div>
-    <!--end of container-->
-  </section>
-
-  <section class="text-center bg--secondary">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
+        <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
-            <h2>NodeJS Web Server using Express 2018</h2>
+            <h2>NodeJS Web Server using Express 2019</h2>
             <span>Made by Coders.Tokyo</span>
           </div>
           <iframe class="mb-4" src="https://www.youtube.com/embed/videoseries?list=PLkY6Xj8Sg8-s-m-qFBQFoeNSfpCTBiwMU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           <p class="lead">
-            Chuỗi bài giảng về ExpressJS không chỉ giúp bạn làm chủ được framework này mà còn hiểu được các khái niệm trong lập trình web nói chung như cookie, authentication, template, database... Sau khoá học bạn sẽ có thể tự làm một trang web hoàn chỉnh cho mình.
+            Chuỗi bài giảng về ExpressJS giúp bạn làm chủ được framework này và các khái niệm cực kỳ quan trọng trong lập trình web như cookie, authentication, template, database... Sau khoá học bạn sẽ có thể tự làm một trang web hoàn chỉnh cho mình.
           </p>
         </div>
-      </div>
-      <!--end of row-->
-    </div>
-    <!--end of container-->
-  </section>
-
-  <section class="text-center">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
+        <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
             <h2>JavaScript Advanced 2018</h2>
             <span>Made by Coders.Tokyo</span>
           </div>
           <iframe class="mb-4" src="https://www.youtube.com/embed/videoseries?list=PLkY6Xj8Sg8-tVbSFcv-p1yOaHiG8fo0kP" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           <p class="lead">
-            Tổng hợp các kiến thức về các tính năng mới nhất của JavaScript, bước đệm cho chuỗi bài giảng tiếp theo về React.
+            Tổng hợp các kiến thức về các tính năng mới nhất của JavaScript. Giúp bạn code ngắn gọn và chuyên nghiệp hơn. Đây cũng là bước đệm rất quan trọng và không thể thiếu cho chuỗi bài giảng tiếp theo về React.
           </p>
         </div>
+        <!-- End of row -->
       </div>
-      <!--end of row-->
+      <!-- End of container -->
     </div>
-    <!--end of container-->
   </section>
 
-  <section class="text-center bg--secondary">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
+  <section class="bg--secondary">
+    <div class="container-fluid course-board">
+      <div class="row justify-content-md-center justify-content-lg-start">
+        <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
             <h2>Tự học React 2018</h2>
             <span>Made by Coders.Tokyo</span>
           </div>
           <iframe class="mb-4" src="https://www.youtube.com/embed/videoseries?list=PLkY6Xj8Sg8-vV5kALCOT0LShKc6mVFBvW" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           <p class="lead">
-            React là một thư viện lớn được phát triển bởi Facebook dùng để xây dựng giao diện người dùng. Khoá học này sẽ giúp bạn có đủ kiến thức để xây dựng một ứng dụng single-page application (SPA) phức tạp và hiệu năng cao. Sau khi học xong khoá học React, bạn sẽ có thể tự tin học khoá tiếp theo về React Native dùng để xây dựng các ứng dụng Mobile.
+            React là một thư viện lớn được phát triển bởi Facebook dùng để xây dựng giao diện người dùng. Khoá học này sẽ giúp bạn có đủ kiến thức để xây dựng một ứng dụng single-page application (SPA) phức tạp và hiệu năng cao.
           </p>
         </div>
-      </div>
-      <!--end of row-->
-    </div>
-    <!--end of container-->
-  </section>
-
-  <section class="text-center">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
+        <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
             <h2>Tự học Angular 2018</h2>
             <span>Made by Chau Tran</span>
           </div>
           <iframe class="mb-4" src="https://www.youtube.com/embed/videoseries?list=PLkY6Xj8Sg8-uBQaBU8wMLo2CrFkE-9VIZ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           <p class="lead">
-            Không chỉ là một thư viện UI, Angular là một front-end framework bao gồm đầy đủ các component tích hợp như Form validation, Routing, Data binding, ... Angular được phát triển bởi Google sử dụng ngôn ngữ TypeScript làm ngôn ngữ chính.
+            Không chỉ là một thư viện UI đơn thuần. Angular là một Frontend framework bao gồm đầy đủ các component tích hợp như Form validation, Routing, Data binding, ... Angular được phát triển bởi Google sử dụng ngôn ngữ TypeScript làm ngôn ngữ chính.
           </p>
         </div>
-      </div>
-      <!--end of row-->
-    </div>
-    <!--end of container-->
-  </section>
-
-  <section class="text-center bg--secondary">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-10 col-lg-8">
+        <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
             <h2>Live stream videos</h2>
             <span>Made by Coders.Tokyo</span>
           </div>
           <iframe class="mb-4" src="https://www.youtube.com/embed/videoseries?list=PLkY6Xj8Sg8-uks4KrMqPC8YsZ77xTqfpU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           <p class="lead">
-            Playlist tổng hợp video các buổi live stream 2 tuần một lần. Xem lịch live stream lần tới <a href="https://www.facebook.com/events/181709499152508/" target="_blank">tại đây</a>.
+            Playlist tổng hợp video các buổi live stream 2 tuần một lần. Xem lịch live stream lần tới <a href="https://www.facebook.com/events/181709499152508/" target="_blank">tại đây</a>. Bạn cũng có thể gửi chủ đề bạn muốn Live stream về <a href="https://fb.com/coders.tokyo/" target="_blank">Fanpage</a> để tụi mình tổng hợp nhé!
           </p>
         </div>
+        <!-- End of row -->
       </div>
-      <!--end of row-->
+      <!-- End of container -->
     </div>
-    <!--end of container-->
+  </section>
+
+  <section>
+    <div class="container-fluid course-board">
+      <div class="row justify-content-md-center justify-content-lg-start">
+        <div class="col-md-10 col-lg-4 course">
+          <div class="text-block">
+            <h2>Lập trình Mobile với React Native</h2>
+            <span>Made by Coders.Tokyo</span>
+          </div>
+          <iframe class="mb-4" src="https://www.youtube.com/embed/videoseries?list=PLkY6Xj8Sg8-taXGMnV94oeycXF4v4iyiV" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          <p class="lead">
+            React Native là một Framework hỗ trợ bạn sử dụng JavaScript và React để viết ứng dụng di động. Được sử dụng để xây dựng nhiều ứng dụng di động nổi tiếng như Facebook, Instagram, Skype... Bạn nên hoàn tất khoá ReactJS trước khi bắt đầu khoá học này!
+          </p>
+        </div>
+        <!-- End of row -->
+      </div>
+      <!-- End of container -->
+    </div>
   </section>
 
   <section class="pb-0">
