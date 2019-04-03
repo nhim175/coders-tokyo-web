@@ -50,7 +50,7 @@ markdown:
       <div class="row justify-content-md-center justify-content-lg-start">
         <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
-            <h2>Định hướng học lập trình</h2>
+            <h2>#0 - Định hướng học lập trình</h2>
             <span>Made by Coders.Tokyo</span>
           </div>
           <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1554302373/tuts/0-dinh-huong.png" title="Khoá học lập trình miễn phí" alt="Khoá học lập trình miễn phí">
@@ -61,7 +61,7 @@ markdown:
         </div>
         <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
-            <h2>JavaScript từ A-Z 2018</h2>
+            <h2>#1 - JavaScript từ A-Z 2018</h2>
             <span>Made by Coders.Tokyo</span>
           </div>
           <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/c_fill,h_540,w_960,f_auto/v1554302373/tuts/1-js.jpg" title="Học lập trình JavaScript" alt="Học lập trình JavaScript">
@@ -72,7 +72,7 @@ markdown:
         </div>
         <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
-            <h2>HTML for dummies</h2>
+            <h2>#2 - HTML for dummies</h2>
             <span>Made by Coders.Tokyo</span>
           </div>
           <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1554294805/tuts/2-html.png" title="Học lập trình HTML" alt="Học lập trình HTML">
@@ -92,7 +92,7 @@ markdown:
       <div class="row justify-content-md-center justify-content-lg-start">
         <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
-            <h2>Git - from Zero to Hero</h2>
+            <h2>#3 - Git - from Zero to Hero</h2>
             <span>Made by Coders.Tokyo</span>
           </div>
           <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/v1554294804/tuts/3-git.png" title="Khoá học Git miễn phí" alt="Khoá học Git miễn phí">
@@ -103,7 +103,7 @@ markdown:
         </div>
         <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
-            <h2>UI Design 2018</h2>
+            <h2>#4 - UI Design 2018</h2>
             <span>Made by Coders.Tokyo</span>
           </div>
           <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1554294804/tuts/4-design.png" title="Học UI Design miễn phí" alt="Học UI Design miễn phí">
@@ -114,7 +114,7 @@ markdown:
         </div>
         <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
-            <h2>Master CSS 2018</h2>
+            <h2>#5 - Master CSS 2018</h2>
             <span>Made by Coders.Tokyo</span>
           </div>
           <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1554294804/tuts/5-css.png" title="Khoá học CSS miễn phí" alt="Khoá học CSS miễn phí">
@@ -134,7 +134,7 @@ markdown:
       <div class="row justify-content-md-center justify-content-lg-start">
         <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
-            <h2>Bootstrap 4 in a nutshell</h2>
+            <h2>#6 - Bootstrap 4 in a nutshell</h2>
             <span>Made by Coders.Tokyo</span>
           </div>
           <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1554294804/tuts/6-bootstrap.png" title="Khoá học Bootstrap miễn phí" alt="Khoá học Boostrap miễn phí">
@@ -145,7 +145,7 @@ markdown:
         </div>
         <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
-            <h2>NodeJS Web Server using Express 2019</h2>
+            <h2>#7 - NodeJS Web Server using Express 2019</h2>
             <span>Made by Coders.Tokyo</span>
           </div>
           <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1554294804/tuts/7-express.png" title="Khoá học NodeJS - ExpressJS miễn phí" alt="Khoá học NodeJS - ExpressJS miễn phí">
@@ -156,7 +156,7 @@ markdown:
         </div>
         <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
-            <h2>JavaScript Advanced 2018</h2>
+            <h2>#8 - JavaScript Advanced 2018</h2>
             <span>Made by Coders.Tokyo</span>
           </div>
           <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1554294804/tuts/8-js-advanced.png" title="Khoá học JavaScript nâng cao miễn phí" alt="Khoá học JavaScript nâng cao miễn phí">
@@ -176,7 +176,7 @@ markdown:
       <div class="row justify-content-md-center justify-content-lg-start">
         <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
-            <h2>Tự học React 2018</h2>
+            <h2>#9 - Tự học React 2018</h2>
             <span>Made by Coders.Tokyo</span>
           </div>
           <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1554294804/tuts/9-react.png" title="Khoá học ReactJS miễn phí" alt="Khoá học ReactJS miễn phí">
@@ -187,18 +187,7 @@ markdown:
         </div>
         <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
-            <h2>Tự học Angular 2018</h2>
-            <span>Made by Chau Tran</span>
-          </div>
-          <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1554294804/tuts/11-angular.png" title="Khoá học Angular miễn phí" alt="Khoá học Angular miễn phí">
-          <p class="lead">
-            Không chỉ là một thư viện UI đơn thuần. Angular là một Frontend framework bao gồm đầy đủ các component tích hợp như Form validation, Routing, Data binding, ... Angular được phát triển bởi Google sử dụng ngôn ngữ TypeScript làm ngôn ngữ chính.
-          </p>
-          <a class="course-url" href="https://www.youtube.com/watch?v=GXBHI_YxClI&list=PLkY6Xj8Sg8-uBQaBU8wMLo2CrFkE-9VIZ" target="_blank">Học miễn phí</a>
-        </div>
-        <div class="col-md-10 col-lg-4 course">
-          <div class="text-block">
-            <h2>Lập trình Mobile với React Native</h2>
+            <h2>#10 - Lập trình Mobile với React Native</h2>
             <span>Made by Coders.Tokyo</span>
           </div>
           <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1554294804/tuts/10-react-native.png" title="Khoá học React Native miễn phí" alt="Khoá học React Native miễn phí">
@@ -206,6 +195,17 @@ markdown:
             React Native là một Framework hỗ trợ bạn sử dụng JavaScript và React để viết ứng dụng di động. Được sử dụng để xây dựng nhiều ứng dụng di động nổi tiếng như Facebook, Instagram, Skype... Bạn nên hoàn tất khoá ReactJS trước khi bắt đầu khoá học này!
           </p>
           <a class="course-url" href="https://www.youtube.com/watch?v=NDeFEFIe7yg&list=PLkY6Xj8Sg8-taXGMnV94oeycXF4v4iyiV" target="_blank">Học miễn phí</a>
+        </div>
+        <div class="col-md-10 col-lg-4 course">
+          <div class="text-block">
+            <h2>#11 - Tự học Angular 2018</h2>
+            <span>Made by Chau Tran</span>
+          </div>
+          <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1554294804/tuts/11-angular.png" title="Khoá học Angular miễn phí" alt="Khoá học Angular miễn phí">
+          <p class="lead">
+            Không chỉ là một thư viện UI đơn thuần. Angular là một Frontend framework bao gồm đầy đủ các component tích hợp như Form validation, Routing, Data binding, ... Angular được phát triển bởi Google sử dụng ngôn ngữ TypeScript làm ngôn ngữ chính.
+          </p>
+          <a class="course-url" href="https://www.youtube.com/watch?v=GXBHI_YxClI&list=PLkY6Xj8Sg8-uBQaBU8wMLo2CrFkE-9VIZ" target="_blank">Học miễn phí</a>
         </div>
         <!-- End of row -->
       </div>
