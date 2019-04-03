@@ -61,22 +61,13 @@ article .article__body h4 {
 }
 
 /* Lmint CSS */
-.course-board {
-  padding: 0 4.5rem;
-}
-
-.course {
-  box-sizing: border-box;
-  padding: 6px 1.8rem;
-}
-
 .course-thumbnail {
   border-radius: 4px;
   border: 1px solid rgba(50, 50, 50, 0.115);
 }
 
-.course-url {
-  font-size: 1.125rem !important;
+.course-board .course-url {
+  font-size: 1.125rem;
   display: block;
 }
 
@@ -91,18 +82,18 @@ article .article__body h4 {
   margin-bottom: 0.2rem;
 }
 
-.lead {
-  font-size: 1.045rem;
-  margin-bottom: 0.25rem !important;
+.course {
+  margin-bottom: 3rem;
+}
+
+.course-board .lead {
+  font-size: 1.17rem;
+  line-height: 1.78rem;
+  margin-bottom: 0.25rem;
 }
 
 @media (max-width: 768px) {
   .course-board {
     padding: 0 1.125rem;
-  }
-
-  .course {
-    padding: 6px 12px;
-    text-align: center;
   }
 }
