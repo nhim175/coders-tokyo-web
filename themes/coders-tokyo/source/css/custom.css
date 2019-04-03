@@ -70,6 +70,16 @@ article .article__body h4 {
   padding: 6px 1.8rem;
 }
 
+.course-thumbnail {
+  border-radius: 4px;
+  border: 1px solid rgba(50, 50, 50, 0.115);
+}
+
+.course-url {
+  font-size: 1.125rem !important;
+  display: block;
+}
+
 .text-block {
   margin-bottom: 1rem;
 }
@@ -82,10 +92,15 @@ article .article__body h4 {
 }
 
 .lead {
-  font-size: 1.124rem;
+  font-size: 1.045rem;
+  margin-bottom: 0.25rem !important;
 }
 
 @media (max-width: 768px) {
+  .course-board {
+    padding: 0 1.125rem;
+  }
+
   .course {
     padding: 6px 12px;
     text-align: center;
