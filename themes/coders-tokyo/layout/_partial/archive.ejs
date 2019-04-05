@@ -4,16 +4,7 @@
       <div class="col-md-10 col-lg-8">
         <h1 class="text-center">Coders.Tokyo's Blog</h1>
         <img class="d-none" src="https://coders.tokyo/images/meta-cover.jpg" />
-        <% var last; %>
         <% page.posts.each(function(post, i){ %>
-          <% var year = post.date.year(); %>
-          <% if (last != year){ %>
-            <% if (last != null){ %>
-              </div></section>
-            <% } %>
-            <% last = year; %>
-              <div class="archives">
-          <% } %>
           <%- partial('archive-post', {post: post, even: i % 2 == 0}) %>
         <% }) %>
         <% if (page.total > 1){ %>
