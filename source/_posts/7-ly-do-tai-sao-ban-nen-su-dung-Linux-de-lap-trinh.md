@@ -1,7 +1,7 @@
 ---
 title: 7 lý do tại sao bạn nên sử dụng Linux để lập trình
 date: 2019-04-05 20:00:00
-authorId: hoang-an
+authorId: hoang_an
 tags:
 ---
 
@@ -19,7 +19,6 @@ Bạn không tốn bất kỳ chi phí nào để tải xuống và cài đặt 
 
 ![7 lý do tại sao bạn nên sử dụng Linux để lập trình](https://res.cloudinary.com/djeghcumw/image/upload/v1554255558/blog/best-linux-soft-670x335.jpg)
 
-
 Các phần mềm dành cho hệ điều hành này cũng miễn phí. Bạn có thể sử dụng các công cụ bạn cần dùng để lập trình hoặc tạo ra tài liệu,.. Mà bạn không cần phải lo lắng về việc tốn thêm khoảng tiền nào trong ví của bạn cả.
 
 ## 2\. Việc cài đặt Linux là dễ dàng
@@ -29,7 +28,6 @@ Có nhiều bạn chưa bao giờ cài một hệ điều hành mới khi mua m�
 Nhưng nếu bạn là một lập trình viên, việc cài một hệ điều hành là không khó. Khi bạn khởi động bằng USB, việc cài Linux không khác gì khi cài đặt một chương trình trong Windows.
 
 ![7 lý do tại sao bạn nên sử dụng Linux để lập trình](https://res.cloudinary.com/djeghcumw/image/upload/v1554255604/blog/ubuntumac-e1535163848304.jpg)
-
 
 Ngoài ra, nếu muốn giữ lại hệ điều hành hiện tại, bạn có thể chọn chế độ khởi động _dual-boot._
 
@@ -43,7 +41,6 @@ Khi bạn cần viết bằng C, C ++, [CSS](https://www.youtube.com/playlist?li
 
 ![7 lý do tại sao bạn nên sử dụng Linux để lập trình](https://res.cloudinary.com/djeghcumw/image/upload/v1554255651/blog/best-programming-language-for-web-scraping-e1502284298740.png)
 
-
 Nếu một ngôn ngữ mà bạn muốn sử dụng mà chưa được cài đặt, bạn thường có thể nhận các gói từ kho lưu trữ của bạn.
 
 ## 5\. Có thể thoãi mái lựa chọn nhiều phần mềm viết code
@@ -51,7 +48,6 @@ Nếu một ngôn ngữ mà bạn muốn sử dụng mà chưa được cài đ�
 Hình ảnh thường thấy của một lập trình viên liên quan đến việc ngồi trước màn hình máy tính màu đen chứa đầy văn bản màu trắng hoặc xanh lá cây. Bạn có thể viết code theo cách đó hoặc bạn có thể sử dụng một số trình biên tập như Gedit, Kate, Eclipse có thể là tất cả những gì bạn cần, ngoài ra Atom là một lựa chọn đa nền tảng có thể mở rộng như Chrome. Hoặc bạn có thể là một trong số nhiều người thích sử dụng Sublime Text như tôi.
 
 ![7 lý do tại sao bạn nên sử dụng Linux để lập trình](https://res.cloudinary.com/djeghcumw/image/upload/v1554255687/blog/Best-Java-IDEs-2018.jpg)
-
 
 Nếu bạn muốn có một trãi nghiệm đầy đủ hơn thì cũng có thể sử dụng Visual Studio Code.
 
@@ -76,7 +72,6 @@ Có nhiều lý do rất nhiều nhà phát triển chọn Linux là hệ điề
 Nếu bạn muốn đi xa hơn theo kiểu truyền thống thì đây là mục tiêu mà Linux hướng tới.
 
 ![7 lý do tại sao bạn nên sử dụng Linux để lập trình](https://res.cloudinary.com/djeghcumw/image/upload/v1554255745/blog/0bfc8566-bb1f-4e8e-8fe0-bd537a86d500.jpg)
-
 
 Ngay cả khi bạn đã có một môi trường phát triển, việc đánh giá lại nó để xem liệu Linux có phù hợp hơn với nhu cầu của bạn hay không. Bạn đã có thể học được rất nhiều và tiết kiệm một số tiền.  
 Bên cạnh đó, nếu bạn đang xem [các video học lập trình](https://coders.tokyo/tuts/) của [**Coders Tokyo**](https://coders.tokyo/) thì chắc bạn cũng đã nhận được lời khuyên nên sử dụng Linux Ubuntu. Vì nó có tính tương thích và độ linh hoạt cao, tương tự như MacOS, thích hợp cho việc [học lập trình](https://coders.tokyo/).
