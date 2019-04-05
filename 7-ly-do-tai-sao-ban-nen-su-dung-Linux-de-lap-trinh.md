@@ -1,3 +1,12 @@
+---
+title: 7 lý do tại sao bạn nên sử dụng Linux để lập trình
+date: 2019-04-05 20:00:00
+authorId: hoang-an
+tags:
+---
+
+![7 lý do tại sao bạn nên sử dụng Linux để lập trình](https://res.cloudinary.com/djeghcumw/image/upload/v1554255419/blog/linux-tux-100360806-large.jpg)
+
 Linux từ lâu đã nổi tiếng là nơi dành cho các lập trình viên và chuyên viên máy tính.  [Linus Torvalds](https://vi.wikipedia.org/wiki/Linus_Torvalds) - người viết ra hệ điều hành Linux. Tuyệt vời là nó dành cho tất cả mọi người từ sinh viên đến nghệ sĩ,.. Nhưng Linux sẽ tuyệt vời hơn nữa nếu bạn dùng nó để phục vụ cho công việc lập trình. Và có nhiều lý do để chọn Linux trở thành ngôi nhà của bạn dùng để viết code.
 
 <figure class="wp-block-image">![](https://res.cloudinary.com/djeghcumw/image/upload/v1554255419/blog/linux-tux-100360806-large.jpg)</figure>
