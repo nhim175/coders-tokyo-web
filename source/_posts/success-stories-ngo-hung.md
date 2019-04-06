@@ -7,7 +7,7 @@ tags:
 ![[Câu chuyện thành công] Anh Ngô Hưng – Thực tập sinh tại @TMA Solution](https://res.cloudinary.com/djeghcumw/image/upload/v1551793857/blog/success_stories-blog1-1200x620.jpg)
 
 > Với những kiến thức lập trình học được từ Coders.Tokyo như: ES6, Express, MongoDB, RESTful API, Backend as a Service (BaaS), Exercise and Assignment, Deploy…Nay mình đã có đủ tự tin để đi thực tập và làm việc
-> 
+>
 > Ngô Hưng – Thành viên cộng đồng Coders.Tokyo
 
 <!--more-->
