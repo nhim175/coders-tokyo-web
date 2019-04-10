@@ -15,7 +15,7 @@ Quá trình tự học React của mình đã kéo dài hơn 2 tháng và vẫn 
 
 Mình sẽ chia chuỗi bài viết chia sẽ này thành nhiều phần. Mỗi phần mình sẽ tập trung vào những điểm quan trọng tất yếu. Mọi thứ mình chia sẽ với bạn đều là kinh nghiệm mình học được hoặc được người khác chia sẽ lại. Tất nhiên là mình đã áp dụng và xác nhận là có hiệu quả.
 
-## Môi trường tự học phải tốt
+## Môi trường tự học phải tốt
 
 Môi trường là điều kiện quyết định cho sự tiến bộ và phát triển của vạn vật. Một đứa bé lớn lên như thế nào đều phụ thuộc vào môi trường và điều kiện sống xung quanh.
 
@@ -53,4 +53,4 @@ Não chúng ta khi hoạt động nhiều cũng sẽ bị stress. Tế bào não
 
 Ở phần 1 này mình chia sẽ cho bạn cách thiết lập môi trường học tập khoa học. Dây là bước đệm hỗ trợ cho hiệu quả về cách học mà mình chia sẽ ở các phần sau.
 
-Hi vọng chia sẽ của mình sẽ mang đến cho bạn một sự thay đổi tích cực. Và mình cũng hi vọng bạn sẽ làm được các sản phẩm Full-Stack sau 4 tháng tự học giống mình. Đón chờ phần sau nhé mọi người!!
+Hi vọng chia sẽ của mình sẽ mang đến cho bạn một sự thay đổi tích cực. Và mình cũng hi vọng bạn sẽ làm được các sản phẩm Full-Stack sau 4 tháng tự học giống mình. Đón chờ phần sau nhé mọi người!!
