@@ -11,8 +11,6 @@ Quá trình tự học React của mình đã kéo dài hơn 2 tháng và vẫn 
 
 <!-- more -->
 
-Quá trình tự học React của mình đã kéo dài hơn 2 tháng và vẫn đang tiếp tục phát triển. Mình học rất thoải mái và không bị áp lực dù sáng đi làm ở công ty và chỉ học vào buổi tối khi về đến nhà.
-
 Mình sẽ chia chuỗi bài viết chia sẽ này thành nhiều phần. Mỗi phần mình sẽ tập trung vào những điểm quan trọng tất yếu. Mọi thứ mình chia sẽ với bạn đều là kinh nghiệm mình học được hoặc được người khác chia sẽ lại. Tất nhiên là mình đã áp dụng và xác nhận là có hiệu quả.
 
 ## Môi trường tự học phải tốt
