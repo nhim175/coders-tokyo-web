@@ -1,7 +1,7 @@
 ---
 title: Tại sao muốn đi nhanh không nên đi một mình
 date: 2019-04-17 19:00:00
-authorId: default
+authorId: 
 tags:
 ---
 
