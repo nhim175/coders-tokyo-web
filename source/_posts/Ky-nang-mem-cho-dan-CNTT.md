@@ -28,11 +28,7 @@ Thường có một vài tips dành cho các nhà tuyển dụng khi phỏng v�
 
 ## Khả năng làm đơn giản hoá những yếu tố công nghệ
 
-<div class="wp-block-image">
-
-<figure class="text-center">![](https://res.cloudinary.com/djeghcumw/image/upload/v1554870917/blog/uisuzhfbxawuwk25qxmw.jpg)</figure>
-
-</div>
+[](https://res.cloudinary.com/djeghcumw/image/upload/v1554870917/blog/uisuzhfbxawuwk25qxmw.jpg)
 
 Tôi có vài người bạn họ rất giỏi về công nghệ và đời sống của họ rất phong phú. Họ thường xuyên nói về công nghệ một cách rất xúc tích, ngắn gọn, gần gũi với cuộc sống. Và điều đó khiến những người đồng nghiệp và khách hàng hiểu rất dễ dàng. Điều đó khiến việc luôn trôi chảy. Bạn không thể tiến xa nếu như bạn chỉ có thể nói được với những người kinh doanh hoặc chỉ với những người làm tech với nhau.
 
@@ -40,12 +36,10 @@ Tôi có vài người bạn họ rất giỏi về công nghệ và đời số
 
 Sự phân tán trong CNTT đang gia tăng cùng với đó là tinh thần hợp tác cần phải tăng. Khi đồng nghiệp đồng nghiệp của bạn ở khắp nơi. Do đó các giao tiếp xã hội cơ bản ở trong văn phòng sẽ không có trên Slack, email hoặc các phương tiện làm việc khác.
 
-<figure class="wp-block-image">![](https://res.cloudinary.com/djeghcumw/image/upload/v1554870959/blog/lam-viec-nhom-hieu-quia.jpg)
+![](https://res.cloudinary.com/djeghcumw/image/upload/v1554870959/blog/lam-viec-nhom-hieu-quia.jpg)
 
-<figcaption class="text-center">Teamwork  
-</figcaption>
+Teamwork  
 
-</figure>
 
 Hiện nay, nhiều kỹ sư và nhà phát triển làm việc từ xa. Điều quan trọng là họ có thể hiểu, giao tiếp và đồng cảm với các thành viên trong nhóm của mình. Ngay cả khi họ chỉ gặp họ trực tiếp vài tháng một lần.
 
@@ -59,11 +53,10 @@ Những nhân viên này cần các kỹ năng để có thể đưa ra ý tư�
 
 Theo kinh nghiệm của tôi. Những cá nhân kỹ thuật sâu sắc là người coi trọng các nhà lãnh đạo bởi bộ kỹ năng mềm của họ hơn là ở những cá nhân làm việc trong nhóm kỹ thuật
 
-<div class="wp-block-image">
 
-<figure class="text-center">![](https://res.cloudinary.com/djeghcumw/image/upload/v1554871031/blog/vndlljrnx9phsl0gccf7.png)</figure>
 
-</div>
+![](https://res.cloudinary.com/djeghcumw/image/upload/v1554871031/blog/vndlljrnx9phsl0gccf7.png)
+
 
 Rất nhiều con đường sự nghiệp kỹ thuật không rõ ràng trong các tổ chức. Điều có dẫn tới những người cố vấn, một nhà lãnh đạo mạnh mẽ để truyền cảm hứng. Khả năng huấn luyện là rất có giá trị trong công ty. Điều quan trọng là các nhà lãnh đạo kỹ thuật và phi kỹ thuật đều hiểu bối cảnh mà các đội của họ làm việc. Các cá nhân trong các nhóm đó, và các thách thức và động lực của các cá nhân đó. Bối cảnh sẽ là khác nhau, nhưng nhu cầu truyền cảm hứng, xây dựng niềm tin, thấm nhuần niềm đam mê với công việc là điều tiên quyết.
 
@@ -71,7 +64,7 @@ Rất nhiều con đường sự nghiệp kỹ thuật không rõ ràng trong c�
 
 Có một vài lời than phiền thường được nghe thấy trong thế giới CNTT. Những người kinh doanh không biết những gì họ muốn. Và cho dù điều đó có đúng hay không việc ngắt kết nối đã dẫn đến nhiều hơn một đống công nghệ không được sử dụng.
 
-<figure class="wp-block-image">![](https://res.cloudinary.com/djeghcumw/image/upload/v1554871057/blog/Questions-to-Ask-in-a-Tech-Interview.jpg)</figure>
+![](https://res.cloudinary.com/djeghcumw/image/upload/v1554871057/blog/Questions-to-Ask-in-a-Tech-Interview.jpg)
 
 Câu trả lời của tôi là những người kinh doanh làm công việc của họ mỗi ngày. Họ biết những gì họ muốn và cần. Chỉ là bạn chưa hỏi họ những câu hỏi đúng thôi.
 
