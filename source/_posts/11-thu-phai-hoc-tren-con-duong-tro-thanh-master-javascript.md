@@ -21,12 +21,12 @@ Có lẻ đây là chủ để cơ bản nhất trong danh sách. Một trong nh
 *   Điều kiện nâng cao - Sử dụng các toán tử `ternary` và `logical` giúp bạn dễ dàng hơn khi code. Đặc biệt khi bạn cố viết `code` trên 1 dòng, có nghĩa là bạn không muốn lưu giá trị và sử dụng chúng sau. Ví dụ:
 
 ```javascript 
-    // ternary
-    console.log(new Date().getHours() < 12 ? 'Good Morning!' : 'Time for a siesta')
+// ternary
+console.log(new Date().getHours() < 12 ? 'Good Morning!' : 'Time for a siesta')
 
-    // logical operators
-    const isJsMaster = prompt('Are you a JavaScript master?') === 'true'
-    console.log(isJsMaster && 'proficient coder')
+// logical operators
+const isJsMaster = prompt('Are you a JavaScript master?') === 'true'
+console.log(isJsMaster && 'proficient coder')
 ```
 
 ## 2\. Error handling
@@ -40,7 +40,7 @@ UPDATE: Hãy đọc [bài này](https://levelup.gitconnected.com/the-definite-gu
 Giống như việc di chuyển qua ứng dụng của bạn liên tục, bạn phải quyết định nơi nhóm các khối thông tin cụ thể và nơi giữ chúng tách biệt. Điều này không chỉ áp dụng để xây dựng các mô hình cơ sở dữ liệu, mà còn các tham số chức năng và các đối tượng hoặc biến. Ví dụ:
 
 ```javasciprt
-    const calcShape = (width, height, depth, color, angle) => {...}
+const calcShape = (width, height, depth, color, angle) => {...}
 ```
 
 ## 4\. Asynchronity
