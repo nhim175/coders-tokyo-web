@@ -62,7 +62,7 @@ Những điều này không khó hiểu chút nào. Về cơ bản, chúng ta l�
 
 Bây giờ tôi đã chia nhỏ "chức năng" cốt lõi của animation, đã đến lúc xem code HTML thực tế. Hãy bắt đầu với “bộ xương” cơ bản:
 
-```javascript
+```html
 <div class="container" id="container">
     <div class="form-container sign-up-container">
         <!-- Sign Up form code goes here -->
@@ -80,7 +80,7 @@ Div chính có `class` là`.container` và cũng là`id` của `container` vì c
 
 ## Phần Form Đăng Ký
 
-```javascript
+```html
 <div class="form-container sign-up-container">
     <form action="#">
         <h1>Create Account</h1>
@@ -100,7 +100,7 @@ Div chính có `class` là`.container` và cũng là`id` của `container` vì c
 
 ## Phần Form Đăng Nhập
 
-```javascript
+```html
 <div class="form-container sign-in-container">
     <form action="#">
         <h1>Sign in</h1>
@@ -128,7 +128,7 @@ Bạn cũng có thể nhận thấy rằng các thẻ `i` có một số class. 
 
 ## Phần Lớp phủ Container
 
-```javascript
+```html
 <div class="overlay-container">
     <div class="overlay">
         <div class="overlay-panel overlay-left">
@@ -171,7 +171,7 @@ Như đã giải thích ở trên, tôi thêm `addEventListener`. Khi các butto
 
 Đầu tiên, chúng ta viết CSS chung cho các thành phần cơ bản:
 
-```javascript
+```css
 h1 {
     font-weight: bold;
     margin: 0;
@@ -265,7 +265,7 @@ input {
 
 CSS cho `.container`:
 
-```javascript
+```css
 .container {
     background-color: #ffffff;
     border-radius: 10px;
@@ -283,7 +283,7 @@ CSS cho `.container`:
 
 Bây giờ là phần thú vị, `.form-container` và các styles liên quan:
 
-```javascript
+```css
 .form-container {
     position: absolute;
     top: 0;
@@ -336,7 +336,7 @@ Bây giờ là phần thú vị, `.form-container` và các styles liên quan:
 
 Và cuối cùng, CSS cho `.overlay-container` và các styles liên quan:
 
-```javascript
+```css
 .overlay-container {
     position: absolute;
     top: 0;
