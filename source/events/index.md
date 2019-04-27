@@ -4,24 +4,27 @@ date: 2018-06-03 17:40:47
 markdown:
   gfm: false
 ---
+
 <div class="main-container">
-  <section class="cover height-80 imagebg switchable switchable--switch" data-overlay="1">
-    <div class="background-image-holder">
-      <img alt="background" src="/images/events/top-bg.jpg" />
+  <section class="cover height-80 imagebg switchable switchable--switch custom blur-background" data-overlay="1">
+    <div class="custom background-image-holder">
+      <img alt="background" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1556328261/community.jpg" />
     </div>
     <div class="container pos-vertical-center">
       <div class="row justify-content-around">
         <div class="col-sm-8 col-sm-offset-2">
           <div class="text-center">
             <h1>
-              Cùng học lập trình MIỄN PHÍ.
+              Các sự kiện lập trình tháng 5
             </h1>
             <p class="lead">
-              Cùng tham gia để nhận 1 suất học lập trình 1 năm, kèm theo cơ hội được giới thiệu tới các công ty tại Nhật Bản, hoàn toàn MIỄN PHÍ và nhiều phần quà khác.
+              Hai sự kiện lớn của tháng 5 được tổ chức tại hai trường đại học lớn tại Việt Nam.
+              <br/>
+              Đại học báck khoa Đà Nẵng (BKDN) - Học viện kỹ thuật quân sự (MTA)
             </p>
             <a class="btn btn--primary type--uppercase" href="http://bit.ly/coders-tokyo-da-nang" target="_blank">
               <span class="btn__text">
-                Đăng ký tham dự hội thảo 9/10 tại Đà Nẵng
+                Đăng ký tham gia sự kiện miễn phí
               </span>
             </a>
           </div>
@@ -38,8 +41,8 @@ markdown:
     <div class="container">
       <div class="row">
         <div class="col-md-12 text-center">
-          <span class="label label--inline">Support</span>
-          <span>Free 1 đồ uống và gửi xe miễn phí.
+          <span class="label label--inline">Chi phí hỗ trợ</span>
+          <span>Miễn phí thức uống và chi phí gửi xe
           </span>
         </div>
       </div>
@@ -52,41 +55,39 @@ markdown:
     <div class="container">
       <div class="row justify-content-around">
         <div class="col-md-8 col-lg-7">
-          <h2>Học lập trình như thế nào?</h2>
+          <h2>Mong muốn của cộng đồng</h2>
           <p class="lead">
-            Một vấn đề chung mà hầu như 100% chúng ta đều gặp phải khi mới học lập trình là: <b>Bắt đầu từ đâu?</b>
+            Cộng đồng mong muốn xây dựng một môi trường học tập, giáo dục và cơ hội việc làm tốt nhất cho tất cả sinh viên Việt Nam.
           </p>
           <p class="lead">
-            Với kinh nghiệm 7 năm làm lập trình, 5 năm làm việc tại Tokyo, trong hội thảo này, mình sẽ chia sẻ kinh nghiệm, cách học lập trình của mình cho các bạn sinh viên mới bắt đầu tìm hiểu về lập trình. Hãy tham gia để nhận được khoá học lập trình miễn phí 1 năm, có cơ hội được giới thiệu tới các công ty tại Nhật Bản.
+            Cộng đồng được xem như tổ chức phi lợi nhuận với mong muốn giúp đỡ các bạn học sinh, sinh viên được học lập trình miễn phí. Sự phát triển của cộng đồng phụ thuộc vào sự ủng hộ và tham gia nhiệt tình từ các bạn sinh viên và những bạn đam mê lập trình khác.
           </p>
           <p class="lead">
-            <b>Đối tượng:</b><br>
-            &mdash; Học sinh cấp 2, cấp 3 muốn tìm hiểu về lập trình<br>
-            &mdash; Sinh viên đại học đã, đang, sẽ theo học lập trình<br>
-            &mdash; Những người có đam mê về lập trình<br>
-            &mdash; Những người đang làm công việc kinh doanh, muốn tiếp cận lập trình để thay đổi cách tư duy<br>
+            Buổi sự kiện này mang tính chất giao lưu và chia sẽ cùng các bạn sinh viên Việt Nam là chính. Các bạn sẽ được chia sẽ cách học, cách làm. Biết được bản thân đang cần những điều kiện và kiến thức gì để tự phát triển nhanh hơn.
           </p>
         </div>
         <div class="col-md-4 col-lg-3">
           <div class="text-block">
-            <h5>Thời gian</h5>
-            <p>
-              Ngày 9 tháng 10 năm 2018
-            </p>
+            <h5>Thời gian dự kiến</h5>
+            <ul class="list-time">
+              <li>Bách Khoa Đà Nẵng - <span class="time-wrap">In Review</span></li>
+              <li>Học viện MTA - <span class="time-wrap">17.05.2019</span></li>
+            </ul>
           </div>
           <div class="text-block">
-            <h5>Giờ mở cửa</h5>
-            <p>
-              16:30 - 19:00
-            </p>
+            <h5>Thời lượng chương trình</h5>
+            <ul class="list-time">
+              <li>Bách Khoa Đà Nẵng - <span class="time-wrap">In Review</span></li>
+              <li>Học viện MTA - <span class="time-wrap">09:00 - 12:00</span></li>
+            </ul>
           </div>
           <div class="text-block">
-            <h5>Địa điểm</h5>
-            <p>
-              ROVER Coffee Shop & Workspace
-              <br> 555 Tôn Đức Thắng, Đà Nẵng
-              <br> <a href="https://goo.gl/maps/smcJ3n2VU7R2" target="_blank">Xem trên Google maps</a>
-            </p>
+            <h5>Đối tượng tham gia</h5>
+            <ul class="list-time">
+              <li>Sinh viên đang học tại HVKTQS</li>
+              <li>Các thầy cô quan tâm tới cộng đồng</li>
+              <li>Các đối tượng khách mời</li>
+            </ul>
           </div>
         </div>
       </div>
@@ -113,18 +114,25 @@ markdown:
   <section class="text-center">
     <div class="container">
       <div class="row">
-        <div class="col-md-3 offset-md-3">
+        <div class="col-md-4">
           <div class="feature feature-8">
             <img alt="Thịnh Phạm" style="width: 128px;" src="/images/events/thinh.png" />
             <h5>Thịnh Phạm</h5>
             <span>Founder @ Coders.Tokyo</span>
           </div>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-4">
           <div class="feature feature-8">
             <img alt="Katsutoshi Yamada" style="width: 128px;" src="/images/events/toshi.png" />
             <h5>Katsutoshi Yamada</h5>
             <span>Co-founder @ Coders.Tokyo</span>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="feature feature-8">
+            <img alt="Katsutoshi Yamada" style="width: 128px;" src="/images/events/khoa.png" />
+            <h5>Khoa Bùi</h5>
+            <span>CEO @ KoiJapan</span>
           </div>
         </div>
       </div>
@@ -143,15 +151,15 @@ markdown:
     </div>
     <div class="container">
       <div class="row mb-5">
-        <div class="col-md-8 offset-md-2">
-          <p class="lead">
-            &mdash; Tại sao Coders.Tokyo được thành lập? - Thịnh Phạm<br>
-            &mdash; Học lập trình bắt đầu từ đâu? - Thịnh Phạm<br>
-            &mdash; Nội dung khoá học lập trình web/app full-stack tại Coders.Tokyo - Thịnh Phạm<br>
-            &mdash; Chia sẻ kinh nghiệm làm việc 5 năm tại Nhật - Thịnh Phạm<br>
-            &mdash; Chia sẻ về cuộc sống tại Nhật và văn hoá làm việc của người Nhật - Katsutoshi Yamada<br>
-            &mdash; Chơi game tặng áo cộng đồng<br>
-          </p>
+        <div class="col-md-6 offset-md-3">
+          <ul class="lead">
+            <li>- Giới thiệu cộng đồng</li>
+            <li>- Chia sẽ từ phía CEO của KoiJapan</li>
+            <li>- Chia sẽ thêm về giá trị của đội ngũ CodersX</li>
+            <li>- Chia sẽ kinh nghiệm và cách tự học lập trình hiệu quả</li>
+            <li>- Kinh nghiệm làm việc tại Nhật Bản và các quốc gia khác</li>
+            <li>- Kỹ năng cần có để xin việc ngoại quốc và cách rèn luyện</li>
+          </ul>
         </div>
       </div>
       <div class="text-center">
@@ -168,7 +176,7 @@ markdown:
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-md-10 col-lg-8">
-          <h2 class="text-center mb-5">Giới thiệu để nhận quà</h2>
+          <h2 class="text-center mb-5">Cơ hội nhận quà</h2>
         </div>
       </div>
       <!--end of row-->
@@ -176,9 +184,9 @@ markdown:
     <div class="container">
       <div class="row">
         <div class="col-md-8 mb-4">
-          <h4>10 chiếc áo phông Coders.Tokyo đang chờ đón bạn</h4>
+          <h4>Áo phông Coders.Tokyo đang chờ đón bạn</h4>
           <p class="lead">
-            Hãy chia sẻ và giới thiệu về hội thảo này tới bạn bè của bạn, những người thích học lập trình nhưng không có điều kiện để theo học các trung tâm đắt đỏ mà chưa chắc đã hiệu quả. 10 bạn giới thiệu nhiều người tham gia hội thảo nhất sẽ được nhận phần quà đặc biệt của chương trình:
+            Những bạn tham gia nhiệt quyết trong suốt sự kiện sẽ được Founder trao tặng những chiếc áo Coders.Tokyo. Quà tặng tuy không nhiều giá trị nhưng ý nghĩa tinh thần là rất to lớn. Ngoài ra bạn sẽ có cơ hội được mời vào đội ngũ CodersX để đông hành cùng mọi người nếu bạn có thể.
           </p>
           <p class="lead text-center"><b>Áo phông Coders.Tokyo</b></p>
           <div class="text-center">
@@ -186,7 +194,7 @@ markdown:
               href="http://bit.ly/coders-tokyo-da-nang"
               target="_blank">
               <span class="btn__text">
-                Giới thiệu để nhận quà
+                Chia sẽ cho bạn bè
               </span>
             </a>
           </div>
@@ -198,7 +206,17 @@ markdown:
     </div>
   </section>
 
-  <iframe src="https://snazzymaps.com/embed/103627" width="100%" height="600px" style="border:none;"></iframe>
+  <!-- <section class="bg--secondary">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h2 class="text-center mb-5">Những Event trước đây</h2>
+        </div>
+      </div>
+    </div>
+  </section> -->
+
+  <!-- <iframe src="https://snazzymaps.com/embed/103627" width="100%" height="600px" style="border:none;"></iframe> -->
 
   <section class="pb-0">
     <div class="container">

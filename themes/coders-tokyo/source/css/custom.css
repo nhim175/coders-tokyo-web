@@ -26,7 +26,7 @@
   margin: 0px 3px;
 }
 
-/* Fix list style in blog post */
+/* ------------------ Fix list style in blog post ------------------ */
 article .article__body ul {
   list-style: initial;
   margin-left: 1rem;
@@ -60,7 +60,7 @@ article .article__body h4 {
   font-weight: 600;
 }
 
-/* Lmint CSS */
+/* ------------------ Tuts Page ------------------ */
 .course-thumbnail {
   border-radius: 4px;
   border: 1px solid rgba(50, 50, 50, 0.115);
@@ -96,4 +96,28 @@ article .article__body h4 {
   .course-board {
     padding: 0 1.125rem;
   }
+}
+
+/* ------------------ For Events Page ------------------ */
+.custom.blur-background:before {
+  background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+  opacity: .6;
+}
+
+.list-time {
+  list-style: disc;
+  margin-left: 1.2rem!important;
+}
+
+.list-time li {
+  margin: .6rem 0;
+}
+
+.time-wrap {
+  background-color: #4a90e2;
+  color: white;
+  padding: 3px 8px;
+  font-size: 13px;
+  border-radius: 1rem;
+  letter-spacing: .2px;
 }
