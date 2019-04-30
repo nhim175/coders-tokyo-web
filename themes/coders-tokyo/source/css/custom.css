@@ -99,6 +99,10 @@ article .article__body h4 {
 }
 
 /* ------------------ For Events Page ------------------ */
+.text-blue {
+  color: #4a90e2
+}
+
 .custom.blur-background:before {
   background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
   opacity: .6;
@@ -111,13 +115,4 @@ article .article__body h4 {
 
 .list-time li {
   margin: .6rem 0;
-}
-
-.time-wrap {
-  background-color: #4a90e2;
-  color: white;
-  padding: 3px 8px;
-  font-size: 13px;
-  border-radius: 1rem;
-  letter-spacing: .2px;
 }
