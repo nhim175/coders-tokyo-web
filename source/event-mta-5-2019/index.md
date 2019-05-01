@@ -1,6 +1,6 @@
 ---
-title: Hội thảo Cùng học lập trình, Cùng nhau đi Nhật 9/10
-date: 2018-06-03 17:40:47
+title: event-mta-5-2019
+date: 2019-04-30 21:19:25
 markdown:
   gfm: false
 ---
@@ -15,12 +15,12 @@ markdown:
         <div class="col-sm-8 col-sm-offset-2">
           <div class="text-center">
             <h1>
-              Các sự kiện lập trình tháng 5
+              Sự kiện lập trình tháng 5 năm 2019
             </h1>
             <p class="lead">
-              Hai sự kiện lớn của tháng 5 được tổ chức tại hai trường đại học lớn tại Việt Nam.
+              Được tổ chức tại Học Viện Kỹ Thuật Quân Sự - MTA
               <br/>
-              Đại học báck khoa Đà Nẵng (BKDN) - Học viện kỹ thuật quân sự (MTA)
+              Sự kiện lập trình miễn phí được tổ chức bởi cộng đồng Coders.Tokyo
             </p>
             <a class="btn btn--primary type--uppercase" href="http://bit.ly/coders-tokyo-da-nang" target="_blank">
               <span class="btn__text">
@@ -69,22 +69,18 @@ markdown:
         <div class="col-md-4 col-lg-3">
           <div class="text-block">
             <h5>Thời gian dự kiến</h5>
-            <ul class="list-time">
-              <li>Bách Khoa Đà Nẵng - <span class="time-wrap">In Review</span></li>
-              <li>Học viện MTA - <span class="time-wrap">17.05.2019</span></li>
-            </ul>
+            <span class="text-blue">Ngày 17 tháng 05 năm 2019</span>
           </div>
           <div class="text-block">
             <h5>Thời lượng chương trình</h5>
-            <ul class="list-time">
-              <li>Bách Khoa Đà Nẵng - <span class="time-wrap">In Review</span></li>
-              <li>Học viện MTA - <span class="time-wrap">09:00 - 12:00</span></li>
-            </ul>
+            <p class="text-blue">09:00 - 12:00 AM</p>
           </div>
           <div class="text-block">
             <h5>Đối tượng tham gia</h5>
             <ul class="list-time">
-              <li>Sinh viên đang học tại HVKTQS</li>
+              <li>Sinh viên đang học tại trường</li>
+              <li>Những ai có đam mê với lập trình</li>
+              <li>Những ai mới bắt đầu học lập trình</li>
               <li>Các thầy cô quan tâm tới cộng đồng</li>
               <li>Các đối tượng khách mời</li>
             </ul>
@@ -119,6 +115,8 @@ markdown:
             <img alt="Thịnh Phạm" style="width: 128px;" src="/images/events/thinh.png" />
             <h5>Thịnh Phạm</h5>
             <span>Founder @ Coders.Tokyo</span>
+            <br/>
+            <span>Cựu sinh viên MTA</span>
           </div>
         </div>
         <div class="col-md-4">
@@ -126,12 +124,16 @@ markdown:
             <img alt="Katsutoshi Yamada" style="width: 128px;" src="/images/events/toshi.png" />
             <h5>Katsutoshi Yamada</h5>
             <span>Co-founder @ Coders.Tokyo</span>
+            <br/>
+            <span>COO @ Liberty Pool</span>
           </div>
         </div>
         <div class="col-md-4">
           <div class="feature feature-8">
             <img alt="Katsutoshi Yamada" style="width: 128px;" src="/images/events/khoa.png" />
             <h5>Khoa Bùi</h5>
+            <span>Partner @ Coders.Tokyo</span>
+            <br/>
             <span>CEO @ KoiJapan</span>
           </div>
         </div>
@@ -140,7 +142,44 @@ markdown:
     <!--end of container-->
   </section>
 
-  <section class="bg--secondary">
+  <section class="text-center bg--secondary">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-10 col-lg-8">
+          <h2>Khách mời</h2>
+          <p class="lead">
+            Ngoài các diễn giả và speaker chính của cộng đồng Coders.Tokyo thì ban tổ chức có mời thêm một số khách mời đặc biệt. Họ đều là những người đã và đang thành công trong giới lập trình tại Việt Nam hoặc nước ngoài.
+          </p>
+        </div>
+      </div>
+      <!--end of row-->
+    </div>
+    <!--end of container-->
+  </section>
+
+  <section class="text-center bg--secondary">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="feature feature-8">
+            <img alt="Hamada Kenichi" style="width: 128px; height: 128px" src="/images/events/hamada_kenichi.jpg" />
+            <h5>Hamada Kenichi</h5>
+            <span>Khách mời</span>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="feature feature-8">
+            <img alt="Joboji Yuichi" style="width: 128px;" src="/images/events/joboji_yuichi.jpg" />
+            <h5>Joboji Yuichi</h5>
+            <span>Khách mời</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--end of container-->
+  </section>
+
+  <section>
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-md-10 col-lg-8">
@@ -159,6 +198,7 @@ markdown:
             <li>- Chia sẽ kinh nghiệm và cách tự học lập trình hiệu quả</li>
             <li>- Kinh nghiệm làm việc tại Nhật Bản và các quốc gia khác</li>
             <li>- Kỹ năng cần có để xin việc ngoại quốc và cách rèn luyện</li>
+            <li>- Tham gia hoạt động, trò chơi giao lưu với nhiều quà tặng</li>
           </ul>
         </div>
       </div>
@@ -172,7 +212,7 @@ markdown:
     </div>
   </section>
 
-  <section>
+  <section class="bg--secondary">
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-md-10 col-lg-8">
@@ -186,7 +226,8 @@ markdown:
         <div class="col-md-8 mb-4">
           <h4>Áo phông Coders.Tokyo đang chờ đón bạn</h4>
           <p class="lead">
-            Những bạn tham gia nhiệt quyết trong suốt sự kiện sẽ được Founder trao tặng những chiếc áo Coders.Tokyo. Quà tặng tuy không nhiều giá trị nhưng ý nghĩa tinh thần là rất to lớn. Ngoài ra bạn sẽ có cơ hội được mời vào đội ngũ CodersX để đông hành cùng mọi người nếu bạn có thể.
+            Quà tặng sẽ được chuẩn bị đầy đủ kèm theo các phần giao lưu hoạt động, trò chơi nhằm tạo nên kỷ niệm giữa sinh viên và cộng đồng Coders.Tokyo.
+            Bằng cách tham gia trả lời các câu hỏi vui về lập trình hoặc chiến thắng trong các phần trò chơi sẽ được trao tặng áo phông, huy hiệu và sticker của Coders.Tokyo
           </p>
           <p class="lead text-center"><b>Áo phông Coders.Tokyo</b></p>
           <div class="text-center">
@@ -210,7 +251,7 @@ markdown:
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <h2 class="text-center mb-5">Những Event trước đây</h2>
+          <h2 class="text-center mb-5">Blogs</h2>
         </div>
       </div>
     </div>
