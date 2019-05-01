@@ -160,16 +160,16 @@ markdown:
   <section class="text-center bg--secondary">
     <div class="container">
       <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-3 offset-3">
           <div class="feature feature-8">
-            <img alt="Hamada Kenichi" style="width: 128px; height: 128px" src="/images/events/hamada_kenichi.jpg" />
+            <img alt="Hamada Kenichi" style="width: 128px" src="/images/events/hamada_kenichi.png" />
             <h5>Hamada Kenichi</h5>
             <span>Khách mời</span>
           </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-3">
           <div class="feature feature-8">
-            <img alt="Joboji Yuichi" style="width: 128px;" src="/images/events/joboji_yuichi.jpg" />
+            <img alt="Joboji Yuichi" style="width: 128px" src="/images/events/joboji_yuichi.png" />
             <h5>Joboji Yuichi</h5>
             <span>Khách mời</span>
           </div>
