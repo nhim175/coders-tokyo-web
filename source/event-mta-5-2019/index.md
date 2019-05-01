@@ -1,5 +1,5 @@
 ---
-title: event-mta-5-2019
+title: Sự kiện Học lập trình và đi Nhật làm việc với 0 đồng.
 date: 2019-04-30 21:19:25
 markdown:
   gfm: false
@@ -15,14 +15,14 @@ markdown:
         <div class="col-sm-8 col-sm-offset-2">
           <div class="text-center">
             <h1>
-              Sự kiện lập trình tháng 5 năm 2019
+              <small>Sự kiện</small><br/> Học lập trình và đi Nhật làm việc <br/>với 0 đồng.
             </h1>
             <p class="lead">
               Được tổ chức tại Học Viện Kỹ Thuật Quân Sự - MTA
               <br/>
-              Sự kiện lập trình miễn phí được tổ chức bởi cộng đồng Coders.Tokyo
+              Thời gian: 17 tháng 5 năm 2019
             </p>
-            <a class="btn btn--primary type--uppercase" href="http://bit.ly/coders-tokyo-da-nang" target="_blank">
+            <a class="btn btn--primary type--uppercase" href="http://bit.ly/coders-tokyo-mta-05-2019" target="_blank">
               <span class="btn__text">
                 Đăng ký tham gia sự kiện miễn phí
               </span>
@@ -73,7 +73,7 @@ markdown:
           </div>
           <div class="text-block">
             <h5>Thời lượng chương trình</h5>
-            <p class="text-blue">09:00 - 12:00 AM</p>
+            <p class="text-blue">08:00 - 12:00</p>
           </div>
           <div class="text-block">
             <h5>Đối tượng tham gia</h5>
