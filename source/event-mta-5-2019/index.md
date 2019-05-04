@@ -63,7 +63,7 @@ markdown:
             Cộng đồng được xem như tổ chức phi lợi nhuận với mong muốn giúp đỡ các bạn học sinh, sinh viên được học lập trình miễn phí. Sự phát triển của cộng đồng phụ thuộc vào sự ủng hộ và tham gia nhiệt tình từ các bạn sinh viên và những bạn đam mê lập trình khác.
           </p>
           <p class="lead">
-            Buổi sự kiện này mang tính chất giao lưu và chia sẽ cùng các bạn sinh viên Việt Nam là chính. Các bạn sẽ được chia sẽ cách học, cách làm. Biết được bản thân đang cần những điều kiện và kiến thức gì để tự phát triển nhanh hơn.
+            Buổi sự kiện này mang tính chất giao lưu và Chia sẻ cùng các bạn sinh viên Việt Nam là chính. Các bạn sẽ được Chia sẻ cách học, cách làm. Biết được bản thân đang cần những điều kiện và kiến thức gì để tự phát triển nhanh hơn.
           </p>
         </div>
         <div class="col-md-4 col-lg-3">
@@ -160,7 +160,7 @@ markdown:
   <section class="text-center bg--secondary">
     <div class="container">
       <div class="row">
-        <div class="col-md-3 offset-3">
+        <div class="col-md-3 offset-md-3">
           <div class="feature feature-8">
             <img alt="Hamada Kenichi" style="width: 128px" src="/images/events/hamada_kenichi.png" />
             <h5>Hamada Kenichi</h5>
@@ -193,9 +193,9 @@ markdown:
         <div class="col-md-6 offset-md-3">
           <ul class="lead">
             <li>- Giới thiệu cộng đồng</li>
-            <li>- Chia sẽ từ phía CEO của KoiJapan</li>
-            <li>- Chia sẽ thêm về giá trị của đội ngũ CodersX</li>
-            <li>- Chia sẽ kinh nghiệm và cách tự học lập trình hiệu quả</li>
+            <li>- Chia sẻ từ phía CEO của KoiJapan</li>
+            <li>- Chia sẻ thêm về giá trị của đội ngũ CodersX</li>
+            <li>- Chia sẻ kinh nghiệm và cách tự học lập trình hiệu quả</li>
             <li>- Kinh nghiệm làm việc tại Nhật Bản và các quốc gia khác</li>
             <li>- Kỹ năng cần có để xin việc ngoại quốc và cách rèn luyện</li>
             <li>- Tham gia hoạt động, trò chơi giao lưu với nhiều quà tặng</li>
@@ -203,7 +203,7 @@ markdown:
         </div>
       </div>
       <div class="text-center">
-        <a class="btn btn--primary type--uppercase" href="http://bit.ly/coders-tokyo-da-nang" target="_blank">
+        <a class="btn btn--primary type--uppercase" href="http://bit.ly/coders-tokyo-mta-05-2019" target="_blank">
           <span class="btn__text">
             Đăng ký tham dự
           </span>
@@ -232,10 +232,10 @@ markdown:
           <p class="lead text-center"><b>Áo phông Coders.Tokyo</b></p>
           <div class="text-center">
             <a class="btn type--uppercase"
-              href="http://bit.ly/coders-tokyo-da-nang"
+              href="http://bit.ly/coders-tokyo-mta-05-2019"
               target="_blank">
               <span class="btn__text">
-                Chia sẽ cho bạn bè
+                Chia sẻ cho bạn bè
               </span>
             </a>
           </div>
