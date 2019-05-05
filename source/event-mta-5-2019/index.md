@@ -63,7 +63,7 @@ markdown:
             Cộng đồng được xem như tổ chức phi lợi nhuận với mong muốn giúp đỡ các bạn học sinh, sinh viên được học lập trình miễn phí. Sự phát triển của cộng đồng phụ thuộc vào sự ủng hộ và tham gia nhiệt tình từ các bạn sinh viên và những bạn đam mê lập trình khác.
           </p>
           <p class="lead">
-            Buổi sự kiện này mang tính chất giao lưu và Chia sẻ cùng các bạn sinh viên Việt Nam là chính. Các bạn sẽ được Chia sẻ cách học, cách làm. Biết được bản thân đang cần những điều kiện và kiến thức gì để tự phát triển nhanh hơn.
+            Buổi sự kiện này mang tính chất giao lưu và chia sẻ cùng các bạn sinh viên Việt Nam là chính. Các bạn sẽ được chia sẻ cách học, cách làm. Biết được bản thân đang cần những điều kiện và kiến thức gì để tự phát triển nhanh hơn.
           </p>
         </div>
         <div class="col-md-4 col-lg-3">
