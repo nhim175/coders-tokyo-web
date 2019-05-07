@@ -20,7 +20,7 @@ markdown:
             <p class="lead">
               Được tổ chức tại Học Viện Kỹ Thuật Quân Sự - MTA
               <br/>
-              Thời gian: 17 tháng 5 năm 2019
+              Thời gian: 16 tháng 5 năm 2019
             </p>
             <a class="btn btn--primary type--uppercase" href="http://bit.ly/coders-tokyo-mta-05-2019" target="_blank">
               <span class="btn__text">
@@ -69,7 +69,8 @@ markdown:
         <div class="col-md-4 col-lg-3">
           <div class="text-block">
             <h5>Thời gian dự kiến</h5>
-            <span class="text-blue">Ngày 17 tháng 05 năm 2019</span>
+            <span class="text-blue" style="text-decoration: line-through; color: #dcdcdc">Ngày 17 tháng 05 năm 2019</span><br/>
+            <span class="text-blue">Ngày 16 tháng 05 năm 2019</span>
           </div>
           <div class="text-block">
             <h5>Thời lượng chương trình</h5>
