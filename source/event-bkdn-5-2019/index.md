@@ -69,17 +69,21 @@ markdown:
         <div class="col-md-4 col-lg-3">
           <div class="text-block">
             <h5>Thời gian dự kiến</h5>
-            <span class="text-blue">Ngày 16 tháng 05 năm 2019</span>
+            <span class="text-blue">Ngày 18 tháng 05 năm 2019</span>
           </div>
           <div class="text-block">
             <h5>Thời lượng chương trình</h5>
-            <p class="text-blue">08:00 - 12:00 AM</p>
+            <p class="text-blue">08:00 - 11:00 AM</p>
+          </div>
+          <div class="text-block">
+            <h5>Địa điểm</h5>
+            <p class="text-blue">Hội trường DNES - 31 Trần Phú</p>
           </div>
           <div class="text-block">
             <h5>Đối tượng tham gia</h5>
             <ul class="list-time">
-              <li>Sinh viên đang học tại trường</li>
-              <li>Những ai có đam mê với lập trình</li>
+              <li>Sinh viên đang theo học lập trình</li>
+              <li>Những ai có đam mê và muốn bắt đầu học lập trình</li>
               <li>Những ai mới bắt đầu học lập trình</li>
               <li>Các thầy cô quan tâm tới cộng đồng</li>
               <li>Các đối tượng khách mời</li>

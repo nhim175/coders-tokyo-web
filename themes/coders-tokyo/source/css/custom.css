@@ -100,19 +100,52 @@ article .article__body h4 {
 
 /* ------------------ For Events Page ------------------ */
 .text-blue {
-  color: #4a90e2
+  color: #4a90e2;
 }
 
 .custom.blur-background:before {
   background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
-  opacity: .6;
+  opacity: 0.6;
 }
 
 .list-time {
-  list-style: disc;
-  margin-left: 1.2rem!important;
+  list-style: none;
+  margin-left: 1.2rem !important;
 }
 
 .list-time li {
-  margin: .6rem 0;
+  margin: 0.6rem 0;
+}
+
+.banner_view_more {
+  position: absolute;
+  left: 50%;
+  bottom: 12px;
+  transform: translateX(-50%);
+  animation: 1s upanddown infinite;
+}
+
+@keyframes upanddown {
+  from {
+    transform: translate(-50%, -60%);
+  }
+  50% {
+    transform: translate(-50%, -30%);
+  }
+  to {
+    transform: translate(-50%, -60%);
+  }
+}
+
+.banner_view_more::before {
+  content: "";
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  top: 40%;
+  left: 106%;
+  background: transparent;
+  border-bottom: 1px solid white;
+  border-right: 1px solid white;
+  transform: translateY(-50%) rotate(45deg);
 }

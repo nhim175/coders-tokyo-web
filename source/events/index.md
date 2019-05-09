@@ -20,19 +20,15 @@ markdown:
             <p class="lead">
               Hai sự kiện lớn của tháng 5 được tổ chức tại hai trường đại học lớn tại Việt Nam.
               <br/>
-              Đại học báck khoa Đà Nẵng (BKDN) - Học viện kỹ thuật quân sự (MTA)
+              Thành phố công nghệ Đà Nẵng - Học viện kỹ thuật quân sự (MTA)
             </p>
-            <a class="btn btn--primary type--uppercase" href="http://bit.ly/coders-tokyo-da-nang" target="_blank">
-              <span class="btn__text">
-                Đăng ký tham gia sự kiện miễn phí
-              </span>
-            </a>
           </div>
         </div>
       </div>
       <!--end of row-->
     </div>
     <!--end of container-->
+    <p class="banner_view_more">Cuộn để biết thêm chi tiết</p>
   </section>
 
   <img class="d-none" src="https://coders.tokyo/images/meta-cover.jpg" />
@@ -54,46 +50,69 @@ markdown:
   <section class="switchable bg--secondary">
     <div class="container">
       <div class="row justify-content-around">
-        <div class="col-md-8 col-lg-7">
+        <div class="col-10 text-center">
           <h2>Mong muốn của cộng đồng</h2>
           <p class="lead">
-            Cộng đồng mong muốn xây dựng một môi trường học tập, giáo dục và cơ hội việc làm tốt nhất cho tất cả sinh viên Việt Nam.
+            Cộng đồng mong muốn xây dựng một môi trường học tập, giáo dục và cơ hội việc làm tốt nhất cho tất cả sinh viên Việt Nam. Tạo điều kiện để các bạn sớm tiếp xúc với môi trường làm việc thực tế với nhiều khách hàng nước khác.
           </p>
           <p class="lead">
             Cộng đồng được xem như tổ chức phi lợi nhuận với mong muốn giúp đỡ các bạn học sinh, sinh viên được học lập trình miễn phí. Sự phát triển của cộng đồng phụ thuộc vào sự ủng hộ và tham gia nhiệt tình từ các bạn sinh viên và những bạn đam mê lập trình khác.
           </p>
-          <p class="lead">
-            Buổi sự kiện này mang tính chất giao lưu và chia sẽ cùng các bạn sinh viên Việt Nam là chính. Các bạn sẽ được chia sẽ cách học, cách làm. Biết được bản thân đang cần những điều kiện và kiến thức gì để tự phát triển nhanh hơn.
-          </p>
-        </div>
-        <div class="col-md-4 col-lg-3">
-          <div class="text-block">
-            <h5>Thời gian dự kiến</h5>
-            <ul class="list-time">
-              <li>Bách Khoa Đà Nẵng - <span class="time-wrap">In Review</span></li>
-              <li>Học viện MTA - <span class="time-wrap">17.05.2019</span></li>
-            </ul>
-          </div>
-          <div class="text-block">
-            <h5>Thời lượng chương trình</h5>
-            <ul class="list-time">
-              <li>Bách Khoa Đà Nẵng - <span class="time-wrap">In Review</span></li>
-              <li>Học viện MTA - <span class="time-wrap">09:00 - 12:00</span></li>
-            </ul>
-          </div>
-          <div class="text-block">
-            <h5>Đối tượng tham gia</h5>
-            <ul class="list-time">
-              <li>Sinh viên đang học tại HVKTQS</li>
-              <li>Các thầy cô quan tâm tới cộng đồng</li>
-              <li>Các đối tượng khách mời</li>
-            </ul>
-          </div>
         </div>
       </div>
       <!--end of row-->
     </div>
     <!--end of container-->
+  </section>
+
+  <section class="text-center">
+    <h2>Thành phố Đà Nẵng</h2>
+    <div class="col-12">
+      <div class="text-block">
+        <h5>Thời gian dự kiến</h5>
+        <ul class="list-time">
+          <li>Ngày 18 tháng 05 năm 2019</li>
+        </ul>
+      </div>
+      <div class="text-block">
+        <h5>Địa điểm</h5>
+        <ul class="list-time">
+          <li>Hội trường DNES - 31 Trần Phú</li>
+        </ul>
+      </div>
+      <div class="text-block">
+        <h5>Thời lượng chương trình</h5>
+        <ul class="list-time">
+          <li>08:00 - 11:00 AM</li>
+        </ul>
+      </div>
+      <a target="_blank" href="/event-bkdn-5-2019" class="btn btn--primary btn__text"><span class="btn__text">Xem thêm về sự kiện</span></a>
+    </div>
+  </section>
+
+  <section class="text-center bg--secondary">
+    <h2>Học viện kỹ thuật quân sự - MTA</h2>
+    <div class="col-12">
+      <div class="text-block">
+        <h5>Thời gian dự kiến</h5>
+        <ul class="list-time">
+          <li>Ngày 16 tháng 05 năm 2019</li>
+        </ul>
+      </div>
+      <div class="text-block">
+        <h5>Địa điểm</h5>
+        <ul class="list-time">
+          <li>Phòng hội thảo tầng 7 - Nhà S4 - MTA</li>
+        </ul>
+      </div>
+      <div class="text-block">
+        <h5>Thời lượng chương trình</h5>
+        <ul class="list-time">
+          <li>08:00 - 12:00 AM</li>
+        </ul>
+      </div>
+      <a target="_blank" href="/event-mta-5-2019" class="btn btn--primary btn__text"><span class="btn__text">Xem thêm về sự kiện</span></a>
+    </div>
   </section>
 
   <section class="text-center">
@@ -154,21 +173,21 @@ markdown:
         <div class="col-md-6 offset-md-3">
           <ul class="lead">
             <li>- Giới thiệu cộng đồng</li>
-            <li>- Chia sẽ từ phía CEO của KoiJapan</li>
-            <li>- Chia sẽ thêm về giá trị của đội ngũ CodersX</li>
-            <li>- Chia sẽ kinh nghiệm và cách tự học lập trình hiệu quả</li>
+            <li>- Chia sẻ từ phía CEO của KoiJapan</li>
+            <li>- Chia sẻ thêm về giá trị của đội ngũ CodersX</li>
+            <li>- Chia sẻ kinh nghiệm và cách tự học lập trình hiệu quả</li>
             <li>- Kinh nghiệm làm việc tại Nhật Bản và các quốc gia khác</li>
             <li>- Kỹ năng cần có để xin việc ngoại quốc và cách rèn luyện</li>
           </ul>
         </div>
       </div>
-      <div class="text-center">
+      <!-- <div class="text-center">
         <a class="btn btn--primary type--uppercase" href="http://bit.ly/coders-tokyo-da-nang" target="_blank">
           <span class="btn__text">
-            Đăng ký tham dự
+            Đăng ký tham gia
           </span>
         </a>
-      </div>
+      </div> -->
     </div>
   </section>
 
@@ -183,13 +202,13 @@ markdown:
     </div>
     <div class="container">
       <div class="row">
-        <div class="col-md-8 mb-4">
+        <div class="col-12 text-center">
           <h4>Áo phông Coders.Tokyo đang chờ đón bạn</h4>
           <p class="lead">
             Những bạn tham gia nhiệt quyết trong suốt sự kiện sẽ được Founder trao tặng những chiếc áo Coders.Tokyo. Quà tặng tuy không nhiều giá trị nhưng ý nghĩa tinh thần là rất to lớn. Ngoài ra bạn sẽ có cơ hội được mời vào đội ngũ CodersX để đông hành cùng mọi người nếu bạn có thể.
           </p>
-          <p class="lead text-center"><b>Áo phông Coders.Tokyo</b></p>
-          <div class="text-center">
+          <!-- <p class="lead text-center"><b>Áo phông Coders.Tokyo</b></p> -->
+          <!-- <div class="text-center">
             <a class="btn type--uppercase"
               href="http://bit.ly/coders-tokyo-da-nang"
               target="_blank">
@@ -197,9 +216,9 @@ markdown:
                 Chia sẽ cho bạn bè
               </span>
             </a>
-          </div>
+          </div> -->
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 offset-4 mt-4">
           <img src="/images/events/tshirt.jpg" class="border--round box-shadow-shallow" />
         </div>
       </div>

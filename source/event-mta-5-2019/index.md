@@ -77,6 +77,10 @@ markdown:
             <p class="text-blue">08:00 - 12:00</p>
           </div>
           <div class="text-block">
+            <h5>Địa điểm</h5>
+            <p class="text-blue">Phòng hội thảo tầng 7 - Nhà S4 - MTA</p>
+          </div>
+          <div class="text-block">
             <h5>Đối tượng tham gia</h5>
             <ul class="list-time">
               <li>Sinh viên đang học tại trường</li>
