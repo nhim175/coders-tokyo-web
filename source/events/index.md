@@ -86,7 +86,7 @@ markdown:
           <li>08:00 - 11:00 AM</li>
         </ul>
       </div>
-      <a target="_blank" href="/event-bkdn-5-2019" class="btn btn--primary btn__text"><span class="btn__text">Xem thêm về sự kiện</span></a>
+      <a target="_blank" href="/event-danang-5-2019" class="btn btn--primary btn__text"><span class="btn__text">Xem thêm về sự kiện</span></a>
     </div>
   </section>
 
