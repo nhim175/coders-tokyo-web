@@ -41,7 +41,7 @@ markdown:
     <div class="container">
       <div class="row">
         <div class="col-md-12 text-center d-flex justify-content-around">
-          <div> <img alt="DNES" style="width: 90px;" src="/images/events/dnes.png" /> </div>
+          <div> <img alt="DNES" style="width: 90px;" src="/images/events/dnes1.png" /> </div>
           <div> <img alt="Sun*" style="width: 90px;" src="/images/events/sun.png" /> </div>
           <div> <img alt="CodersX" style="width: 110px;" src="/images/events/codersx.png" /> </div>
           <div> <img alt="SurfSpace" style="width: 90px;" src="/images/events/surfspace.png" /> </div>
@@ -254,7 +254,7 @@ markdown:
       <h2 class="text-center"> Nhà Tài Trợ </h2>
       <div class="card-deck">
         <div class="card"> 
-          <img class="card-img-top" alt="DNES" src="/images/events/dnes.png" />
+          <img class="card-img-top" alt="DNES" src="/images/events/dnes1.png" />
           <div class="card-body">
             <h5 class="card-title text-center">Vườn Ươm Doanh Nghiệp Đà Nẵng</h5>
             <p class="card-text">Là một vườn ươm doanh nghiệp tại Đà Nẵng, DNES tự nhận cho mình sứ mệnh giúp đỡ các startup giai đoạn đầu. Chúng tôi cung cấp những sự hỗ trợ trực tiếp thông qua các khoá đào tạo, không gian văn phòng, tư vấn - cố vấn khởi nghiệp cũng như tạo ra các cơ hội kết nối. Các startup tham gia vào chương trình ươm tạo của DNES sẽ được trang bị những kiến thức khởi nghiệp thành công như phát triển sản phẩm, nghiên cứu thị trường, nhân sự và gọi vốn. Từ năm 2016 đến nay, DNES đã tổ chức được 7 khoá ươm tạo với hơn 40 startup được hỗ trợ. Hiện DNES đang tuyển dự án tham gia chương trình ươm tạo khoá VIII. Chi tiết: Link đăng ký: http://bit.ly/finc8. Thời gian đăng ký và nhận hồ sơ: 31/05/2019.</p>
