@@ -1,5 +1,5 @@
 ---
-title: Đà Nẵng Event
+title: Sự kiện học lập trình và đi Nhật làm việc với 0 đồng tại Đà Nẵng
 date: 2019-04-30 20:25:02
 markdown:
   gfm: false
@@ -22,7 +22,7 @@ markdown:
               <br/>
               Thời gian: 8:00 AM - 11:00 AM (18/05/2019)
             </p>
-            <a class="btn btn--primary type--uppercase" href="https://bom.to/rSD7L" target="_blank">
+            <a class="btn btn--primary type--uppercase" href="http://bit.ly/event-danang-5-2019" target="_blank">
               <span class="btn__text">
                 Đăng ký tham gia sự kiện miễn phí
               </span>
@@ -41,10 +41,10 @@ markdown:
     <div class="container">
       <div class="row">
         <div class="col-md-12 text-center d-flex justify-content-around">
-          <div> <img alt="Sun*" style="width: 90px;" src="/images/events/dnes.png" /> </div>
+          <div> <img alt="DNES" style="width: 90px;" src="/images/events/dnes.png" /> </div>
           <div> <img alt="Sun*" style="width: 90px;" src="/images/events/sun.png" /> </div>
-          <div> <img alt="Sun*" style="width: 110px;" src="/images/events/codersx.png" /> </div>
-          <div> <img alt="Sun*" style="width: 90px;" src="/images/events/surfspace.png" /> </div>
+          <div> <img alt="CodersX" style="width: 110px;" src="/images/events/codersx.png" /> </div>
+          <div> <img alt="SurfSpace" style="width: 90px;" src="/images/events/surfspace.png" /> </div>
         </div>
       </div>
       <!--end of row-->
@@ -164,14 +164,14 @@ markdown:
       <div class="row">
         <div class="col-md-6">
           <div class="feature feature-8">
-            <img alt="Thịnh Phạm" style="width: 128px;" src="/images/events/Ha.png" />
+            <img alt="Hamada Kenichi" style="width: 128px;" src="/images/events/Ha.png" />
             <h5>Hamada Kenichi</h5>
             <span>CEO @ Reflux</span>
           </div>
         </div>
         <div class="col-md-6">
           <div class="feature feature-8">
-            <img alt="Katsutoshi Yamada" style="width: 128px;" src="/images/events/Jobo.png" />
+            <img alt="Joboji Yuichi" style="width: 128px;" src="/images/events/Jobo.png" />
             <h5>Joboji Yuichi</h5>
             <span>CEO @ Bous</span>
           </div>
@@ -204,7 +204,7 @@ markdown:
         </div>
       </div>
       <div class="text-center">
-        <a class="btn btn--primary type--uppercase" href="https://bom.to/rSD7L" target="_blank">
+        <a class="btn btn--primary type--uppercase" href="http://bit.ly/event-danang-5-2019" target="_blank">
           <span class="btn__text">
             Đăng ký tham dự
           </span>
@@ -254,7 +254,7 @@ markdown:
       <h2 class="text-center"> Nhà Tài Trợ </h2>
       <div class="card-deck">
         <div class="card"> 
-          <img class="card-img-top" alt="Sun*" src="/images/events/dnes.png" />
+          <img class="card-img-top" alt="DNES" src="/images/events/dnes.png" />
           <div class="card-body">
             <h5 class="card-title text-center">Vườn Ươm Doanh Nghiệp Đà Nẵng</h5>
             <p class="card-text">Là một vườn ươm doanh nghiệp tại Đà Nẵng, DNES tự nhận cho mình sứ mệnh giúp đỡ các startup giai đoạn đầu. Chúng tôi cung cấp những sự hỗ trợ trực tiếp thông qua các khoá đào tạo, không gian văn phòng, tư vấn - cố vấn khởi nghiệp cũng như tạo ra các cơ hội kết nối. Các startup tham gia vào chương trình ươm tạo của DNES sẽ được trang bị những kiến thức khởi nghiệp thành công như phát triển sản phẩm, nghiên cứu thị trường, nhân sự và gọi vốn. Từ năm 2016 đến nay, DNES đã tổ chức được 7 khoá ươm tạo với hơn 40 startup được hỗ trợ. Hiện DNES đang tuyển dự án tham gia chương trình ươm tạo khoá VIII. Chi tiết: Link đăng ký: http://bit.ly/finc8. Thời gian đăng ký và nhận hồ sơ: 31/05/2019.</p>
