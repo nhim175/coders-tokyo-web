@@ -1,5 +1,5 @@
 ---
-title: event-bkdn-5-2019
+title: Đà Nẵng Event
 date: 2019-04-30 20:25:02
 markdown:
   gfm: false
@@ -15,14 +15,14 @@ markdown:
         <div class="col-sm-8 col-sm-offset-2">
           <div class="text-center">
             <h1>
-              Sự kiện lập trình tháng 5 năm 2019
+              HỌC LẬP TRÌNH VÀ ĐI NHẬT LÀM VIỆC VỚI 0 ĐỒNG
             </h1>
             <p class="lead">
-              Được tổ chức tại trường đại học Bách khoa Đà Nẵng
+              Địa điểm: 31 Trần Phú, Đà Nẵng (Hội trường DNES)
               <br/>
-              Sự kiện lập trình miễn phí được tổ chức bởi cộng đồng Coders.Tokyo
+              Thời gian: 8:00 AM - 11:00 AM (18/05/2019)
             </p>
-            <a class="btn btn--primary type--uppercase" href="http://bit.ly/coders-tokyo-da-nang" target="_blank">
+            <a class="btn btn--primary type--uppercase" href="https://bom.to/rSD7L" target="_blank">
               <span class="btn__text">
                 Đăng ký tham gia sự kiện miễn phí
               </span>
@@ -40,17 +40,17 @@ markdown:
   <section class="cta cta-4 space--xxs">
     <div class="container">
       <div class="row">
-        <div class="col-md-12 text-center">
-          <span class="label label--inline">Chi phí hỗ trợ</span>
-          <span>Miễn phí thức uống và chi phí gửi xe
-          </span>
+        <div class="col-md-12 text-center d-flex justify-content-around">
+          <div> <img alt="Sun*" style="width: 90px;" src="/images/events/dnes.png" /> </div>
+          <div> <img alt="Sun*" style="width: 90px;" src="/images/events/sun.png" /> </div>
+          <div> <img alt="Sun*" style="width: 110px;" src="/images/events/codersx.png" /> </div>
+          <div> <img alt="Sun*" style="width: 90px;" src="/images/events/surfspace.png" /> </div>
         </div>
       </div>
       <!--end of row-->
     </div>
     <!--end of container-->
   </section>
-
   <section class="switchable bg--secondary">
     <div class="container">
       <div class="row justify-content-around">
@@ -64,6 +64,10 @@ markdown:
           </p>
           <p class="lead">
             Buổi sự kiện này mang tính chất giao lưu và chia sẽ cùng các bạn sinh viên Việt Nam là chính. Các bạn sẽ được chia sẽ cách học, cách làm. Biết được bản thân đang cần những điều kiện và kiến thức gì để tự phát triển nhanh hơn.
+          </p>
+          <h2>Lời cám ơn</h2>
+          <p class="lead">
+            Cộng đồng chân thành cám ơn các nhà tài trợ Sun&#42;, DNES, Surfspace đã cùng đồng hành cùng Coders.Tokyo tổ chức một buổi workshop thật ý nghĩa,hữu ích dành cho các bạn học sinh, sinh viên.
           </p>
         </div>
         <div class="col-md-4 col-lg-3">
@@ -102,7 +106,7 @@ markdown:
         <div class="col-md-10 col-lg-8">
           <h2>Diễn giả</h2>
           <p class="lead">
-            Coders.Tokyo hân hạnh giới thiệu về các diễn giả của buổi hội thảo, những người có kinh nghiệm trong lĩnh vực lập trình, đào tạo về kỹ thuật cũng như tiếng Nhật từ các công ty lớn tại Nhật Bản và Việt Nam.
+            Coders.Tokyo hân hạnh giới thiệu về các diễn giả của buổi hội thảo, những người có kinh nghiệm trong lĩnh vực lập trình, đào tạo về kỹ thuật cũng như tiếng Nhật từ các công ty lớn tại Nhật Bản và Việt Nam. Và đặc biệt, chúng ta còn có cơ hội được hỏi đáp những câu hỏi từ phía các doanh nghiệp.
           </p>
         </div>
       </div>
@@ -130,9 +134,9 @@ markdown:
         </div>
         <div class="col-md-4">
           <div class="feature feature-8">
-            <img alt="Katsutoshi Yamada" style="width: 128px;" src="/images/events/khoa.png" />
-            <h5>Khoa Bùi</h5>
-            <span>CEO @ KoiJapan</span>
+            <img alt="Trần Kim Ngân" style="width: 128px;" src="/images/events/trankimngan.png" />
+            <h5>Trần Kim Ngân</h5>
+            <span>HR @ Sun&#42; </span>
           </div>
         </div>
       </div>
@@ -146,7 +150,7 @@ markdown:
         <div class="col-md-10 col-lg-8">
           <h2>Khách mời</h2>
           <p class="lead">
-            Ngoài các diễn giả và speaker chính của cộng đồng Coders.Tokyo thì ban tổ chức có mời thêm một số khách mời đặc biệt. Họ đều là những người đã và đang thành công trong giới lập trình tại Việt Nam hoặc nước ngoài.
+            Ngoài các diễn giả và speaker chính của cộng đồng Coders.Tokyo thì ban tổ chức có mời thêm một số khách mời đặc biệt. Họ đều là những người đã và đang thành công trong giới lập trình tại Việt Nam hoặc nước ngoài. 
           </p>
         </div>
       </div>
@@ -160,16 +164,16 @@ markdown:
       <div class="row">
         <div class="col-md-6">
           <div class="feature feature-8">
-            <img alt="Thịnh Phạm" style="width: 128px;" src="/images/events/thinh.png" />
-            <h5>Name...</h5>
-            <span>Founder @ Sun</span>
+            <img alt="Thịnh Phạm" style="width: 128px;" src="/images/events/Ha.png" />
+            <h5>Hamada Kenichi</h5>
+            <span>CEO @ Reflux</span>
           </div>
         </div>
         <div class="col-md-6">
           <div class="feature feature-8">
-            <img alt="Katsutoshi Yamada" style="width: 128px;" src="/images/events/toshi.png" />
-            <h5>Name...</h5>
-            <span>Founder @ Howkteam</span>
+            <img alt="Katsutoshi Yamada" style="width: 128px;" src="/images/events/Jobo.png" />
+            <h5>Joboji Yuichi</h5>
+            <span>CEO @ Bous</span>
           </div>
         </div>
       </div>
@@ -188,20 +192,19 @@ markdown:
     </div>
     <div class="container">
       <div class="row mb-5">
-        <div class="col-md-6 offset-md-3">
+        <div class="col-md-8 offset-md-3">
           <ul class="lead">
-            <li>- Giới thiệu cộng đồng</li>
-            <li>- Chia sẽ từ phía CEO của KoiJapan</li>
-            <li>- Chia sẽ thêm về giá trị của đội ngũ CodersX</li>
-            <li>- Chia sẽ kinh nghiệm và cách tự học lập trình hiệu quả</li>
-            <li>- Kinh nghiệm làm việc tại Nhật Bản và các quốc gia khác</li>
-            <li>- Kỹ năng cần có để xin việc ngoại quốc và cách rèn luyện</li>
-            <li>- Tham gia hoạt động, trò chơi giao lưu với nhiều quà tặng</li>
+            <li>- Giới thiệu cộng đồng, các đối tác tổ chức</li>
+            <li>- Tầm nhìn của CodersX và các khoá học sắp tới</li>
+            <li>- Chia sẽ kinh nghiệm tự học lập trình tại Nhật</li>
+            <li>- TALK SHOW - "Cẩm nang cần thiết trước khi đi làm"</li>
+            <li>- Chương trình tặng quà</li>
+            <li>- Chương trình đào tạo kỹ sư cử đi Nhật làm việc với chi phí 0 đồng</li>
           </ul>
         </div>
       </div>
       <div class="text-center">
-        <a class="btn btn--primary type--uppercase" href="http://bit.ly/coders-tokyo-da-nang" target="_blank">
+        <a class="btn btn--primary type--uppercase" href="https://bom.to/rSD7L" target="_blank">
           <span class="btn__text">
             Đăng ký tham dự
           </span>
@@ -225,8 +228,9 @@ markdown:
           <h4>Áo phông Coders.Tokyo đang chờ đón bạn</h4>
           <p class="lead">
             Quà tặng sẽ được chuẩn bị đầy đủ kèm theo các phần giao lưu hoạt động, trò chơi nhằm tạo nên kỷ niệm giữa sinh viên và cộng đồng Coders.Tokyo.
-            Bằng cách tham gia trả lời các câu hỏi vui về lập trình hoặc chiến thắng trong các phần trò chơi sẽ được trao tặng áo phông, huy hiệu và sticker của Coders.Tokyo
+            Bằng cách tham gia trả lời các câu hỏi vui về lập trình hoặc chiến thắng trong các phần trò chơi sẽ được trao tặng áo phông, móc khoá, gối ôm, cốc và sticker của Coders.Tokyo và các nhà tài trợ.
           </p>
+          <p class="h4"><span class="text-danger">Lưu ý:</span> Sẽ có những phần quà đặc biệt dành cho 15 bạn đến sớm nhất. </p>
           <p class="lead text-center"><b>Áo phông Coders.Tokyo</b></p>
           <div class="text-center">
             <a class="btn type--uppercase"
@@ -245,19 +249,53 @@ markdown:
     </div>
   </section>
 
-  <!-- <section class="bg--secondary">
+  <section class="switchable">
     <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <h2 class="text-center mb-5">Blogs</h2>
+      <h2 class="text-center"> Nhà Tài Trợ </h2>
+      <div class="card-deck">
+        <div class="card"> 
+          <img class="card-img-top" alt="Sun*" src="/images/events/dnes.png" />
+          <div class="card-body">
+            <h5 class="card-title text-center">Vườn Ươm Doanh Nghiệp Đà Nẵng</h5>
+            <p class="card-text">Là một vườn ươm doanh nghiệp tại Đà Nẵng, DNES tự nhận cho mình sứ mệnh giúp đỡ các startup giai đoạn đầu. Chúng tôi cung cấp những sự hỗ trợ trực tiếp thông qua các khoá đào tạo, không gian văn phòng, tư vấn - cố vấn khởi nghiệp cũng như tạo ra các cơ hội kết nối. Các startup tham gia vào chương trình ươm tạo của DNES sẽ được trang bị những kiến thức khởi nghiệp thành công như phát triển sản phẩm, nghiên cứu thị trường, nhân sự và gọi vốn. Từ năm 2016 đến nay, DNES đã tổ chức được 7 khoá ươm tạo với hơn 40 startup được hỗ trợ. Hiện DNES đang tuyển dự án tham gia chương trình ươm tạo khoá VIII. Chi tiết: Link đăng ký: http://bit.ly/finc8. Thời gian đăng ký và nhận hồ sơ: 31/05/2019.</p>
+            <a href=" http://dnes.vn/finc/"  class="btn btn--primary" role="button"> 
+              <span class="btn__text">
+                Xem thêm
+              </span> 
+            </a>
+          </div>
+        </div>
+        <div class="card"> 
+          <img class="card-img-top" alt="Sun*"  src="/images/events/sun.png" />
+          <div class="card-body">
+            <h5 class="card-title text-center">CÔNG TY TNHH SUN ASTERISK VIỆT NAM</h5>
+            <p class="card-text">Sun&#42; Inc. (tiền thân là Framgia Inc.), được thành lập vào năm 2012, là một Digital Creative Studio hiện có hơn 1300 thành viên tại 6 thành phố ở 4 quốc gia Châu Á. Mang trên mình sứ mệnh kết nối doanh nghiệp toàn cầu với đội ngũ nhân lực sáng giá nhất châu Á, từ khi thành lập cho đến nay, Sun* luôn nỗ lực để đem tới cho thế giới những giá trị “Awesome”. </p>
+            <a href="https://sun-asterisk.vn/"  class="btn btn--primary" role="button"> 
+              <span class="btn__text">
+                Xem thêm
+              </span> 
+            </a>
+          </div>
+        </div>
+        <div class="card"> 
+          <img class="card-img-top"  alt="surfspace" src="/images/events/surfspace.png" />
+          <div class="card-body">
+            <h5 class="card-title text-center">SUFR SPACE</h5>
+            <p class="card-text">Nằm ở trung tâm thành phố biển Đà Nẵng, SURFSPACE đặt mục tiêu tạo ra một không gian đầy cảm hứng cho ngành công nghiệp đổi mới sáng tạo. Lấy cảm hứng từ “con sóng,” là một trong những sức mạnh tự nhiên mạnh mẽ và linh hoạt, chúng tôi hy vọng sẽ tiếp thêm sức mạnh cho làn sóng sáng tạo của từng cá nhân. Chúng tôi đáp ứng tốt nhất nhu cầu của bạn với việc cung cấp không gian làm việc đầy cảm hứng với tiện nghi hiện đại cùng với một cộng đồng các doanh nhân cùng chí hướng gắn kết chặt chẽ với nhau. SURFSPACE tự hào là một thương hiệu của Vườn ươm doanh nghiệp Đà Nẵng – DNES, đơn vị được Hội đồng Anh đề cử là một trong những không gian sáng tạo nhất ở Việt Nam vào năm 2018.
+            Hãy đến với chúng tôi tại SURFSPACE!
+            </p>
+            <a href="http://surfspace.vn/"  class="btn btn--primary" role="button"> 
+              <span class="btn__text">
+                Xem thêm
+              </span> 
+            </a>
+          </div>
         </div>
       </div>
     </div>
-  </section> -->
+  </section>
 
-  <!-- <iframe src="https://snazzymaps.com/embed/103627" width="100%" height="600px" style="border:none;"></iframe> -->
-
-  <section class="pb-0">
+  <section class="pb-0 bg--secondary">
     <div class="container">
       <div class="row justify-content-center pb-5">
         <div class="col-md-8">
