@@ -17,7 +17,7 @@ Khi bạn tiếp nhận thông tin, não nhận được tín hiệu từ các g
 
 ## Bản đồ kho báu
 
-Trong kỳ 1, _Trí nhớ hoạt động như thế nào?_, mình có viết rằng bộ nhớ dài hạn là một _nhà kho hỗn độn_. Để hiểu rõ về nhà kho hỗn độn này, bạn nên đọc Series Hiểu về Não - kỳ 1 trước khi đọc tiếp [ở đây]().
+Trong kỳ 1, _Trí nhớ hoạt động như thế nào?_, mình có viết rằng bộ nhớ dài hạn là một _nhà kho hỗn độn_. Để hiểu rõ về nhà kho hỗn độn này, bạn nên đọc Series Hiểu về Não - kỳ 1 trước khi đọc tiếp [ở đây](https://coders.tokyo/2019/06/04/Hieu-ve-nao-ky-1-tri-nho-hoat-dong-nhu-the-nao/).
 
 ![Bản đồ kho báu](https://res.cloudinary.com/djeghcumw/image/upload/v1559656683/blog/ban-do-kho-bau.png)
 
