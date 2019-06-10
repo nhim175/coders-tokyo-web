@@ -1,23 +1,14 @@
-<link
-  rel="stylesheet"
-  href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css"
-/>
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" />
 <section>
   <div class="container">
-    <article
-      id="<%= post.layout %>-<%= post.slug %>"
-      class="article article-type-<%= post.layout %>"
-      itemscope
-      itemprop="blogPost"
-    >
+    <article id="<%= post.layout %>-<%= post.slug %>" class="article article-type-<%= post.layout %>" itemscope
+      itemprop="blogPost">
       <div class="article-inner row justify-content-center">
         <div class="article-entry col-md-10 col-lg-8" itemprop="articleBody">
           <% if (post.excerpt && index){ %> <%- post.excerpt %> <% if
           (theme.excerpt_link){ %>
           <p class="article-more-link">
-            <a href="<%- url_for(post.path) %>#more"
-              ><%= theme.excerpt_link %></a
-            >
+            <a href="<%- url_for(post.path) %>#more"><%= theme.excerpt_link %></a>
           </p>
           <% } %> <% } else { %>
           <div class="article__title">
@@ -31,35 +22,47 @@
           <% } %> <% if (!index && post.comments && config.disqus_shortname){ %>
           <section id="comments" class="pb-0">
             <div id="disqus_thread">
-              <noscript
-                >Please enable JavaScript to view the
-                <a href="//disqus.com/?ref_noscript"
-                  >comments powered by Disqus.</a
-                ></noscript
-              >
+              <noscript>Please enable JavaScript to view the
+                <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
             </div>
           </section>
           <% } %> <% if (config.disqus_shortname){ %>
           <script>
             var disqus_shortname = '<%= config.disqus_shortname %>';
-            <% if (page.permalink){ %>
+            <% if (page.permalink) { %>
             var disqus_url = '<%= page.permalink %>';
             <% } %>
-            (function(){
-              var dsq = document.createElement('script');
-              dsq.type = 'text/javascript';
-              dsq.async = true;
-              dsq.src = '//' + disqus_shortname + '.disqus.com/<% if (page.comments) { %>embed.js<% } else { %>count.js<% } %>';
-              (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-            })();
+              (function () {
+                var dsq = document.createElement('script');
+                dsq.type = 'text/javascript';
+                dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/<% if (page.comments) { %>embed.js<% } else { %>count.js<% } %>';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+              })();
           </script>
           <% } %>
         </div>
       </div>
+      <button class="scroll_top_btn">
+        <img src="https://image.flaticon.com/icons/svg/120/120891.svg" alt="Scroll top icon">
+      </button>
     </article>
   </div>
 </section>
 <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js"></script>
 <script>
   hljs.initHighlightingOnLoad();
+</script>
+<!-- Scroll top button script -->
+<script>
+  const button = document.querySelector('.scroll_top_btn');
+  const topScrollTo = function () {
+    if (window.scrollY > 0) {
+      setTimeout(function () {
+        window.scrollTo(0, window.scrollY - 40)
+        topScrollTo();
+      }, 2)
+    }
+  }
+  button.addEventListener('click', topScrollTo);
 </script>

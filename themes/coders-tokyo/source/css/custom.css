@@ -60,6 +60,32 @@ article .article__body h4 {
   font-weight: 600;
 }
 
+article .scroll_top_btn {
+  position: fixed;
+  bottom: 1.3rem;
+  right: 7rem;
+  width: 54px;
+  height: 54px;
+  border-radius: 50%;
+  box-shadow: 5px 0 20px 5px rgba(0, 0, 0, 0.1);
+  border: none;
+  background: #fff;
+  transition: 200ms ease;
+}
+article .scroll_top_btn:active {
+  transform: scale(0.9);
+}
+article .scroll_top_btn img {
+  width: 28px;
+  height: auto;
+}
+@media (max-width: 768px) {
+  article .scroll_top_btn {
+    right: 6.2rem;
+    bottom: 0.68rem;
+  }
+}
+
 /* ------------------ Tuts Page ------------------ */
 .course-thumbnail {
   border-radius: 4px;
