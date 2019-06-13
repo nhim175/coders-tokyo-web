@@ -140,7 +140,7 @@ article .article__body h4 {
 }
 
 .banner_view_more::before {
-  content: "";
+  content: '';
   width: 10px;
   height: 10px;
   position: absolute;
@@ -167,12 +167,9 @@ article .article__body h4 {
   position: relative;
 }
 
-.coderx-bg-2 div {
-  background: rgba(255, 255, 255, 0.253);
-  box-sizing: border-box;
-  padding: 8rem 0;
-  width: 100%;
-  border-radius: 12px;
+.coderx-bg-2 .cover-content {
+  position: relative;
+  padding: 80px 0;
 }
 
 .coderx-bg::before,
@@ -185,6 +182,7 @@ article .article__body h4 {
   height: 100%;
   /* background-image: linear-gradient(to top, #f19eda36 0%, #4875c673 100%); */
   background-image: linear-gradient(to top, #5e18335d 0%, #05183b8a 100%);
+  z-index: 0;
 }
 
 .team__headerbox h2 {

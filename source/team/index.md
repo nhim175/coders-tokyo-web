@@ -12,7 +12,7 @@ markdown:
       <div class="row">
         <div class="col-md-6 col-lg-8">
           <div class="team__headerbox">
-            <h1 class="color--primary">Đội ngũ CodersX</h1>
+            <h1 class="color--white">Đội ngũ CodersX</h1>
             <h2 class="h2">Cố gắng mỗi ngày - Thành công sẽ đến</h2>
             <a class="btn btn--primary type--uppercase"
               href="#join-us"
@@ -31,19 +31,6 @@ markdown:
   </section>
 
   <img class="d-none" src="https://coders.tokyo/images/meta-cover.jpg" />
-  <section class="cta cta-4 space--xxs">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12 text-center">
-          <hr>
-          <span class="label label--inline">HOT</span>
-          <span><a href="http://bit.ly/coders-tokyo-signup" target="_blank"><b>Đăng ký</b></a> để nhận ngay <b class="color--primary-2">khoá học lập trình 1 năm</b> và cơ hội <b class="color--primary-2">đi làm tại Nhật</b> hoàn toàn <b class="color--primary-2">MIỄN PHÍ</b>.</span>
-        </div>
-      </div>
-      <!--end of row-->
-    </div>
-    <!--end of container-->
-  </section>
 
   <section class="text-center bg--secondary">
     <div class="container">
@@ -214,10 +201,10 @@ markdown:
   </section>
 
   <section class="cover height-80 text-center coderx-bg-2 team__parallax--box">
-      <div>
-        <h2 class="h2 team__parallax--title">WE ARE CODERSX</h2>
-        <img src="https://image.flaticon.com/icons/svg/138/138533.svg" width="50px" height="auto">
-      </div>
+    <div class="cover-content">
+      <h1 class="color--white">We are CodersX</h2>
+      <img src="https://image.flaticon.com/icons/svg/138/138533.svg" width="50px" height="auto">
+    </div>
   </section>
 
   <section class="text-center bg--secondary">
@@ -321,25 +308,32 @@ markdown:
       </div>
       <!--end of row-->
       <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-3">
           <div class="feature feature-8">
             <img alt="Mai Thế Dũng" style="width: 128px;" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1560400165/codersx_resource/Mai_The%CC%82%CC%81_Du%CC%83ng.png" />
             <h5>Mai Thế Dũng</h5>
             <span>Team Leader</span>
           </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-3">
           <div class="feature feature-8">
             <img alt="Nguyễn Quang Thọ" style="width: 128px;" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1560400166/codersx_resource/Nguyen_Quang_Tho.png" />
             <h5>Nguyễn Quang Thọ</h5>
             <span>Social Analytic</span>
           </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-3">
           <div class="feature feature-8">
             <img alt="Đào Hoa Lộng Nguyệt" style="width: 128px;" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1560400164/codersx_resource/%C4%90a%CC%80o_Hoa_Lo%CC%A3%CC%82ng_Nguye%CC%A3%CC%82t.png" />
             <h5>Đào Hoa Lộng Nguyệt</h5>
             <span>Communicator & Secretary</span>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="feature feature-8">
+            <img alt="Mai Ly" style="width: 128px;" src="/images/team/mai-ly.png" />
+            <h5>Mai Ly</h5>
+            <span>HR</span>
           </div>
         </div>
       </div>
