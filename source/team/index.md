@@ -214,8 +214,10 @@ markdown:
   </section>
 
   <section class="cover height-80 text-center coderx-bg-2 team__parallax--box">
-      <img src="https://image.flaticon.com/icons/svg/138/138533.svg" width="50px" height="auto">
-      <h2 class="h2 team__parallax--title">WE ARE CODERSX</h2>
+      <div>
+        <h2 class="h2 team__parallax--title">WE ARE CODERSX</h2>
+        <img src="https://image.flaticon.com/icons/svg/138/138533.svg" width="50px" height="auto">
+      </div>
   </section>
 
   <section class="text-center bg--secondary">
@@ -288,7 +290,7 @@ markdown:
         </div>
         <div class="col-md-4">
           <div class="feature feature-8">
-            <img alt="Phạm Hồng Nhung" style="width: 128px;" src="/images/team/tram-nguyen.png" />
+            <img alt="Phạm Hồng Nhung" style="width: 128px;" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1560419612/codersx_resource/nhung.png" />
             <h5>Phạm Hồng Nhung</h5>
             <span>Designer</span>
           </div>

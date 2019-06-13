@@ -154,24 +154,26 @@ article .article__body h4 {
 
 /* ---------------------------- Team Page ---------------------------- */
 .coderx-bg {
-  background: url('https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1560394672/codersx_resource/coders_x_bg.jpg');
+  background: url('https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1560419651/codersx_resource/coders_x_bg-min.jpg');
   background-size: cover;
   background-position: center center;
-  background-attachment: fixed;
   position: relative;
 }
 
 .coderx-bg-2 {
-  background: url('https://res.cloudinary.com/djeghcumw/image/upload/v1560403182/codersx_resource/team-3.jpg');
+  background: url('https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1560419641/codersx_resource/team-3-min.jpg');
   background-size: cover;
   background-position: center center;
-  background-attachment: fixed;
   position: relative;
 }
 
-/* .coderx-bg-2 {
-  background: url('https://res.cloudinary.com/djeghcumw/image/upload/v1560403182/codersx_resource/team-3.jpg');
-} */
+.coderx-bg-2 div {
+  background: rgba(255, 255, 255, 0.253);
+  box-sizing: border-box;
+  padding: 8rem 0;
+  width: 100%;
+  border-radius: 12px;
+}
 
 .coderx-bg::before,
 .coderx-bg-2::before {
@@ -181,7 +183,8 @@ article .article__body h4 {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: linear-gradient(to top, #f19eda36 0%, #4875c673 100%);
+  /* background-image: linear-gradient(to top, #f19eda36 0%, #4875c673 100%); */
+  background-image: linear-gradient(to top, #5e18335d 0%, #05183b8a 100%);
 }
 
 .team__headerbox h2 {
