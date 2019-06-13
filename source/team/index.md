@@ -193,7 +193,7 @@ markdown:
           <div class="feature feature-8">
             <img alt="Trần Đình Sáng" style="width: 128px;" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1560400166/codersx_resource/Tra%CC%82%CC%80n_%C4%90i%CC%80nh_Sa%CC%81ng.png" />
             <h5>Trần Đình Sáng</h5>
-            <span>Frontend Developer</span>
+            <span>Backend Developer</span>
           </div>
         </div>
       </div>
@@ -203,7 +203,7 @@ markdown:
   <section class="cover height-80 text-center coderx-bg-2 team__parallax--box">
     <div class="cover-content">
       <h1 class="color--white">We are CodersX</h2>
-      <img src="https://image.flaticon.com/icons/svg/138/138533.svg" width="50px" height="auto">
+      <img src="/images/team/icon-heart.svg" width="50px" height="auto">
     </div>
   </section>
 
