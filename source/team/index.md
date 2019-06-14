@@ -212,7 +212,7 @@ markdown:
       <div class="row justify-content-center">
         <div class="col-md-10 col-lg-8">
           <div class="text-block">
-            <h2>Sale Team</h2>
+            <h2>Sales Team</h2>
           </div>
           <p class="lead">
             Team chịu trách nhiệm quản lý thu chi, gửi/nhận hàng hoá và giao dịch với khách hàng. Đồng thời cũng giúp vạch ra những chiến dịch Sale hữu ích để tạo điều kiện tốt nhất cho khách hàng và người học.
