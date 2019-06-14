@@ -100,7 +100,7 @@ markdown:
       <div class="row justify-content-center">
         <div class="col-md-10 col-lg-8">
           <div class="text-block">
-            <h2>Develop Team</h2>
+            <h2>Dev Team</h2>
           </div>
           <p class="lead">
             Đây là team tập hợp các developer chân chính đến từ khắp mọi nơi. Mọi người đang làm việc chăm chỉ hàng ngày để có thể tạo ra nhiều giá trị hữu ích cho tất cả người học và cộng đồng Coders.Tokyo!
