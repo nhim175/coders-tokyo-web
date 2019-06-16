@@ -60,6 +60,10 @@ article .article__body h4 {
   font-weight: 600;
 }
 
+article .article__body p > img {
+  width: 100%;
+}
+
 /* ------------------ Tuts Page ------------------ */
 .course-thumbnail {
   border-radius: 4px;
