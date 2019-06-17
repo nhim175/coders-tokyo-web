@@ -1,6 +1,6 @@
 ---
 title: Hiểu về não kỳ 2 - Bản đồ tư duy
-date: 2019-06-24 20:30:04
+date: 2019-06-17 20:30:04
 authorId: nhat_anh
 tags:
 ---
