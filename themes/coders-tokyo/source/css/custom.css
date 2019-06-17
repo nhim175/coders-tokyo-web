@@ -60,6 +60,10 @@ article .article__body h4 {
   font-weight: 600;
 }
 
+article .article__body p > img {
+  width: 100%;
+}
+
 /* ------------------ Tuts Page ------------------ */
 .course-thumbnail {
   border-radius: 4px;
@@ -129,16 +133,18 @@ article .article__body h4 {
   from {
     transform: translate(-50%, -60%);
   }
+
   50% {
     transform: translate(-50%, -30%);
   }
+
   to {
     transform: translate(-50%, -60%);
   }
 }
 
 .banner_view_more::before {
-  content: "";
+  content: '';
   width: 10px;
   height: 10px;
   position: absolute;
@@ -148,4 +154,54 @@ article .article__body h4 {
   border-bottom: 1px solid white;
   border-right: 1px solid white;
   transform: translateY(-50%) rotate(45deg);
+}
+
+/* ---------------------------- Team Page ---------------------------- */
+.coderx-bg {
+  background: url('https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1560419651/codersx_resource/coders_x_bg-min.jpg');
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+}
+
+.coderx-bg-2 {
+  background: url('https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1560419641/codersx_resource/team-3-min.jpg');
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+}
+
+.coderx-bg-2 .cover-content {
+  position: relative;
+  padding: 80px 0;
+}
+
+.coderx-bg:before,
+.coderx-bg-2:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(to top, #5e18335d 0%, #05183b8a 100%);
+  z-index: 0;
+}
+
+.team__headerbox h2 {
+  color: white !important;
+}
+
+.team__parallax--box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+}
+
+.team__parallax--title {
+  font-size: 50px;
+  font-weight: bold;
+  color: white;
 }
