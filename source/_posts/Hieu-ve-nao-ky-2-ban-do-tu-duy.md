@@ -1,6 +1,6 @@
 ---
 title: Hiểu về não kỳ 2 - Bản đồ tư duy
-date: 2019-06-24 20:30:04
+date: 2019-06-17 20:30:04
 authorId: nhat_anh
 tags:
 ---
@@ -17,7 +17,7 @@ Khi bạn tiếp nhận thông tin, não nhận được tín hiệu từ các g
 
 ## Bản đồ kho báu
 
-Trong kỳ 1, _Trí nhớ hoạt động như thế nào?_, mình có viết rằng bộ nhớ dài hạn là một _nhà kho hỗn độn_. Để hiểu rõ về nhà kho hỗn độn này, bạn nên đọc Series Hiểu về Não - kỳ 1 trước khi đọc tiếp [ở đây](https://coders.tokyo/2019/06/04/Hieu-ve-nao-ky-1-tri-nho-hoat-dong-nhu-the-nao/).
+Trong kỳ 1, _Trí nhớ hoạt động như thế nào?_, mình có viết rằng bộ nhớ dài hạn là một _nhà kho hỗn độn_. Để hiểu rõ về nhà kho hỗn độn này, bạn nên đọc Series Hiểu về Não - kỳ 1 trước khi đọc tiếp [ở đây](https://coders.tokyo/2019/06/10/Hieu-ve-nao-ky-1-tri-nho-hoat-dong-nhu-the-nao/).
 
 ![Bản đồ kho báu](https://res.cloudinary.com/djeghcumw/image/upload/v1559656683/blog/ban-do-kho-bau.png)
 
@@ -46,5 +46,7 @@ OK, bạn đã chăm chỉ vẽ bản đồ kho báu, vậy mà khi vẽ xong, b
 Chỉ đọc mà không hành thì bạn chỉ dừng ở mức **biết** thôi chứ chưa gọi là **hiểu**. Để thật sự hiểu, bạn cần phải làm bài tập. Và đó là lý do tại sao Series về Não lại có bài tập.
 
 Giờ bạn hãy tạo mindmapping về bản thân bạn hay một buổi thuyết trình sắp tới của bạn. Hoặc bạn có thể chọn một chủ đề tùy thích nhé. Sáng tạo lên.
+
+Bạn nhớ đón đọc kỳ 3 của Series Hiểu về não để biết **sự thật về giấc ngủ** và những bí quyết ngủ giúp bạn đạt năng suất cao trong công việc nhé.
 
 Nếu bạn muốn có nhiều cơ hội trải nghiệm hơn, hãy tham gia cộng đồng học lập trình miễn phí [Coders.Tokyo](https://school.coders.tokyo/) với chúng mình. Together, we change the world.
