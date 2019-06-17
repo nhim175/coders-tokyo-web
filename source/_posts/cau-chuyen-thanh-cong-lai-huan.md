@@ -3,7 +3,7 @@ title: "[Câu chuyện thành công] Lại Huân - Học sinh THPT"
 date: 2019-06-14 12:00:00
 ---
 
-<figure class="wp-block-image">![Success Story Coders Tokyo](https://res.cloudinary.com/djeghcumw/image/upload/v1553746144/blog/shutterstock_300479180-653x339.jpg)</figure>
+![Success Story Coders Tokyo](https://res.cloudinary.com/djeghcumw/image/upload/v1553746144/blog/shutterstock_300479180-653x339.jpg)
 
 Tiếp theo chuyên mục "Câu chuyện thành công" của những học viên tại Coders.Tokyo, hôm nay phóng viên (PV) CodersX của tòa báo Coders Tokyo Content Team sẽ phỏng vấn cậu học sinh tài năng Lại Huân (LH) - lập trình rất giỏi mặc dù chỉ đang là học sinh cấp 3.
 
@@ -13,7 +13,7 @@ Hãy cùng mình trò chuyện và nghe những câu chuyện của Lại Huân 
 
 Trước tiên chúng ta hãy cùng xem qua profile của cậu thiếu niên tài năng này nào:
 
-<figure class="wp-block-image">![Success story Coders Tokyo Lai Huan](https://res.cloudinary.com/djeghcumw/image/upload/v1560481082/blog/Lai-Huan-avatar.jpg)</figure>
+![Success story Coders Tokyo Lai Huan](https://res.cloudinary.com/djeghcumw/image/upload/v1560481082/blog/Lai-Huan-avatar.jpg)
 
 *   Họ tên: Lại Văn Huân
 *   Ngày sinh: 21/04/2001
