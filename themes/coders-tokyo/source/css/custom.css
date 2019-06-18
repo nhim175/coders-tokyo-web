@@ -104,11 +104,7 @@ article .article__body h4 {
 }
 
 .custom.blur-background:before {
-  background-image: linear-gradient(
-    to top,
-    #09203f 0%,
-    #537895 100%
-  );
+  background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
   opacity: 0.6;
 }
 
@@ -144,7 +140,7 @@ article .article__body h4 {
 }
 
 .banner_view_more::before {
-  content: "";
+  content: '';
   width: 10px;
   height: 10px;
   position: absolute;
@@ -158,14 +154,14 @@ article .article__body h4 {
 
 /* ---------------------------- Team Page ---------------------------- */
 .coderx-bg {
-  background: url("https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1560419651/codersx_resource/coders_x_bg-min.jpg");
+  background: url('https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1560419651/codersx_resource/coders_x_bg-min.jpg');
   background-size: cover;
   background-position: center center;
   position: relative;
 }
 
 .coderx-bg-2 {
-  background: url("https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1560419641/codersx_resource/team-3-min.jpg");
+  background: url('https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1560419641/codersx_resource/team-3-min.jpg');
   background-size: cover;
   background-position: center center;
   position: relative;
@@ -178,17 +174,13 @@ article .article__body h4 {
 
 .coderx-bg:before,
 .coderx-bg-2:before {
-  content: "";
+  content: '';
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: linear-gradient(
-    to top,
-    #5e18335d 0%,
-    #05183b8a 100%
-  );
+  background-image: linear-gradient(to top, #5e18335d 0%, #05183b8a 100%);
   z-index: 0;
 }
 
