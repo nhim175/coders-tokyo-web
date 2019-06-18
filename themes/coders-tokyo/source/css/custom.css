@@ -26,14 +26,14 @@
 	margin: 0px 3px;
 }
 
-/* ------------------ Fix list style in blog post ----------------- */
+/* ----------------- Fix list style in blog post ----------------- */
 article .article__body ul {
 	list-style: initial;
 	margin-left: 1rem;
 }
 
 article .article__body ol {
-	margin-left: 1rem;
+margin-left: 1rem;
 }
 
 article .article__body ol li {
