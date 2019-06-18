@@ -1,203 +1,211 @@
 /*! Place your custom styles here */
 .pagination {
-  display: flex;
-  justify-content: center;
+	display: flex;
+	justify-content: center;
 }
 
 .pagination .page-number {
-  display: inline-block;
-  margin: 0;
-  font-weight: 700;
-  line-height: 23px;
-  width: 1.85714286em;
-  height: 1.85714286em;
-  border-radius: 50%;
-  border: 1px solid #ececec;
-  margin: 0px 3px;
+	display: inline-block;
+	margin: 0;
+	font-weight: 700;
+	line-height: 23px;
+	width: 1.85714286em;
+	height: 1.85714286em;
+	border-radius: 50%;
+	border: 1px solid #ececec;
+	margin: 0px 3px;
 }
 
 .pagination .extend {
-  display: inline-block;
-  margin: 0;
-  font-weight: 700;
-  line-height: 23px;
-  width: 1.85714286em;
-  height: 1.85714286em;
-  margin: 0px 3px;
+	display: inline-block;
+	margin: 0;
+	font-weight: 700;
+	line-height: 23px;
+	width: 1.85714286em;
+	height: 1.85714286em;
+	margin: 0px 3px;
 }
 
 /* ------------------ Fix list style in blog post ------------------ */
 article .article__body ul {
-  list-style: initial;
-  margin-left: 1rem;
+	list-style: initial;
+	margin-left: 1rem;
 }
 
 article .article__body ol {
-  margin-left: 1rem;
+	margin-left: 1rem;
 }
 
 article .article__body ol li {
-  margin-bottom: 0;
+	margin-bottom: 0;
 }
 
 article .article__body ul ul {
-  list-style-type: circle;
+	list-style-type: circle;
 }
 
 article .article__body p,
 article .article__body ul,
 article .article__body ol {
-  font-size: 1.35714286rem;
+	font-size: 1.35714286rem;
 }
 
 article .article__body pre {
-  padding: 0;
+	padding: 0;
 }
 
 article .article__body h2,
 article .article__body h3,
 article .article__body h4 {
-  font-weight: 600;
+	font-weight: 600;
 }
 
 /* ------------------ Tuts Page ------------------ */
 .course-thumbnail {
-  border-radius: 4px;
-  border: 1px solid rgba(50, 50, 50, 0.115);
+	border-radius: 4px;
+	border: 1px solid rgba(50, 50, 50, 0.115);
 }
 
 .course-board .course-url {
-  font-size: 1.125rem;
-  display: block;
+	font-size: 1.125rem;
+	display: block;
 }
 
 .text-block {
-  margin-bottom: 1rem;
+	margin-bottom: 1rem;
 }
 
 .text-block h2 {
-  color: #4a90e2;
-  font-size: 1.65rem;
-  font-weight: 500;
-  margin-bottom: 0.2rem;
+	color: #4a90e2;
+	font-size: 1.65rem;
+	font-weight: 500;
+	margin-bottom: 0.2rem;
 }
 
 .course {
-  margin-bottom: 3rem;
+	margin-bottom: 3rem;
 }
 
 .course-board .lead {
-  font-size: 1.17rem;
-  line-height: 1.78rem;
-  margin-bottom: 0.25rem;
+	font-size: 1.17rem;
+	line-height: 1.78rem;
+	margin-bottom: 0.25rem;
 }
 
 @media (max-width: 768px) {
-  .course-board {
-    padding: 0 1.125rem;
-  }
+	.course-board {
+		padding: 0 1.125rem;
+	}
 }
 
 /* ------------------ For Events Page ------------------ */
 .text-blue {
-  color: #4a90e2;
+	color: #4a90e2;
 }
 
 .custom.blur-background:before {
-  background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
-  opacity: 0.6;
+	background-image: linear-gradient(
+		to top,
+		#09203f 0%,
+		#537895 100%
+	);
+	opacity: 0.6;
 }
 
 .list-time {
-  list-style: none;
-  margin-left: 1.2rem !important;
+	list-style: none;
+	margin-left: 1.2rem !important;
 }
 
 .list-time li {
-  margin: 0.6rem 0;
+	margin: 0.6rem 0;
 }
 
 .banner_view_more {
-  position: absolute;
-  left: 50%;
-  bottom: 12px;
-  transform: translateX(-50%);
-  animation: 1s upanddown infinite;
+	position: absolute;
+	left: 50%;
+	bottom: 12px;
+	transform: translateX(-50%);
+	animation: 1s upanddown infinite;
 }
 
 @keyframes upanddown {
-  from {
-    transform: translate(-50%, -60%);
-  }
+	from {
+		transform: translate(-50%, -60%);
+	}
 
-  50% {
-    transform: translate(-50%, -30%);
-  }
+	50% {
+		transform: translate(-50%, -30%);
+	}
 
-  to {
-    transform: translate(-50%, -60%);
-  }
+	to {
+		transform: translate(-50%, -60%);
+	}
 }
 
 .banner_view_more::before {
-  content: '';
-  width: 10px;
-  height: 10px;
-  position: absolute;
-  top: 40%;
-  left: 106%;
-  background: transparent;
-  border-bottom: 1px solid white;
-  border-right: 1px solid white;
-  transform: translateY(-50%) rotate(45deg);
+	content: '';
+	width: 10px;
+	height: 10px;
+	position: absolute;
+	top: 40%;
+	left: 106%;
+	background: transparent;
+	border-bottom: 1px solid white;
+	border-right: 1px solid white;
+	transform: translateY(-50%) rotate(45deg);
 }
 
 /* ---------------------------- Team Page ---------------------------- */
 .coderx-bg {
-  background: url('https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1560419651/codersx_resource/coders_x_bg-min.jpg');
-  background-size: cover;
-  background-position: center center;
-  position: relative;
+	background: url('https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1560419651/codersx_resource/coders_x_bg-min.jpg');
+	background-size: cover;
+	background-position: center center;
+	position: relative;
 }
 
 .coderx-bg-2 {
-  background: url('https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1560419641/codersx_resource/team-3-min.jpg');
-  background-size: cover;
-  background-position: center center;
-  position: relative;
+	background: url('https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1560419641/codersx_resource/team-3-min.jpg');
+	background-size: cover;
+	background-position: center center;
+	position: relative;
 }
 
 .coderx-bg-2 .cover-content {
-  position: relative;
-  padding: 80px 0;
+	position: relative;
+	padding: 80px 0;
 }
 
 .coderx-bg:before,
 .coderx-bg-2:before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-image: linear-gradient(to top, #5e18335d 0%, #05183b8a 100%);
-  z-index: 0;
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-image: linear-gradient(
+		to top,
+		#5e18335d 0%,
+		#05183b8a 100%
+	);
+	z-index: 0;
 }
 
 .team__headerbox h2 {
-  color: white !important;
+	color: white !important;
 }
 
 .team__parallax--box {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  padding: 0;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 0;
 }
 
 .team__parallax--title {
-  font-size: 50px;
-  font-weight: bold;
-  color: white;
+	font-size: 50px;
+	font-weight: bold;
+	color: white;
 }
