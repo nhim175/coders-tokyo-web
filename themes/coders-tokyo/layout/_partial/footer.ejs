@@ -64,7 +64,7 @@
   <!--end of container-->
   <div id="scrollTop" class="scrollTop">
     <img src="/images/up-arrow.svg" />
-</div>
+  </div>
 </footer>
 
 <%- js('https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js') %>
@@ -75,17 +75,17 @@
 
 <script>
   var scroll = new SmoothScroll('a[href*="#"]');
-  var scrollTopEl = document.querySelector("#scrollTop");
-  scrollTopEl.addEventListener("click", () => {
+  var scrollTopEl = document.querySelector('#scrollTop');
+  scrollTopEl.addEventListener('click', () => {
         document.body.scrollTop = 0;
         document.documentElement.scrollTop = 0;
   });
-  window.onscroll = function() {scrollFunction()};
-  function scrollFunction() {
+  window.onscroll = onScroll;
+  function onScroll() {
       if (document.body.scrollTop > 30 || document.documentElement.scrollTop > 30) {
-        scrollTopEl.classList.add("showScroll");
-      }else {
-        scrollTopEl.classList.remove("showScroll");
+        scrollTopEl.classList.add('showScroll');
+      } else {
+        scrollTopEl.classList.remove('showScroll');
       }
   }
 </script>
