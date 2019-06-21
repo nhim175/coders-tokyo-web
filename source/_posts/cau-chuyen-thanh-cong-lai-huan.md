@@ -1,6 +1,6 @@
 ---
 title: "[Câu chuyện thành công] Lại Huân - Học sinh THPT"
-date: 2019-06-14 12:00:00
+date: 2019-06-21 12:00:00
 ---
 
 ![Success Story Coders Tokyo](https://res.cloudinary.com/djeghcumw/image/upload/v1553746144/blog/shutterstock_300479180-653x339.jpg)
