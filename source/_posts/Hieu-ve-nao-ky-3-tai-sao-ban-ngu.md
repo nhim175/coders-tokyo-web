@@ -1,6 +1,6 @@
 ---
 title: Hiểu về não kỳ 3 - Tại sao bạn ngủ?
-date: 2019-06-08 4:00:00
+date: 2019-06-24 20:30:00
 authorId: nhat_anh
 tags:
 ---
@@ -66,6 +66,6 @@ OK, bài tập dành cho bạn là **tối nay**, hãy:
 3. Dọn chăn đệm êm, bật điều hòa cho mát nếu trời nóng quá
 4. Cuối cùng, **ngủ thật ngon vào nhé**
 
-Chờ đã, và nhớ áp dụng phương pháp **space repetition** lặp lại hàng ngày trong vòng 1 tháng để giúp bạn hình thành thói quen ngủ này nhé. Sẽ chả có ích gì khi hôm nay bạn thực hiện và ngày mai bạn lại quên béng mất bài tập này.
+Chờ đã, bạn nhớ áp dụng phương pháp **space repetition** lặp lại hàng ngày trong vòng 1 tháng để giúp bạn hình thành thói quen ngủ này nhé. Sẽ chả có ích gì khi hôm nay bạn thực hiện và ngày mai bạn lại quên béng mất bài tập này.
 
 Nếu bạn muốn có nhiều cơ hội trải nghiệm hơn, hãy tham gia cộng đồng học lập trình miễn phí [Coders.Tokyo](https://school.coders.tokyo/) với chúng mình. **Together, we change the world**.
