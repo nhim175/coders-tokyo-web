@@ -1,6 +1,6 @@
 ﻿---
 title: Xây dựng ứng dụng vẽ theo thời gian thực bằng cách sử dụng Socket.IO và p5.js
-date: 2019-04-02 19:00:00
+date: 2019-06-28 20:00:00
 authorId: hoang_an
 tags:
 ---
@@ -9,7 +9,9 @@ Xây dựng một ứng dụng vẽ theo thời gian thực cho phép người d
 Trong hướng dẫn này, chúng tôi sẽ xây dựng một ứng dụng vẽ thời gian thực, cho phép người dùng vẽ cùng nhau trong một dự án.
 Ứng dụng được xây dựng bằng  [Express js](https://expressjs.com/) server và [p5.js](https://p5js.org/) cho các tính năng vẽ. Về phái Client-side được xử lý thông qua WebSockets - cụ thể là [Socket.IO](https://socket.io/).
 Vì vậy, không lãng phí thêm thời gian nào nữa, hãy để bắt đầu.
+
 <!-- more -->
+
 ## Thiết lập
 Trước khi chúng ta có thể bắt đầu code, trước tiên chúng ta cần `setup` dự án của mình và cài đặt tất cả các phụ thuộc cần thiết. Đối với điều đó, bạn cần mở `terminal` của bạn và chạy các lệnh sau.
 Đầu tiên, chúng ta cần tạo một thư mục và `cd` vào nó.
