@@ -1,6 +1,6 @@
 ---
 title: Bạn đã thực sự hiểu git (Phần 1)
-date: 2019-07-01 19:00:00
+date: 2019-07-03 19:00:00
 authorId: thai_son
 tags:
 ---
