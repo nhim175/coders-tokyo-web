@@ -1,6 +1,6 @@
 ---
 title: Thực hiện xác thực (authentication) với JWT (jsonwebtoken), Node.js và Express.js
-date: 2018-07-03 20:26:41
+date: 2018-07-05 20:26:41
 ---
 
 # Thực hiện xác thực (authentication) với JWT (jsonwebtoken), Node.js và Express.js
