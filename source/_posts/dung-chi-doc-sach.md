@@ -41,6 +41,8 @@ Nếu bạn đã kết em ấy rồi thì hãy tiến tới **đọc chi tiết*
 
 Lập **bản đồ tư duy** về những liên tưởng của bản thân (ngắn gọn hết sức có thể). Dưới đây là bản đồ tư duy mình vẽ khi mình đọc bài chia sẻ về [React và TypeScript](https://coders.tokyo/2019/06/29/react-typescript-p1/) của anh [Châu Trần](https://github.com/nartc).
 
+![React và TypeScript](https://res.cloudinary.com/djeghcumw/image/upload/v1562509588/blog/Webp.net-resizeimage_6.png)
+
 **Viết tóm tắt, review. Dạy lại cho người khác.** Tìm cách áp dụng vào cuộc sống hàng ngày. Các bạn có thể tham khảo bài review của mình về cuốn The Tipping Point của Malcolm Gladwell ở [đây](https://www.facebook.com/japananh/posts/748801368851555?__tn__=K-R). Mình đã dành một tuần đọc cuốn này, tầm hơn 30 trang một ngày. Để viết một bài tóm tắt/review, bạn cần nắm được các ý lớn tác giả. Đồng thời, bạn phải gói chúng lại trong những câu từ dễ hiểu để khi chỉ đọc vài câu ngắn gọn thôi là người đọc có thể hiểu ngay chủ ý của tác giả là gì. Bạn sáng tạo nên ngôn từ của riêng mình từ chất liệu sẵn có.
 
 ## Tại sao bạn đọc mãi không tiến bộ?
@@ -53,6 +55,28 @@ Muốn cơ bắp to bạn phải tăng mức tạ. Đấy là điều bắt bu�
 Hàm đo **sự tiến bộ** của bạn theo thời gian là **đường cong, không phải đường thẳng tuyến tính**. _"Chúng ta nghĩ là nỗ lực đi theo đường tuyến tính (giống như hàm f(x)=x+1), nhưng nó lại đi theo đường cong kia. Nghĩa là sau ít nhất phải 15, 30, thậm chí 90 ngày ngồi làm gì đó thì mới "cảm thấy" chút cố gắng, nên cố gắng kiên nhẫn, đừng kết luận sớm. Họ gọi đấy là "valley of disappointment" – thung lũng của sự tuyệt vọng, giống như các thần thoại anh hùng nhiều khi tập luyện mãi mà vẫn không đánh được quái, rồi khi họ phải đi đến tận cùng của sự tuyệt vọng thì họ mới tìm thấy tuyệt chiêu."_ - trích [Minh Đào](https://www.facebook.com/mdaongoc). Bạn nào thích tìm hiểu **tâm lý học** thì có thể follow anh này. Đọc các posts của ổng và take note những cái keys (thường nó là các từ tiếng anh/tên sách/tên học giả). Sau đó, lưu vào đâu đó để ngâm cứu dần. Bạn tham khảo thêm bài gốc ở [đây](https://www.facebook.com/mdaongoc/posts/10211262985049718). Nếu muốn hiểu sâu có thể đọc thêm cuốn Deep Work của Cal Newport.
 
 ## Một số nguồn đọc và công cụ đọc
+
+Mình đọc sách là chủ yếu, thi thoảng hứng lên mới đọc báo. Mình sẽ liệt kê một vài đầu sách mình dưới nhé. Tất nhiên sẽ không kể hết được nhưng ít nhất cho bạn một vài ideas để chọn sách.
+
+### Một số quyển cho beginners:
+
+- Nhà giả kim (The Alchemist) của Paulo Coelho
+- Hoàng tử bé (The Little Prince) của Antoine de Saint-Exupéry
+- 7 thói quen thành đạt của bạn trẻ của Sean Covey
+- Handbook IELTS của Kien Tran (các bạn đừng để lừa bởi tiêu đề nhé vì những cách mà Kien Tran đề cập giúp mình tự học tiếng anh từ con số 0 đó.)
+
+### Một số quyển hay và nhiều chữ hơn:
+
+- Hướng nội (Quiet - The power of introverts in the world that never stop talking) của Susan Cain
+- Sức mạnh của thói quen (The power of habits) của Charles Duhigg
+- Ảo tưởng tri thức (The knowledge Illusion: Why we never think alone) của Steven Sloman, Philip Fernbach
+
+### Một số quyển chất như nước cất:
+
+- Tư duy nhanh và chậm (Thinking, Fast and Slow) của Daniel Kanahman
+- Điểm bùng phát (The tipping point) của Malcolm Gladwell
+- Trọn bộ 3 cuốn (Sapiens, Homo Sapiens, 21 Lessons for the 21st Century) của Harari
+- Deep work - Cal Newport (cuốn này có bản dịch tiếng việt là Làm ra làm chơi ra chơi nhưng dịch vài chỗ sai bét nên mình khuyên thật lòng là nên đọc bản tiếng anh. Các bạn đọc thêm chỗ dịch sai ở [đây](https://www.facebook.com/mdaongoc/posts/10211259270316852) nhé.)
 
 Các trang đọc ưa thích của mình, tập hợp các bài viết chủ yếu về công nghệ
 https://medium.com/
