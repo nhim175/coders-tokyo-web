@@ -56,7 +56,7 @@ Hàm đo **sự tiến bộ** của bạn theo thời gian là **đường cong,
 
 ## Một số nguồn đọc và công cụ đọc
 
-Mình đọc sách là chủ yếu, thi thoảng hứng lên mới đọc báo. Mình sẽ liệt kê một vài đầu sách mình dưới nhé. Tất nhiên sẽ không kể hết được nhưng ít nhất cho bạn một vài ideas để chọn sách.
+Mình đọc sách là chủ yếu, thi thoảng hứng lên mới đọc báo. Mình sẽ liệt kê một vài đầu sách mình đã đọc ở dưới nhé. Tất nhiên sẽ không kể hết được nhưng ít nhất cho bạn một vài ideas để chọn sách.
 
 ### Một số quyển cho beginners:
 
