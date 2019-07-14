@@ -545,3 +545,7 @@ Bài viết dài quá nhỉ? Các bạn có mệt không? Nhưng có thấy kíc
 4. Generic Component
 
 Hy vọng qua bài viết này, các bạn sẽ thấy gần gũi và quen thuộc hơn với `TypeScript`. Nhưng "học đi đôi với hành", mình trông chờ các dự án `React` + `TypeScript` của các bạn đây. Chúc các bạn may mắn, thành công và vui vẻ 😘
+
+### Resources 
+1. [React-TypeScript-CheatSheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+2. [Typescript](https://typescriptlang.org)
