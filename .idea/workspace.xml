@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f30b7d1b-c1cf-4ac2-8da6-e965cdffb2eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/_posts/react-typescript-p1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/react-typescript-p2.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/react-typescript-p2.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,29 +15,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/debounce-javascript.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_posts/react-typescript-p2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="3502">
-                <caret line="244" column="21" selection-start-line="244" selection-start-column="21" selection-end-line="244" selection-end-column="21" />
+              <first_editor relative-caret-position="460">
+                <caret line="550" column="43" selection-start-line="550" selection-start-column="43" selection-end-line="550" selection-end-column="43" />
+                <folding>
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="e#0#46#0" expanded="true" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/react-typescript-p1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="45">
-                <caret line="260" column="13" selection-start-line="260" selection-start-column="3" selection-end-line="260" selection-end-column="13" />
-                <folding>
-                  <element signature="e#0#32#0" expanded="true" />
-                  <element signature="e#0#34#1" expanded="true" />
-                  <element signature="e#0#34#0" expanded="true" />
-                </folding>
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="13" selection-start-line="11" selection-end-line="11" selection-end-column="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -63,13 +61,13 @@
         <option value="$PROJECT_DIR$/themes/coders-tokyo/source/css/custom.css" />
         <option value="$PROJECT_DIR$/source/_posts/debounce-javascript.md" />
         <option value="$PROJECT_DIR$/source/_posts/react-typescript.md" />
+        <option value="$PROJECT_DIR$/source/_posts/react-typescript-p2.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-7" />
-    <option name="width" value="1389" />
-    <option name="height" value="1047" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -137,12 +135,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11719000" />
+    <option name="totallyTimeSpent" value="22978000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17688513" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18057553" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -156,7 +155,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3313253" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3313253" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -246,12 +245,21 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/react-typescript-p1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="260" column="13" selection-start-line="260" selection-start-column="3" selection-end-line="260" selection-end-column="13" />
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="13" selection-start-line="11" selection-end-line="11" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/react-typescript-p2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="460">
+            <caret line="550" column="43" selection-start-line="550" selection-start-column="43" selection-end-line="550" selection-end-column="43" />
             <folding>
-              <element signature="e#0#32#0" expanded="true" />
-              <element signature="e#0#34#1" expanded="true" />
-              <element signature="e#0#34#0" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="e#0#46#0" expanded="true" />
             </folding>
           </first_editor>
           <second_editor />
