@@ -19,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/react-typescript-p2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="460">
-                <caret line="550" column="43" selection-start-line="550" selection-start-column="43" selection-end-line="550" selection-end-column="43" />
+              <first_editor relative-caret-position="332">
+                <caret line="342" lean-forward="true" selection-start-line="342" selection-end-line="342" />
                 <folding>
                   <element signature="n#!!doc" expanded="true" />
                   <element signature="e#0#46#0" expanded="true" />
@@ -135,7 +135,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22978000" />
+    <option name="totallyTimeSpent" value="23290000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -255,8 +255,8 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/react-typescript-p2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="460">
-            <caret line="550" column="43" selection-start-line="550" selection-start-column="43" selection-end-line="550" selection-end-column="43" />
+          <first_editor relative-caret-position="332">
+            <caret line="342" lean-forward="true" selection-start-line="342" selection-end-line="342" />
             <folding>
               <element signature="n#!!doc" expanded="true" />
               <element signature="e#0#46#0" expanded="true" />

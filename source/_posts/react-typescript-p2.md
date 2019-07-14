@@ -311,14 +311,14 @@ type Reducer<State, Actions> = (state: State, action: Actions) => State;
 ```
 Nếu như nhìn kĩ thì các bạn sẽ thấy Type Alias `Reducer<State, Actions>` ở trên khá hợp lý, và chính xác với đinh nghĩa của `Reducer`: nhận vào state hiện tại, và action được dispatch, sẽ return state mới. Vậy bây giờ mình cần: `State` và `Actions`.
 
-1. `State`: State thì rất dễ, các bạn chỉ cần định nghĩa `State` bằng 1 interface. Thông thường, mình viết interface của `State` ngay trong `Reducer` quản lý `State` đó, các bạn hoàn toàn có thể tách interface ra thành 1 file riêng nhé:
+1. `State`: State thì rất dễ, các bạn chỉ cần định nghĩa `State` bằng 1 interface. Thông thường, mình viết interface của `State` ngay trong `Reducer` quản lý `State` đó, các bạn hoàn toàn có thể tách interface ra thành 1 file riêng nhé
+
 ```typescript
 export type Todo = {
   id: number;
   content: string;
   isCompleted: boolean;
 };
-
 export type FilterType = 'all' | 'active' | 'completed';
 // Todo và FilterType là arbitrary (không quan trọng). Có thể hoàn toàn khác trong 1 ứng dụng Todo khác
 
@@ -332,8 +332,11 @@ const initialState = {
   filter: 'all'
 } as TodoState;
 ```
+
 Như vậy là bạn đã có `State`, bây giờ đến `Actions` cho `Reducer`
+
 2. `Actions`: Bình thường để type được `Actions` hoàn chỉnh thì rất khó. Lí do là vì `Actions` thường không đồng nhất, có `Action` có payload, có `Action` không có payload, những `Action` có payload thì các payload này lại khác nhau. Các bạn có thể tưởng tượng ra độ phức tạp nếu như muốn type `Actions` rồi đó. Và đây là lý do mình khuyên các bạn dùng `typesafe-actions`. `typesafe-actions` cung cấp cho các bạn `ActionType` để có thể lấy ra được type của `Actions` từ `actions` mà các bạn đã khai báo ở mục trước `todoActions`.
+
 ```typescript
 import { ActionType } from 'typesafe-actions';
 import {todoActions} from './actions';
