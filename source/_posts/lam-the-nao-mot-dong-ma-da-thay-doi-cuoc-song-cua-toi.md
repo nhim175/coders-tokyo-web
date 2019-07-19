@@ -28,3 +28,7 @@ Một khi bạn học được điều đó, bạn sẽ không bao giờ đượ
 Nếu có điều gì đó tôi muốn đạt được là thúc đẩy ai đó giống như Otto thúc đẩy tôi. Đi ra ngoài và bắt đầu sống giấc mơ của bạn. Không có gì bạn không thể làm và bạn là người duy nhất ngăn chặn điều đó xảy ra. Hãy điên lên, hãy mạnh dạn. Làm cho nó xảy ra!
 
 Cảm ơn vì đã đọc. Tôi là Ricardo Funk ([@ rfunk82](https://dev.to/rfunk82)). Nếu bạn thích tác phẩm này, có rất nhiều nơi nó đến từ. Tôi thích Phát triển code và ứng dụng mang lại sự đổi mới. Đam mê viết lách, phát triển và cuộc sống.
+
+Nguồn:[https://dev.to/rfunk82/how-a-single-line-of-code-changed-my-life](https://dev.to/rfunk82/how-a-single-line-of-code-changed-my-life)
+
+Và đừng quên, học lập trình MIỄN PHÍ tại: [https://coders.tokyo/tuts/](https://coders.tokyo/tuts/)
