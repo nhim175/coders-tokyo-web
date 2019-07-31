@@ -34,7 +34,8 @@
               </a>
             </li>
             <li>
-              <a href="https://www.youtube.com/watch?v=zIjRONNA_8Y&list=PLkY6Xj8Sg8-uPZnTdScfuH0xD-O6Kb-V-" target="_blank">
+              <a href="https://www.youtube.com/watch?v=zIjRONNA_8Y&list=PLkY6Xj8Sg8-uPZnTdScfuH0xD-O6Kb-V-"
+                target="_blank">
                 <i class="socicon socicon-youtube icon icon--xs"></i>
               </a>
             </li>
@@ -61,6 +62,9 @@
     </div>
     <!--end of row-->
   </div>
+  <div id="scrollTop" class="scrollTop">
+    <img src="/images/up-arrow.svg" />
+  </div>
   <!--end of container-->
 </footer>
 
@@ -68,10 +72,25 @@
 <%- js('https://cdnjs.cloudflare.com/ajax/libs/flickity/2.1.1/flickity.pkgd.min.js') %>
 <%- js('https://cdnjs.cloudflare.com/ajax/libs/smooth-scroll/14.2.1/smooth-scroll.min.js') %>
 <%- js('js/scripts.js') %>
-<script src="https://embed.small.chat/TAKF2JHMFGAY8GG7K5.js" async></script>
 
 <script>
   var scroll = new SmoothScroll('a[href*="#"]');
+  var scrollTopEl = document.querySelector("#scrollTop");
+  scrollTopEl.addEventListener("click", () => {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+  });
+  window.onscroll = onScroll;
+  function onScroll() {
+    if (
+      document.body.scrollTop > 30 ||
+      document.documentElement.scrollTop > 30
+    ) {
+      scrollTopEl.classList.add("showScroll");
+    } else {
+      scrollTopEl.classList.remove("showScroll");
+    }
+  }
 </script>
 
 <!-- <footer id="footer">
