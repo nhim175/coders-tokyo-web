@@ -61,8 +61,27 @@
     </div>
     <!--end of row-->
   </div>
+  <div class="fb-customerchat" page_id="<%= theme.fb_page_id %>"></div>
   <!--end of container-->
 </footer>
+
+<!-- Load Facebook SDK for JavaScript -->
+<script>
+  (function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+  window.fbAsyncInit = function () {
+    FB.init({
+      xfbml: true,
+      version: 'v4.0'
+    });
+  };
+</script>
 
 <%- js('https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js') %>
 <%- js('https://cdnjs.cloudflare.com/ajax/libs/flickity/2.1.1/flickity.pkgd.min.js') %>
