@@ -2904,6 +2904,9 @@ a {
   background: #3b5998;
   color: #fff;
 }
+.color--gray{
+  color: #808080;
+}
 .bg--twitter {
   background: #00aced;
   color: #fff;
