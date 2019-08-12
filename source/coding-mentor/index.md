@@ -74,7 +74,7 @@ markdown:
             </div>
             <div class="col-md-4">
                 <div class="feature feature-3 boxed boxed--lg boxed--border">
-                    <img height="100" src="/images/mentor/time-management.svg">
+                    <img height="100" src="/images/mentor/group.svg">
                     <h4>Học từ nhiều mentor</h4>
                     <p>
                         Mỗi người có một cách giải quyết vấn đề khác nhau, bạn sẽ học được tư duy giải quyết vấn đề từ nhiều mentor chuyên nghiệp.
