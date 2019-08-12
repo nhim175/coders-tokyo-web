@@ -4,8 +4,8 @@ menu:
   Tutorials: /tuts
   Team: /team
   Success stories: /success-stories
+  MentorX: /coding-mentor
   Blog: /blog
-  MENTOR SYSTEM: /mentor-system
 rss: /atom.xml
 
 # Content
@@ -45,5 +45,3 @@ authors:
   - hong_quang:
     name: Hồng Quang
     url: facebook.com
-  
-
