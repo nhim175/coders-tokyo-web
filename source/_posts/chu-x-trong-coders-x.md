@@ -4,6 +4,8 @@ date: 2019-08-14 00:26:31
 tags:
 ---
 
+![](https://res.cloudinary.com/djeghcumw/image/upload/v1565714157/blog/coders-x-banner-fb.jpg)
+
 Ngày 23 tháng 5 năm 2019, mình có nhận được một câu hỏi từ một bạn trong cộng đồng Đà Nẵng: "CodersX, X có nghĩa là gì ạ".
 
 Trước khi nói về đáp án thì hãy cùng xem mọi người suy nghĩ gì về chữ X này nhé.
