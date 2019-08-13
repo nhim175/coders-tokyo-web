@@ -57,6 +57,8 @@ Experience + Extreme + Extend
 
 Code.X là chương trình Tư duy Thiết kế và Khoa học Máy tính ba năm dành cho học sinh trung học, cho phép họ trở thành người thay đổi trong cộng đồng của họ. Trọng tâm là thay đổi tư duy để phát triển sinh viên như là tác nhân thay đổi. Bằng cách tích hợp khoa học máy tính, tư duy thiết kế và tiếp xúc văn hóa, sinh viên không chỉ đạt được các kỹ năng công nghệ mà còn làm thế nào để sử dụng các kỹ năng đó để xác định và tạo ra các giải pháp.
 
+Bài viết gốc: [https://www.facebook.com/coders.tokyo/photos/a.1753001401461815/2271099512985332/?type=3&theater](https://www.facebook.com/coders.tokyo/photos/a.1753001401461815/2271099512985332/?type=3&theater)
+
 ### Đáp án
 
 Tất cả mọi câu trả lời đều đúng. X đại diện cho sự tự do, sáng tạo, là bất cứ thứ gì mà các bạn có thể hình dung, tưởng tượng ra. X là điểm đến tiếp theo của cộng đồng. X là những ẩn số. X là biểu hiện của sự cân xứng, sự đam mê.
