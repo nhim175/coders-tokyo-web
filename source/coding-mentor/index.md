@@ -53,7 +53,7 @@ markdown:
                 </p>
             </div>
         </div>
-        <div class="row">
+        <div class="row text-center">
             <div class="col-md-4">
                 <div class="feature feature-3 boxed boxed--lg boxed--border">
                     <img height="100" src="/images/mentor/time-management.svg">
@@ -92,21 +92,21 @@ markdown:
             <h2>Sử dụng MentorX ra sao?</h2>
         </div>
       </div>
-      <div class="row">
-        <div class="col-md-3 text-center">
-            <img width="261" src="/images/mentor/how-1.png">
+      <div class="row text-center">
+        <div class="col-md-3 mb-5">
+            <img class="rounded-circle border" width="261" src="/images/mentor/how-1.png">
             <p><b>Bước 1.</b> Chọn menu MentorX từ menu chính.</p>
         </div>
-        <div class="col-md-3 text-center">
-            <img width="261" src="/images/mentor/how-2.png">
+        <div class="col-md-3 mb-5">
+            <img class="rounded-circle border" width="261" src="/images/mentor/how-2.png">
             <p><b>Bước 2.</b> Chọn khoá học mà bạn cần mentor và nhấn Search.</p>
         </div>
-        <div class="col-md-3 text-center">
-            <img width="261" src="/images/mentor/how-3.png">
+        <div class="col-md-3 mb-5">
+            <img class="rounded-circle border" width="261" src="/images/mentor/how-3.png">
             <p><b>Bước 3.</b> Nhấn Chat với bất kì mentor nào bạn muốn.</p>
         </div>
-        <div class="col-md-3 text-center">
-            <img width="261" src="/images/mentor/how-4.png">
+        <div class="col-md-3 mb-5">
+            <img class="rounded-circle border" width="261" src="/images/mentor/how-4.png">
             <p><b>Bước 4.</b> Đặt lịch call 1-1 với mentor khi bạn cảm thấy ưng ý.</p>
         </div>
       </div>
