@@ -7,7 +7,7 @@ tags:
 
 <figure class="wp-block-image is-resized">![](https://res.cloudinary.com/djeghcumw/image/upload/v1556816137/blog/11112.jpg)</figure>
 
-Trong thời gian đăng conffession trên [Coders.Tokyo](https://coders.tokyo/) có rất nhiều những câu hỏi dạng như: "Tự học có hiệu quả không, chia sẻ cách học của các bạn được không?" hay "Tự học thì khi đi xin việc liệu có đủ kiến thức không?", …
+Trong thời gian đăng conffession trên [CodersX](https://coders-x.com/) có rất nhiều những câu hỏi dạng như: "Tự học có hiệu quả không, chia sẻ cách học của các bạn được không?" hay "Tự học thì khi đi xin việc liệu có đủ kiến thức không?", …
 
 <!-- more -->
 
@@ -19,7 +19,7 @@ Ta buộc phải chủ động hơn, tự giác hơn - nói cách khác ta bắt
 
 ## Đường Tăng thu phục Tôn Ngộ Không
 
-<figure class="wp-block-image is-resized">![Tư học hố đen trong quá trình tự học CodersTokyo](https://res.cloudinary.com/djeghcumw/image/upload/v1556164785/blog/tnk.png)</figure>
+<figure class="wp-block-image is-resized">![Tư học hố đen trong quá trình tự học CodersX](https://res.cloudinary.com/djeghcumw/image/upload/v1556164785/blog/tnk.png)</figure>
 
 ### 60% Tài năng của Lão Tôn
 
@@ -31,7 +31,7 @@ Khi Đường Tăng chưa hoàn toàn thu phục được 100% đồ đệ giỏ
 
 <div class="wp-block-image">
 
-<figure class="aligncenter is-resized">![Tư học hố đen trong quá trình tự học CodersTokyo](https://res.cloudinary.com/djeghcumw/image/upload/v1556165152/blog/ds_7-3-ton-1in.jpg)</figure>
+<figure class="aligncenter is-resized">![Tư học hố đen trong quá trình tự học CodersX](https://res.cloudinary.com/djeghcumw/image/upload/v1556165152/blog/ds_7-3-ton-1in.jpg)</figure>
 
 </div>
 
@@ -57,7 +57,7 @@ Trong quá trình tự học, một yếu tố rất quan trọng nữa quyết 
 
 <div class="wp-block-image">
 
-<figure class="aligncenter is-resized">![Tư học hố đen trong quá trình tự học CodersTokyo](https://res.cloudinary.com/djeghcumw/image/upload/v1556165231/blog/nhung-kho-khan-cua-nguoi-viet-khi-hoc-tieng-han.jpg)</figure>
+<figure class="aligncenter is-resized">![Tư học hố đen trong quá trình tự học CodersX](https://res.cloudinary.com/djeghcumw/image/upload/v1556165231/blog/nhung-kho-khan-cua-nguoi-viet-khi-hoc-tieng-han.jpg)</figure>
 
 </div>
 
@@ -66,6 +66,6 @@ Trong quá trình tự học, một yếu tố rất quan trọng nữa quyết 
 Khó khăn trong quá trình tự học là thế. Nhưng khi ta tìm ra được cách học khoa học, hợp lí với mình thì nó sẽ trở thành công cụ hỗ trợ đắc lực của ta trong ngành lập trình nói riêng và những quá trình học những kiến thức mới nói chung.  
 Vậy ta nên và làm sao để ta tìm ra được **_chiếc vòng kim cô_** cho quá trình tự học của mình, cũng như các _tips_ để vượt qua những khó khăn - hố đen trong quá trình tự học đó… sẽ được bật mí ở Phần 2\. Các bạn cùng chờ nhé!
 
-Đọc thêm các blog khác tại: [https://coders.tokyo/blog/﻿](https://coders.tokyo/blog/﻿)
+Đọc thêm các blog khác tại: [https://coders-x.com/blog/﻿](https://coders-x.com/blog/﻿)
 
-Tham gia cộng đồng học lập trình miễn phí: [https://coders.tokyo/](https://coders.tokyo/)
+Tham gia cộng đồng học lập trình miễn phí: [https://coders-x.com/](https://coders-x.com/)

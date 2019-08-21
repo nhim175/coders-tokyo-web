@@ -11,7 +11,7 @@ Search Google với từ khóa **coercion trong javascript** rồi dạo một l
 
 <!-- more -->
 
-Nếu bạn chưa đọc bài _Bạn chưa hiểu JavaScript đâu kỳ 1 - Scopes và Hoisting_ viết về _bộ ba quyền lực trong JavaScript_ thì mình khuyên các bạn nên đọc nó trước tại [đây](https://coders.tokyo/2019/07/29/Ban-chua-hieu-JS-dau-ky-1-scope-hoisting/).
+Nếu bạn chưa đọc bài _Bạn chưa hiểu JavaScript đâu kỳ 1 - Scopes và Hoisting_ viết về _bộ ba quyền lực trong JavaScript_ thì mình khuyên các bạn nên đọc nó trước tại [đây](https://coders-x.com/2019/07/29/Ban-chua-hieu-JS-dau-ky-1-scope-hoisting/).
 
 ## Nhắc lại về kiểu dữ liệu trong JavaScript
 
@@ -234,4 +234,4 @@ Nếu tất cả là `true` thì là **đúng hết**. Làm được bài này c
 
 Nếu bạn có phần nào chưa rõ hay muốn trao đổi thêm với mình, đừng ngần ngại [inbox mình](https://www.facebook.com/japananh) nhé. Chúc các bạn đọc vui.
 
-Nếu bạn muốn có nhiều cơ hội trải nghiệm hơn, hãy tham gia cộng đồng học lập trình miễn phí [Coders.Tokyo](https://school.coders.tokyo/) với chúng mình. Together, we change the world.
+Nếu bạn muốn có nhiều cơ hội trải nghiệm hơn, hãy tham gia cộng đồng học lập trình miễn phí [CodersX](https://school.coders-x.com/) với chúng mình. Together, we change the world.

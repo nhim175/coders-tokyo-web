@@ -82,6 +82,6 @@ Lời khuyên cuối cùng của tôi là đừng nên tạo nên các giả thi
 
 Nguồn tham khảo: [https://personalexcellence.co/blog/constructive-criticism/](https://personalexcellence.co/blog/constructive-criticism/)
 
-Đọc thêm các blog khác tại: [https://coders.tokyo/blog/](https://coders.tokyo/blog/)
+Đọc thêm các blog khác tại: [https://coders-x.com/blog/](https://coders-x.com/blog/)
 
-Tham gia cộng đồng học lập trình miễn phí: [https://coders.tokyo/](https://coders.tokyo/blog/)
+Tham gia cộng đồng học lập trình miễn phí: [https://coders-x.com/](https://coders-x.com/blog/)

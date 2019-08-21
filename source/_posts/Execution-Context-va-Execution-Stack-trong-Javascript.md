@@ -62,7 +62,7 @@ Engine sẽ thực thi function mà exec context ở trên đỉnh của stack t
     first();
     console.log('Inside Global Execution Context');
 
-<figure class="wp-block-image">![Execution Context Execution Stack Coders-Tokyo](https://res.cloudinary.com/djeghcumw/image/upload/c_scale,q_100,w_1000/v1551898475/blog/excutionStack-CodersTokyo.png)</figure>
+<figure class="wp-block-image">![Execution Context Execution Stack Coders-Tokyo](https://res.cloudinary.com/djeghcumw/image/upload/c_scale,q_100,w_1000/v1551898475/blog/excutionStack-CodersX.png)</figure>
 
 _Credit: [Sukhjinder Arora](https://blog.bitsrc.io/@Sukhjinder?source=post_header_lockup)_
 

@@ -202,7 +202,7 @@ console.log(rest); //Output: ["second", "third", "fourth"]
 
 <div class="wp-block-image">
 
-<figure class="aligncenter is-resized">![destructuring Coders.Tokyo](https://res.cloudinary.com/djeghcumw/image/upload/v1553139652/blog/1___Qjq_ioJpGPq8h4phyyng.png)
+<figure class="aligncenter is-resized">![destructuring CodersX](https://res.cloudinary.com/djeghcumw/image/upload/v1553139652/blog/1___Qjq_ioJpGPq8h4phyyng.png)
 
 <figcaption>2D Bomberman Game
 

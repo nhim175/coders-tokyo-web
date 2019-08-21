@@ -72,7 +72,7 @@ Nếu bạn muốn đi xa hơn theo kiểu truyền thống thì đây là mục
 ![7 lý do tại sao bạn nên sử dụng Linux để lập trình](https://res.cloudinary.com/djeghcumw/image/upload/v1554255745/blog/0bfc8566-bb1f-4e8e-8fe0-bd537a86d500.jpg)
 
 Ngay cả khi bạn đã có một môi trường phát triển, việc đánh giá lại nó để xem liệu Linux có phù hợp hơn với nhu cầu của bạn hay không. Bạn đã có thể học được rất nhiều và tiết kiệm một số tiền.  
-Bên cạnh đó, nếu bạn đang xem [các video học lập trình](https://coders.tokyo/tuts/) của [**Coders Tokyo**](https://coders.tokyo/) thì chắc bạn cũng đã nhận được lời khuyên nên sử dụng Linux Ubuntu. Vì nó có tính tương thích và độ linh hoạt cao, tương tự như MacOS, thích hợp cho việc [học lập trình](https://coders.tokyo/).
+Bên cạnh đó, nếu bạn đang xem [các video học lập trình](https://coders-x.com/tuts/) của [**CodersX**](https://coders-x.com/) thì chắc bạn cũng đã nhận được lời khuyên nên sử dụng Linux Ubuntu. Vì nó có tính tương thích và độ linh hoạt cao, tương tự như MacOS, thích hợp cho việc [học lập trình](https://coders-x.com/).
 
 Source:  
 [https://www.makeuseof.com/tag/6-superb-reasons-use-linux-programming/](https://www.makeuseof.com/tag/6-superb-reasons-use-linux-programming/)

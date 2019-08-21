@@ -21,7 +21,7 @@ Cha đẻ của thuyết phân tâm học Freud chia tâm trí con người ra l
 
 Ví dụ, bạn đang ở trong siêu thị, cầm một quả táo đỏ trên tay, bạn thấy nó có màu đỏ (_thị giác_), mùi thơm (_khứu giác_), mịn màng cầm rất sướng tay (_cảm giác_). Nó khiến bạn thèm (_cảm xúc_) và bạn muốn mua nó về ăn luôn và ngay (_ý nghĩ_). Bạn sờ vào túi và nhận ra hôm nay bạn quên ví tiền ở nhà. Bạn đành ngậm ngùi bỏ nó lại.
 
-Mình có viết trong kỳ 3 của [_Series Hiểu về não - Tại sao bạn ngủ?_](https://coders.tokyo/2019/06/24/Hieu-ve-nao-ky-3-tai-sao-ban-ngu/) rằng phần **Vỏ não trước trán - Prefrontal cortex** chịu trách nhiệm cho suy nghĩ có ý thức của bạn và việc hoạt động liên tục không nghỉ ngơi sẽ khiến phần não này quá tải, dẫn tới các quyết định sai lầm. Và đó cũng là lý do nó chỉ chiếm 10% chức năng hoạt động của não. Vì nếu nó chiếm 100%, bạn sẽ mất nhiều calos hơn mà năng suất thì giảm. Cũng giống như lập trình sinh ra để giúp chúng ta tự động hóa máy móc, giảm thời gian lao động chân tay vào những công việc vô nghĩa. Vỏ não trước trán chỉ được nghỉ ngơi khi bạn ngủ nên bạn cần ngủ đủ để bảo vệ nó.
+Mình có viết trong kỳ 3 của [_Series Hiểu về não - Tại sao bạn ngủ?_](https://coders-x.com/2019/06/24/Hieu-ve-nao-ky-3-tai-sao-ban-ngu/) rằng phần **Vỏ não trước trán - Prefrontal cortex** chịu trách nhiệm cho suy nghĩ có ý thức của bạn và việc hoạt động liên tục không nghỉ ngơi sẽ khiến phần não này quá tải, dẫn tới các quyết định sai lầm. Và đó cũng là lý do nó chỉ chiếm 10% chức năng hoạt động của não. Vì nếu nó chiếm 100%, bạn sẽ mất nhiều calos hơn mà năng suất thì giảm. Cũng giống như lập trình sinh ra để giúp chúng ta tự động hóa máy móc, giảm thời gian lao động chân tay vào những công việc vô nghĩa. Vỏ não trước trán chỉ được nghỉ ngơi khi bạn ngủ nên bạn cần ngủ đủ để bảo vệ nó.
 
 # Tiền ý thức - Subconscious mind
 
@@ -62,4 +62,4 @@ Liệt kê những cái nhãn mà người khác hoặc bạn tự dán cho mìn
 
 Ví dụ, giao tiếp kém vì mặt nhiều mụn, hồi bé hay bị các bạn trêu trọc nên nảy sinh tâm lý xa lánh mọi người, ngại giao tiếp -> Giải pháp: Trị mụn. -> Mặt xinh -> Tự tin, yêu đời, có gấu.
 
-Nếu bạn muốn có nhiều cơ hội trải nghiệm hơn, hãy tham gia cộng đồng học lập trình miễn phí [Coders.Tokyo](https://school.coders.tokyo/) với chúng mình. **Together, we change the world**.
+Nếu bạn muốn có nhiều cơ hội trải nghiệm hơn, hãy tham gia cộng đồng học lập trình miễn phí [CodersX](https://school.coders-x.com/) với chúng mình. **Together, we change the world**.

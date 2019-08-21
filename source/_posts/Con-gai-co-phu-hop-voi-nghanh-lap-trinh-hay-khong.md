@@ -14,11 +14,11 @@ Nói đến lập trình chắc hẳn các bạn sẽ liên tưởng đến hìn
 
 Đó là câu hỏi mà mình thường xuyên được hỏi từ các bạn nữ sau mỗi buổi giao lưu. Mình sẽ không trả lời câu hỏi này ngay mà sẽ để bạn tự rút ra câu trả lời qua một mẫu chuyện có thật...
 
-## Mẫu chuyện có thật từ Coders.Tokyo
+## Mẫu chuyện có thật từ CodersX
 
 Trước hết, mình xin gửi lời cảm ơn đến chị Ngô Nguyễn Kim Châu (nữ chính của câu chuyện) vì đã dành thời gian hoàn thành bài phỏng vấn của mình. Quay lại với câu chuyện về chị Châu và con đường đến với lập trình của chị.
 
-Mình may mắn được gia nhập Coders.Tokyo và được làm việc với anh Thịnh khá lâu. Qua đó, mình được tiếp xúc khá nhiều bạn học trong thời gian vừa qua. Hôm nay, nhân dịp này mình muốn thay mặt Coders.Tokyo chia sẽ bài phỏng vấn với chị Ngô Nguyễn Kim Châu.
+Mình may mắn được gia nhập CodersX và được làm việc với anh Thịnh khá lâu. Qua đó, mình được tiếp xúc khá nhiều bạn học trong thời gian vừa qua. Hôm nay, nhân dịp này mình muốn thay mặt CodersX chia sẽ bài phỏng vấn với chị Ngô Nguyễn Kim Châu.
 
 ### Chia sẽ từ chị Ngô Nguyễn Kim Châu
 

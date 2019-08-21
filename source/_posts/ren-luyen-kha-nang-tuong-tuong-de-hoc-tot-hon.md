@@ -13,7 +13,7 @@ Thông thường những người thông minh học sẽ đọc rất nhiều s�
 
 # Rèn luyện khả năng tưởng tượng để học tốt hơn
 
-Mình là Thông, một thành viên gắn bó đã lâu tại cộng đồng Coders.Tokyo! Sau nhiều bài viết và các sản phẩm được chia sẽ trên Fanpage và Facebook của mình. Có rất nhiều bạn hỏi mình về cách học và quá trình học như thế nào! Do mình không thể trả lời hết cho từng bạn được nên mình quyết định viết Blog này như câu trả lời chung cho những ai có cùng thắc mắc.
+Mình là Thông, một thành viên gắn bó đã lâu tại cộng đồng CodersX! Sau nhiều bài viết và các sản phẩm được chia sẽ trên Fanpage và Facebook của mình. Có rất nhiều bạn hỏi mình về cách học và quá trình học như thế nào! Do mình không thể trả lời hết cho từng bạn được nên mình quyết định viết Blog này như câu trả lời chung cho những ai có cùng thắc mắc.
 
 Thật ra, mấu chốt học nhanh của mình chủ yếu là ở sự tưởng tượng trong lúc học. Mình thường tưởng tượng mọi thứ, mọi vấn đề theo nhiều khía cạnh phong phú. Và điều đó đã giúp mình học và tiếp thu nhanh hơn rất nhiều. Hôm nay, mình muốn chia sẽ với các bạn về lợi ích và sức mạnh của sự tưởng tượng vì nó thật sự rất kỳ diệu!!
 
@@ -63,15 +63,15 @@ Thanh điều hướng - Chỗ nhập địa chỉ web trên trình duyệt.
 
 🍣 Mỗi website như một doanh nghiệp trong thành phố. Mỗi doanh nghiệp đều có địa chỉ cụ thể để người khác có thể tìm thấy.
 
-Ví dụ trang web "[https://coders.tokyo/](https://coders.tokyo/?fbclid=IwAR2OUCMgmw4ClW1VGazfpNmq0BC-X02PnAdh9hZAcW6blQLYfi5luPh4vM0)" mà chúng ta đang học là một doanh nghiệp trong thành phố Internet. Và cụm từ "coders.tokyo" sẽ là địa chỉ của doanh nghiệp này.
+Ví dụ trang web "[https://coders-x.com/](https://coders-x.com/?fbclid=IwAR2OUCMgmw4ClW1VGazfpNmq0BC-X02PnAdh9hZAcW6blQLYfi5luPh4vM0)" mà chúng ta đang học là một doanh nghiệp trong thành phố Internet. Và cụm từ "codersx" sẽ là địa chỉ của doanh nghiệp này.
 
 🍣 Browser là Shipper chân chính. Chịu trách nhiệm chuyển hàng giữa doanh nghiệp và khách hàng. Khi sử dụng trình duyệt, chúng ta có vai trò là một khách hàng.
 
 VÍ DỤ THỰC TẾ
 
-Nhập vào thanh điều hướng của trình duyệt nội dung: "[https://coders.tokyo/](https://coders.tokyo/?fbclid=IwAR3xIDPM-g1j76dOUSv4gubxT4_mA874iGAbcc9NFOEljgBTtKgz__Z3PpU)".
+Nhập vào thanh điều hướng của trình duyệt nội dung: "[https://coders-x.com/](https://coders-x.com/?fbclid=IwAR3xIDPM-g1j76dOUSv4gubxT4_mA874iGAbcc9NFOEljgBTtKgz__Z3PpU)".
 
-Chúng ta vừa cung cấp địa chỉ doanh nghiệp cho Shipper đi Lấy (GET) thông tin từ doanh nghiệp có địa chỉ là "coders.tokyo"
+Chúng ta vừa cung cấp địa chỉ doanh nghiệp cho Shipper đi Lấy (GET) thông tin từ doanh nghiệp có địa chỉ là "coders-x.com"
 
 Shipper chạy đến doanh nghiệp và yêu cầu (Request) họ cung cấp thông tin. Họ sẽ trả về (Response) một bảng trình bày (Giao diện web) có đầy đủ thông tin trong đó.
 

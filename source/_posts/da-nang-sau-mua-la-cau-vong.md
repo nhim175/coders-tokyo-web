@@ -7,13 +7,13 @@ tags:
 
 ![](https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1559118388/blog/team-3_resized.jpg)
 
-Mình là Thông và hiện tại đang là một trong những thành viên của CodersX - nhóm phát triển của cộng đồng Coders.Tokyo. Bài viết này mình viết để chia sẽ tâm tư, tình cảm đã dành cho nhóm và mọi người. Thông qua đó, mình muốn cho bạn thấy được rằng cộng đồng đã gây dựng được một nhóm tuyệt vời như thế nào và tại sao mình cảm thấy hạnh phúc khi làm việc tại CodersX.
+Mình là Thông và hiện tại đang là một trong những thành viên của CodersX - nhóm phát triển của cộng đồng CodersX. Bài viết này mình viết để chia sẽ tâm tư, tình cảm đã dành cho nhóm và mọi người. Thông qua đó, mình muốn cho bạn thấy được rằng cộng đồng đã gây dựng được một nhóm tuyệt vời như thế nào và tại sao mình cảm thấy hạnh phúc khi làm việc tại CodersX.
 
 <!-- more -->
 
 Nếu như bạn muốn biết CodersX là một nhóm như thế nào? Mọi người ở đây làm việc với nhau ra sao? Bài viết này sẽ mang đến cho bạn một vài góc nhìn cụ thể về nhóm. Là một thành viên của CodersX, bản thân mình thật sự tự hào và mong muốn chia sẽ văn hoá làm việc và học tập nơi đây tới nhiều nơi nhất có thể.
 
-Nhóm đã được thành lập và đi vào hoạt động được gần 6 tháng. Mục đích của nhóm là giúp duy trì cộng đồng Coders.Tokyo. Để tạo ra một môi trường học tập miễn phí tuyệt vời nhất. Mới đây thôi mà cả bọn đã ngót ngét đi được gần nửa năm trời!
+Nhóm đã được thành lập và đi vào hoạt động được gần 6 tháng. Mục đích của nhóm là giúp duy trì cộng đồng CodersX. Để tạo ra một môi trường học tập miễn phí tuyệt vời nhất. Mới đây thôi mà cả bọn đã ngót ngét đi được gần nửa năm trời!
 
 Thời gian đi cùng nhau tuy không đủ dài để khẳng định về điều gì cả. Nhưng mình tin là sau những gì mình chia sẽ dưới đây, sẽ giúp bạn có một góc nhìn khác hoàn toàn về CodersX và những thành viên nơi đây.
 
@@ -29,7 +29,7 @@ Nhưng… sự đặc biệt nhất luôn được hình thành từ những đi
 
 ## Niềm vui bất ngờ tại một nơi xa lạ
 
-Anh Thịnh (Founder của Coders.Tokyo) đã quyết định tổ chức một sự kiện lớn đầu tiên tại Đà Nẵng. Lần này, tất cả thành viên của CodersX sẽ cùng nhau bay vào đây để tham dự sự kiện cùng anh ấy. Đây cũng là lần đầu tiên mà chúng tôi được gặp nhau ngoài đời và là cột mốc khởi đầu cho một cộng đồng đặc biệt chưa từng có tại Việt Nam.
+Anh Thịnh (Founder của CodersX) đã quyết định tổ chức một sự kiện lớn đầu tiên tại Đà Nẵng. Lần này, tất cả thành viên của CodersX sẽ cùng nhau bay vào đây để tham dự sự kiện cùng anh ấy. Đây cũng là lần đầu tiên mà chúng tôi được gặp nhau ngoài đời và là cột mốc khởi đầu cho một cộng đồng đặc biệt chưa từng có tại Việt Nam.
 
 Ban đầu, mình chỉ nghỉ là mọi người sẽ chỉ đơn thuần là cùng nhau vào dự sự kiện rồi ai sẽ làm việc nấy. Nghỉ là chẳng có gì hay ho và đặc biệt cho lắm… Nhưng đó là chính một trong những nhận định sai lầm lớn nhất đời này, mình đã nhận ra nhận định của mình hoàn toàn sai khi đặt chân đến Đà Nẵng. Thay vì thấy bình thường như lúc nãy, thì mình lại thấy vô cùng hồi hộp và phấn khích khi chờ đợi Grab chở từ sân bay về HomeStay (nơi mà cả bọn sẽ ở cùng nhau 2 đêm).
 

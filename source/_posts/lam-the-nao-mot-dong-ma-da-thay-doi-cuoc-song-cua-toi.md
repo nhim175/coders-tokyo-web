@@ -31,4 +31,4 @@ Cảm ơn vì đã đọc. Tôi là Ricardo Funk ([@ rfunk82](https://dev.to/rfu
 
 Nguồn:[https://dev.to/rfunk82/how-a-single-line-of-code-changed-my-life](https://dev.to/rfunk82/how-a-single-line-of-code-changed-my-life)
 
-Và đừng quên, học lập trình MIỄN PHÍ tại: [https://coders.tokyo/tuts/](https://coders.tokyo/tuts/)
+Và đừng quên, học lập trình MIỄN PHÍ tại: [https://coders-x.com/tuts/](https://coders-x.com/tuts/)

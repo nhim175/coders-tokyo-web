@@ -9,7 +9,7 @@ tags:
 
 Xin chào các bạn, mình quay trở lại rồi đây (^^). Ở bài viết này, mình sẽ chia sẽ cho các bạn những thứ cơ bản về bootstrap mà bạn nên biết. Những thứ mà bạn bắt đầu xây dựng một `responsive websites` với phiên bản mới nhất của Bootstrap, version 4.
 
-Nếu kiến thức về CSS của bạn chưa tốt, mình khuyên bạn nên tìm hiểu kỹ về nó trước khi đọc bài này. Để có được một kiến thức toàn diện và tổng quát về CSS, mình xin giới thiệu bạn khoá học CSS đến từ [Coders.Tokyo School](https://school.coders.tokyo/login).
+Nếu kiến thức về CSS của bạn chưa tốt, mình khuyên bạn nên tìm hiểu kỹ về nó trước khi đọc bài này. Để có được một kiến thức toàn diện và tổng quát về CSS, mình xin giới thiệu bạn khoá học CSS đến từ [CodersX School](https://school.coders-x.com/login).
 
 Nếu bạn đã sẵn sàng, chúng ta hãy bắt đầu!
 

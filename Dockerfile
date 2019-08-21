@@ -1,6 +1,6 @@
 FROM node:8.11.3
 
-LABEL maintainer "Coders.Tokyo Community"
+LABEL maintainer "CodersX Community"
 
 ENV DEBIAN_FRONTEND noninteractive
 

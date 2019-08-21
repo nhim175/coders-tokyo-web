@@ -58,4 +58,4 @@ Biến một kiến thức mà bạn biết thành một câu chuyện sử dụ
 
 Bạn nhớ đón đọc kỳ 2 của Series Hiểu về não để biết mình đã sáng tác chuyện như thế nào khi mình học về bộ nhớ máy tính nhé.
 
-Nếu bạn muốn có nhiều cơ hội trải nghiệm hơn, hãy tham gia cộng đồng học lập trình miễn phí [Coders.Tokyo](https://school.coders.tokyo/) với chúng mình. Together, we change the world.
+Nếu bạn muốn có nhiều cơ hội trải nghiệm hơn, hãy tham gia cộng đồng học lập trình miễn phí [CodersX](https://school.coders-x.com/) với chúng mình. Together, we change the world.

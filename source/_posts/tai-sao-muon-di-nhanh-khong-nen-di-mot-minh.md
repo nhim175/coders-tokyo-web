@@ -33,4 +33,4 @@ Lấy ví dụ đơn giản một nhóm có N người (giả sử N = 10), mỗ
 
 Thử suy nghĩ xem :)
 
-#coders-tokyo
+#codersx

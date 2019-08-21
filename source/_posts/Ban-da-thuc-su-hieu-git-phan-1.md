@@ -9,7 +9,7 @@ tags:
 
 Xin chào các bạn, mình quay trở lại rồi đây (^^). Ở bài viết này, mình sẽ chia sẽ cho các bạn những kiến thức về git và cũng như cách thức mà git hoạt động. Một bài hướng dẫn Git tốt là một bài chỉ cho bạn hiểu cách git hoạt động chi tiết, chứ không phải dừng lại ở mức cách mà sử dụng chúng.
 
-Nếu bạn là người mới tìm hiểu về Git, mình khuyên bạn nên tìm hiểu kỹ về nó trước khi đọc bài này. Để có được một kiến thức toàn diện và tổng quát về Git, mình xin giới thiệu bạn khoá học Git đến từ [Coders.Tokyo School](https://school.coders.tokyo/login).
+Nếu bạn là người mới tìm hiểu về Git, mình khuyên bạn nên tìm hiểu kỹ về nó trước khi đọc bài này. Để có được một kiến thức toàn diện và tổng quát về Git, mình xin giới thiệu bạn khoá học Git đến từ [CodersX School](https://school.coders-x.com/login).
 
 Nếu bạn đã sẵn sàng, chúng ta hãy bắt đầu! Mình hi vọng những concept trong bài này sẽ giúp bạn hiểu hơn về git.
 
