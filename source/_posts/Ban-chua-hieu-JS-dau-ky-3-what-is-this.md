@@ -7,15 +7,15 @@ tags: javascript
 
 ![Bạn chưa biết JavaScript đâu](https://res.cloudinary.com/djeghcumw/image/upload/v1566613910/blog/th.png)
 
-Chắc hẳn nhiều lần trong đời, bạn sẽ phải thốt lên *What is `this`*. Vâng, `this` ở đây, ở kia, ở khắp mọi nơi trong vương quốc JavaScript. Chết tiệt, xxx loạn mất rồi. Này, bình tĩnh nào. Trước hết, bạn cần dọn dẹp não đã, để có chỗ cho kiến thức mới vào. Nghỉ ngơi, uống trà. Tik tak ... Đã tới giờ hoàng đạo. Ready? 3 2 1
+Chắc hẳn nhiều lần trong đời, bạn sẽ phải thốt lên _What is `this`_. Vâng, `this` ở đây, ở kia, ở khắp mọi nơi trong vương quốc JavaScript. Chết tiệt, xxx loạn mất rồi. Này, bình tĩnh nào. Trước hết, bạn cần dọn dẹp não đã, để có chỗ cho kiến thức mới vào. Nghỉ ngơi, uống trà. Tik tak ... Đã tới giờ hoàng đạo. Ready? 3 2 1
 
 <!-- more -->
 
 ## `this` là cái quái gì?
 
-Xét về mặt ngôn ngữ học, nghĩa của `this` phụ thuộc vào **context** (*ngữ cảnh*). 
+Xét về mặt ngôn ngữ học, nghĩa của `this` phụ thuộc vào **context** (_ngữ cảnh_).
 
-Ví dụ, bạn đi ăn với bạn gái. Khi thức ăn được mang tới, cô ấy hỏi "What is this?". Bạn nói đó là bánh mỳ đen nguyên cám. Rồi cô ấy lại chỉ sang đĩa nhỏ màu xanh lá phía bên phải hỏi "What is this?". Bạn nói đó là sốt bơ. Ở đây, `this` lúc thì là cái bánh mỳ, lúc thì là sốt bơ. Nghĩa của `this` luôn đi kèm với **context** (*ngữ cảnh*) - cái bàn nơi 2 người ngồi, rồi món ăn được mang tới và ngôn ngữ cơ thể của bạn gái. Điều này cũng tương tự trong JavaScript. 
+Ví dụ, bạn đi ăn với bạn gái. Khi thức ăn được mang tới, cô ấy hỏi "What is this?". Bạn nói đó là bánh mỳ đen nguyên cám. Rồi cô ấy lại chỉ sang đĩa nhỏ màu xanh lá phía bên phải hỏi "What is this?". Bạn nói đó là sốt bơ. Ở đây, `this` lúc thì là cái bánh mỳ, lúc thì là sốt bơ. Nghĩa của `this` luôn đi kèm với **context** (_ngữ cảnh_) - cái bàn nơi 2 người ngồi, rồi món ăn được mang tới và ngôn ngữ cơ thể của bạn gái. Điều này cũng tương tự trong JavaScript.
 
 ## Đừng nhầm với `this`
 
@@ -23,13 +23,13 @@ Ví dụ, bạn đi ăn với bạn gái. Khi thức ăn được mang tới, c�
 
 ```javascript
 function greeting() {
-	var name = 'Nhat Anh';
-	console.log('Hi', this.name);
-	// console.log(this.name === global.name) // log ra true nếu chạy trên nodejs
-	// console.log(this.name === window.name) // log ra true nếu chạy trên browser
+  var name = "Nhat Anh";
+  console.log("Hi", this.name);
+  // console.log(this.name === global.name) // log ra true nếu chạy trên nodejs
+  // console.log(this.name === window.name) // log ra true nếu chạy trên browser
 }
 
-var name = 'Quang';
+var name = "Quang";
 
 greeting(); // 'Hi Quang' ???
 
@@ -40,33 +40,32 @@ greeting(); // 'Hi Quang' ???
 
 ```javascript
 function greeting() {
-	var name = 'Nhat Anh';
-	this.sayHi();
+  var name = "Nhat Anh";
+  this.sayHi();
 }
 
 function sayHi() {
-	console.log('Hi', this.name);
+  console.log("Hi", this.name);
 }
 
-var name = 'Quang';
+var name = "Quang";
 
 greeting(); // 'Hi Quang' ???
 
 // Hiển nhiên, `this` ở đây không phải là `sayHi()`.
-// Hàm sayHi() được gọi trong scope của `greeting()` nhưng 
+// Hàm sayHi() được gọi trong scope của `greeting()` nhưng
 // `this` không phải là `greeting()` mà vẫn là `global/window object`.
 ```
 
-* Thông tin bên lề: *lexcical scope* (còn có tên gọi khác là static scope) là scope mà trong đó, scope con có thể truy cập vào biến được khai báo ở scope cha mẹ. Hầu hết scopes trong JavaScript đều là *lexical scopes*.
-
+- Thông tin bên lề: _lexcical scope_ (còn có tên gọi khác là static scope) là scope mà trong đó, scope con có thể truy cập vào biến được khai báo ở scope cha mẹ. Hầu hết scopes trong JavaScript đều là _lexical scopes_.
 
 ## Call site - Gọi tôi ở đâu?
 
 `this` binding (ràng buộc) được xác định bởi **call-site**.
 
-**Call site** là **nơi hàm được gọi**, không phải nơi nó được khai báo. *Hàm được gọi ở đâu?*
+**Call site** là **nơi hàm được gọi**, không phải nơi nó được khai báo. _Hàm được gọi ở đâu?_
 
-**Call stack** là một khái niệm chỉ **vị trí của thread*** khi chương trình đang thực thi. Khi hàm được gọi (*call*), nó được xếp chồng lên nhau thành một đống (*stack*). Call-stack sẽ đẩy function vào (*push*) khi nó được gọi (*call*) và ném function ra (*pop*) khỏi stack khi function đó *return*.
+**Call stack** là một khái niệm chỉ **vị trí của thread\*** khi chương trình đang thực thi. Khi hàm được gọi (_call_), nó được xếp chồng lên nhau thành một đống (_stack_). Call-stack sẽ đẩy function vào (_push_) khi nó được gọi (_call_) và ném function ra (_pop_) khỏi stack khi function đó _return_.
 
 \* Hiểu đại khái là trong một lúc JacaScript thực hiện một nhiệm vụ theo thứ tự từ trên xuống dưới trong call stack, khi nào xong mới chuyển qua nhiệm vụ khác.
 
@@ -76,26 +75,26 @@ Ví dụ về **call site** và **call stack**:
 
 ```javascript
 function makeOne() {
-    // call-stack: `makeOne` (function makeOne được gọi và được đẩy vào call-stack)
-    // call-site: the global scope (function makeOne được gọi ở global scope)
+  // call-stack: `makeOne` (function makeOne được gọi và được đẩy vào call-stack)
+  // call-site: the global scope (function makeOne được gọi ở global scope)
 
-    console.log( 'oneee' );
-    makeTwo(); // <-- call-site cho `makeTwo` (nơi gọi function makeTwo)
+  console.log("oneee");
+  makeTwo(); // <-- call-site cho `makeTwo` (nơi gọi function makeTwo)
 }
 
 function makeTwo() {
-    // call-stack: `makeOne` -> `makeTwo` (function makeTwo được xếp chồng lên function makeOne trong call-stack)
-    // call-site: `makeOne`
+  // call-stack: `makeOne` -> `makeTwo` (function makeTwo được xếp chồng lên function makeOne trong call-stack)
+  // call-site: `makeOne`
 
-    console.log( 'twooo' );
-    makeThree(); // <-- call-site cho `makeThree`
+  console.log("twooo");
+  makeThree(); // <-- call-site cho `makeThree`
 }
 
 function makeThree() {
-    // call-stack: `makeOne` -> `makeTwo` -> `makeThree`
-    // call-site: `makeTwo`
+  // call-stack: `makeOne` -> `makeTwo` -> `makeThree`
+  // call-site: `makeTwo`
 
-    console.log( 'threee' );
+  console.log("threee");
 }
 
 makeOne(); // <-- call-site cho `makeOne`
@@ -103,14 +102,14 @@ makeOne(); // <-- call-site cho `makeOne`
 
 ## Bốn thứ tự ưu tiên xác định `this`
 
-### **Quy tắc 1 - New binding** (*Xuất hiện từ khóa  `new`*): `this` là **object mới** vừa được tạo với từ khóa `new`.
+### **Quy tắc 1 - New binding** (_Xuất hiện từ khóa `new`_): `this` là **object mới** vừa được tạo với từ khóa `new`.
 
 ```javascript
 function CodersX(name) {
-	this.name = name;
+  this.name = name;
 }
 
-var na = new CodersX('Nhat Anh');
+var na = new CodersX("Nhat Anh");
 na.name; // 'Nhat Anh'
 ```
 
@@ -123,26 +122,26 @@ na.name; // 'Nhat Anh'
 
 ```javascript
 function CodersX(name) {
-	this.name = name;
-	return {};
+  this.name = name;
+  return {};
 }
 
-var na = new CodersX('Nhat Anh');
+var na = new CodersX("Nhat Anh");
 na.name; // undefined @_@
 
-// Do hàm trả về một object nên this ở đây là CodersX, 
-// không phải là object na vừa tạo nên kết quả là undefined 
+// Do hàm trả về một object nên this ở đây là CodersX,
+// không phải là object na vừa tạo nên kết quả là undefined
 ```
 
-### **Quy tắc 2 - Explicit binding** (*Ràng buộc rõ ràng*): `this` là một object được chỉ định rõ. *Hàm có được gọi cùng với `call`, `apply` hoặc `bind` không?*
+### **Quy tắc 2 - Explicit binding** (_Ràng buộc rõ ràng_): `this` là một object được chỉ định rõ. _Hàm có được gọi cùng với `call`, `apply` hoặc `bind` không?_
 
 ```javascript
 function showName() {
-	console.log(this.name);
+  console.log(this.name);
 }
 
 var member = {
-	name: 'Nhat Anh'	
+  name: "Nhat Anh"
 };
 
 // this được chỉ định rõ là member bằng từ khóa `call`
@@ -156,29 +155,29 @@ na.name; // Nhat Anh
 
 ```javascript
 var member = {
-	name: 'Nhat Anh'	
+  name: "Nhat Anh"
 };
 
-function greeting(text1, text2) {  
-	console.log(`${text1}, ${this.name}. ${text2}.`);  
-}  
-  
-greeting.call(member, 'Hello', 'Nice to meet you'); 
+function greeting(text1, text2) {
+  console.log(`${text1}, ${this.name}. ${text2}.`);
+}
+
+greeting.call(member, "Hello", "Nice to meet you");
 // Hello, Nhat Anh. Nice to meet you.
 ```
 
-- `apply`: **gọi hàm ngay lập tức** như `call`, chỉ khác là  `apply` cho phép **pass một array** có một hoặc nhiều elements.
+- `apply`: **gọi hàm ngay lập tức** như `call`, chỉ khác là `apply` cho phép **pass một array** có một hoặc nhiều elements.
 
 ```javascript
 var member = {
-	name: 'Nhat Anh'	
+  name: "Nhat Anh"
 };
 
-function greeting(text1, text2) {  
-	console.log(`${text1}, ${this.name}. ${text2}.`);  
-}  
- 
-greeting.apply(member, ['Hello', 'Nice to meet you']); 
+function greeting(text1, text2) {
+  console.log(`${text1}, ${this.name}. ${text2}.`);
+}
+
+greeting.apply(member, ["Hello", "Nice to meet you"]);
 // Hello, Nhat Anh. Nice to meet you.
 ```
 
@@ -186,78 +185,80 @@ greeting.apply(member, ['Hello', 'Nice to meet you']);
 
 ```javascript
 var member = {
-	name: 'Nhat Anh'	
+  name: "Nhat Anh"
 };
 
-function greeting(text1, text2) {  
-	console.log(`${text1}, ${this.name}. ${text2}.`);  
-}  
+function greeting(text1, text2) {
+  console.log(`${text1}, ${this.name}. ${text2}.`);
+}
 
 // `bind` trả về một function. Gán function này với sayHi.
-var sayHi = greeting.bind(member, 'Hello', 'Nice to meet you');
+var sayHi = greeting.bind(member, "Hello", "Nice to meet you");
 sayHi(); // Hello, Nhat Anh. Nice to meet you.
 ```
 
-### **Quy tắc 3 - Implicit binding** (*Ràng buộc ẩn*):  *Hàm có được gọi cùng với **context** không?*
+### **Quy tắc 3 - Implicit binding** (_Ràng buộc ẩn_): _Hàm có được gọi cùng với **context** không?_
 
 ```javascript
 function showName() {
-	console.log(this.name);
+  console.log(this.name);
 }
 
 var member = {
-	name: 'Nhat Anh',
-	showName: showName
+  name: "Nhat Anh",
+  showName: showName
 };
 
-var na = member.showName(); 
+var na = member.showName();
 na; // 'Nhat Anh'
 
 // Hàm `showName()` được gọi cùng với context là `member` nên `this` là member
 ```
 
-### **Quy tắc 4 - Default Binding** (*Ràng buộc mặc định*): `this` là **window** object (*browser*) hoặc **global** object (*nodejs*). 
+### **Quy tắc 4 - Default Binding** (_Ràng buộc mặc định_):
+
+`this` là **window** object (_browser_) hoặc **global** object (_nodejs_) hoặc undefined (`use strict`).
 
 ```javascript
-// Xét TH 1: Dùng var 
+// Xét TH 1: Dùng var
 function showName() {
-	console.log(this.name);
+  console.log(this.name);
 }
 
-var name = 'Nhat Anh';
+var name = "Nhat Anh";
 
 showName(); // 'Nhat Anh'
 
 // `this` được trỏ tới global/window object.
-global === this;          // true
-// Dùng var thì biến name sẽ được thêm vào properties của global window object.
+global === this; // true
+// Dùng var thì biến name sẽ được thêm vào properties của global/window object.
 global.name === this.name; // true
 ```
 
 ```javascript
 // Xét TH 2: Dùng let
 function showName() {
-	console.log(this.name);
+  console.log(this.name);
 }
 
-let name = 'Nhat Anh';
+let name = "Nhat Anh";
 
-showName(); // 'undefined'???
-// `this` được trỏ tới global window object.
+showName(); // undefined ???
+// `this` được trỏ tới `global/window object`.
 
-global === this;          // true;
-// Dùng let thì biến name sẽ không được thêm vào properties của global window object.
+global === this; // true
+// Dùng `let` thì biến `name` sẽ không được thêm vào properties của `global/window object`.
 global.name === this.name; // false
 ```
 
 ```javascript
 // Xét TH 3: strict mode
 function showName() {
-	'use strict';
-	console.log(this.name);
+  "use strict";
+  console.log(this.name);
 }
 
-var name = 'Nhat Anh';
+var name = "Nhat Anh";
 
 showName(); // TypeError: Cannot read property 'name' of undefined
 // Nếu có `use strict` thì giá trị của `this` sẽ là undefined
@@ -267,44 +268,43 @@ showName(); // TypeError: Cannot read property 'name' of undefined
 
 ```javascript
 var member1 = {
-	id: '123',
-	mentor: 'Nhat Anh',
-	askMentor(question) {
-		console.log(this.mentor, question);
-	}
+  id: "123",
+  mentor: "Nhat Anh",
+  askMentor(question) {
+    console.log(this.mentor, question);
+  }
 };
 
 var member2 = {
-	id: '456',
-	mentor: 'Quang',
-	askMentor(question) {
-		console.log(this.mentor, question);
-	}
+  id: "456",
+  mentor: "Quang",
+  askMentor(question) {
+    console.log(this.mentor, question);
+  }
 };
 
-member1.askMentor('What is this?');      // Nhat Anh What is this?
+member1.askMentor("What is this?"); // Nhat Anh What is this?
 
-member1.askMentor.call(member2, 'What is this?'); // Quang What is this?
+member1.askMentor.call(member2, "What is this?"); // Quang What is this?
 
-/**
-* Khi gọi hàm askMentor() với call, `this` sẽ là member2 vì ràng buộc rõ ràng được ưu tiên hơn ràng buộc ẩn.
-*/
+// Khi gọi hàm askMentor() với call, `this` sẽ là member2
+// vì ràng buộc rõ ràng được ưu tiên hơn ràng buộc ẩn.
 ```
 
 ## Tổng kết
 
-- `this` binding phụ thuộc vào ngữ cảnh (*context*).
+- `this` binding phụ thuộc vào ngữ cảnh (_context_).
 - **Call site** là **nơi hàm được gọi**.
-- **Call stack** là một khái niệm chỉ **vị trí của thread** khi chương trình đang thực thi (*execution*).
-- 4 quy tắc theo thứ tự ưu tiên xác định `this`:
-	1. Từ khóa`new`.
-	2. **Explicit binding** (Ràng buộc rõ ràng): `this` là object được gọi cụ thể cùng  với `call`, `apply` và `bind`.
-	3. **Implicit binding** (Ràng buộc ẩn): `this` là object chứa context.
-	4. **Default Binding**: mặc định `this` là `global/window object` hoặc là `undefined` nếu có `use strict`.
+- **Call stack** là một khái niệm chỉ **vị trí của thread** khi chương trình đang thực thi (_execution_).
+- **Bốn quy tắc** theo thứ tự ưu tiên xác định `this`:
+  1. Từ khóa `new`.
+  2. **Explicit binding** (_ràng buộc rõ ràng_): `this` là object được gọi cụ thể cùng với `call`, `apply` và `bind`.
+  3. **Implicit binding** (_ràng buộc ẩn_): `this` là object chứa context.
+  4. **Default Binding**: mặc định `this` là `global/window object` hoặc là `undefined` nếu có `use strict`.
 
 ## Tài liệu tham khảo
 
-- Tập 4 *this & Object* - Bộ sách *You don't know JS* của Kyle Simpson
+- Tập 4 _this & Object_ - Bộ sách _You don't know JS_ của Kyle Simpson
 - MDN documentation về `this`, `new`, `call`, `apply`, `bind`.
 
 Nếu bạn có phần nào chưa rõ hay muốn trao đổi thêm với mình, đừng ngần ngại [inbox mình](https://www.facebook.com/japananh) nhé. Chúc các bạn đọc vui.
