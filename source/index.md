@@ -11,7 +11,7 @@ markdown:
     <div class="container pos-vertical-center">
       <div class="row">
         <div class="col-md-6 col-lg-8">
-          <h1 class="color--primary">Together coding the future.</h1>
+          <h1 class="color--primary">Redefine education</h1>
           <h2 class="h1">Cùng nhau học lập trình miễn phí.</h2>
           <a class="btn btn--primary type--uppercase"
             href="http://school.coders-x.com/register"
@@ -53,7 +53,7 @@ markdown:
           <div class="switchable__text">
             <h2>Ai là người hướng dẫn bạn học?</h2>
             <p class="lead">
-              Mình là <a href="https://www.facebook.com/nhim175" target="_blank"><b>Thịnh</b></a>, hiện đang là Lead Developer tại <a href="https://www.zehitomo.com/en" target="_blank"><b>Zehitomo</b></a>, một Startup ở Tokyo. Với kinh nghiệm <b class="color--primary-2">7 năm</b> làm lập trình viên web/app, trong đó có <b class="color--primary-2">5 năm</b> làm việc tại Nhật Bản, mình muốn chia sẻ phương pháp học để giúp các bạn <b class="color--primary-2">đi đúng hướng, rút ngắn thời gian học, truyền cảm hứng</b> cho các bạn theo đuổi con đường trở thành một developer giỏi.
+              Mình là <a href="https://www.facebook.com/nhim175" target="_blank"><b>Thịnh</b></a>, hiện đang là Lead Developer tại <a href="https://www.zehitomo.com/en" target="_blank"><b>Zehitomo</b></a>, một Startup ở Tokyo. Với kinh nghiệm <b class="color--primary-2">8 năm</b> làm lập trình viên web/app, trong đó có <b class="color--primary-2">6 năm</b> làm việc tại Nhật Bản, mình muốn chia sẻ phương pháp học để giúp các bạn <b class="color--primary-2">đi đúng hướng, rút ngắn thời gian học, truyền cảm hứng</b> cho các bạn theo đuổi con đường trở thành một developer giỏi.
             </p>
           </div>
         </div>
@@ -69,7 +69,7 @@ markdown:
         <div class="col-md-8">
           <h2 class="text-center">Bạn sẽ được học gì?</h2>
           <p class="lead">
-            Đến với cộng đồng <a href="https://www.facebook.com/codersX" target="_blank"><b>coders-x.com</b></a> không những bạn được học về lập trình miễn phí, bạn còn có cơ hội thực tập với những dự án thực tế, có cơ hội được giới thiệu tới các công ty lớn tại Nhật Bản.
+            Đến với cộng đồng <a href="https://www.facebook.com/coders.tokyo" target="_blank"><b>CodersX</b></a> không những bạn được học về lập trình miễn phí, bạn còn có cơ hội thực tập với những dự án thực tế, có cơ hội được giới thiệu tới các công ty lớn tại Nhật Bản.
           </p>
         </div>
       </div>

@@ -223,7 +223,7 @@ markdown:
           </div>
           <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1554294804/tuts/12-live-stream.png" title="CodersX Live Stream" alt="CodersX Live Stream">
           <p class="lead">
-            Playlist tổng hợp video các buổi live stream 2 tuần một lần. Xem lịch live stream lần tới <a href="https://www.facebook.com/events/181709499152508/" target="_blank">tại đây</a>. Bạn cũng có thể gửi chủ đề bạn muốn Live stream về <a href="https://fb.com/coders-x.com/" target="_blank">Fanpage</a> để tụi mình tổng hợp nhé!
+            Playlist tổng hợp video các buổi live stream 2 tuần một lần. Xem lịch live stream lần tới <a href="https://www.facebook.com/events/181709499152508/" target="_blank">tại đây</a>. Bạn cũng có thể gửi chủ đề bạn muốn Live stream về <a href="https://fb.com/coders.tokyo/" target="_blank">Fanpage</a> để tụi mình tổng hợp nhé!
           </p>
           <a class="course-url" href="https://www.youtube.com/watch?v=9M_Tqqjlk_I&list=PLkY6Xj8Sg8-uks4KrMqPC8YsZ77xTqfpU" target="_blank">Xem live stream</a>
         </div>
