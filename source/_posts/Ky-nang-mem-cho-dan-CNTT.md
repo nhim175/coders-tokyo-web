@@ -16,7 +16,7 @@ Nếu bạn là một người có bất kỳ hoặc tất cả các kỹ năng 
 
 ## Giao tiếp tốt
 
-Từ Anh Phạm Thịnh, founder Coders.Tokyo, anh tìm kiếm những người giao tiếp tốt và chủ động giao tiếp để đưa vào trong nhóm những người lãnh đạo.
+Từ Anh Phạm Thịnh, founder CodersX, anh tìm kiếm những người giao tiếp tốt và chủ động giao tiếp để đưa vào trong nhóm những người lãnh đạo.
 
 > Thúc đẩy các mô hình giao tiếp tốt trong một nhóm không chỉ hoàn thành công việc. Mà còn đảm bảo nhóm của bạn có hiệu suất cao mà còn hạnh phúc.
 
@@ -74,7 +74,7 @@ Hiểu cách chuyển ý tưởng kinh doanh thành thiết kế kỹ thuật. C
 
 Ở Phần 1 chúng ta đã nhìn thấy được tầm vực của kỹ năng mềm là quan trọng đến như thế nào. Chúng ta sẽ nên đánh trọng số vào đây nhiều hơn. Thay vì chỉ chú trọng vào kỹ thuật để có được một sự nghiệp trong ngành CNTT được phát triển tốt.
 
-Phần tiếp theo chúng ta sẽ làm giàu thêm vốn kỹ năng mềm. Đó là giải quyết vấn đề, làm chủ cảm xúc cũng như thích nghi với môi trường làm việc. Bên cạnh đó, song song với việc trau dồi kỹ năng mềm bạn cũng sẽ cần củng cố thêm khả năng lập trình của bạn thì hãy thử học tại [Coders.Tokyo School](https://school.coders.tokyo/login) nhé.
+Phần tiếp theo chúng ta sẽ làm giàu thêm vốn kỹ năng mềm. Đó là giải quyết vấn đề, làm chủ cảm xúc cũng như thích nghi với môi trường làm việc. Bên cạnh đó, song song với việc trau dồi kỹ năng mềm bạn cũng sẽ cần củng cố thêm khả năng lập trình của bạn thì hãy thử học tại [CodersX School](https://school.coders-x.com/login) nhé.
 
 ## Tài liệu tham khảo
 

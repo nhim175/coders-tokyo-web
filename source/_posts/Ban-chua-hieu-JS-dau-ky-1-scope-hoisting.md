@@ -200,11 +200,11 @@ Tìm tất cả những LHS look-ups và RHS look-ups trong đoạn codes bên d
 
 ```javascript
 function sayHi(a) {
-  var b = ", Coders.Tokyo";
+  var b = ", CodersX";
   return a + b;
 }
 
-var c = sayHi("Hi"); // Hi, Coders.Tokyo
+var c = sayHi("Hi"); // Hi, CodersX
 ```
 
 Sau khi làm xong thì xem đáp án tại [đây](https://repl.it/@Nhat_AnhAnh/RHS-LHS)
@@ -216,4 +216,4 @@ Sau khi làm xong thì xem đáp án tại [đây](https://repl.it/@Nhat_AnhAnh/
 
 Nếu bạn có phần nào chưa rõ hay muốn trao đổi thêm với mình, đừng ngần ngại [inbox mình](https://www.facebook.com/japananh) nhé. Chúc các bạn đọc vui.
 
-Nếu bạn muốn có nhiều cơ hội trải nghiệm hơn, hãy tham gia cộng đồng học lập trình miễn phí [Coders.Tokyo](https://school.coders.tokyo/) với chúng mình. Together, we change the world.
+Nếu bạn muốn có nhiều cơ hội trải nghiệm hơn, hãy tham gia cộng đồng học lập trình miễn phí [CodersX](https://school.coders-x.com/) với chúng mình. Together, we change the world.

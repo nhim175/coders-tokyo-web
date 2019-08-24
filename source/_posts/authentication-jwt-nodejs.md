@@ -251,7 +251,7 @@ Test route POST /register bằng Postman
 
 ![/register](https://res.cloudinary.com/djeghcumw/image/upload/v1562124980/blog/authentication-jwt-nodejs-register.png "/register")
 
-Chúng ta đã tạo thành công một user có username là coderstokyo và password là 123456, login để xem phép màu ở đây nhé.
+Chúng ta đã tạo thành công một user có username là codersx và password là 123456, login để xem phép màu ở đây nhé.
 
 ![/login](https://res.cloudinary.com/djeghcumw/image/upload/v1562124980/blog/authentication-jwt-nodejs-login.png "/login")
 
@@ -319,9 +319,9 @@ Token hợp lệ
 ## Kết
 Đó là những thú cơ bản để sử dụng JWT authentication. Các bạn có thể cải thiện bằng cách thêm vào các thông số như `exp`: thời gian hết hạn,.. cho token. Validate input cũng như là hash password trước khi lưu nó vào database để làm cho API cũng như dữ liệu người dùng bảo mật hơn.
 
-Qua bài viết này mình muốn giúp các bạn hiểu về một trong những phương pháp bảo mật API của mình bằng token và cách sử dụng JWT. Nếu có gì thắc mắc các bạn có thể liên hệ fanpage của [Coders.Tokyo](https://www.facebook.com/coders.tokyo/?ref=br_rs) trên facebook để giải đáp thắc mắc.
+Qua bài viết này mình muốn giúp các bạn hiểu về một trong những phương pháp bảo mật API của mình bằng token và cách sử dụng JWT. Nếu có gì thắc mắc các bạn có thể liên hệ fanpage của [CodersX](https://www.facebook.com/codersx/?ref=br_rs) trên facebook để giải đáp thắc mắc.
 
-Chúc các bạn học tốt cùng Coders.Tokyo!
+Chúc các bạn học tốt cùng CodersX!
 
 ## Tài liệu tham khảo
 [1] A practical guide for JWT authentication using Node.js and Express: https://medium.com/swlh/a-practical-guide-for-jwt-authentication-using-nodejs-and-express-d48369e7e6d4
@@ -330,4 +330,4 @@ Chúc các bạn học tốt cùng Coders.Tokyo!
 
 [3] Do you want a better understanding of Buffer in Node.js? Check this out.: https://www.freecodecamp.org/news/do-you-want-a-better-understanding-of-buffer-in-node-js-check-this-out-2e29de2968e8/
 
-Đọc thêm nhiều blog tại: [Coders.tokyo](https://coders.tokyo/blog/)
+Đọc thêm nhiều blog tại: [CodersX](https://coders-x.com/blog/)

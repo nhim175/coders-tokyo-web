@@ -14,7 +14,7 @@ Mình năm nay 19 tuổi! Đã tự học lập trình được gần 2 năm. M�
 
 Nhưng không phải ai cũng đều thuận lợi và may mắn giống như mình. Đó là lý do mình tham gia cộng đồng này. Chỉ đơn giản là để chia sẽ sự may mắn mà mình đang có đến tất cả những bạn học khác.
 
-[Coders.Tokyo](https://coders.tokyo/) được xem như một cuộc cách mạng công nghệ tại Việt Nam. Giúp hiện thực hoá ước mơ lập trình cho các bạn trẻ để mở ra kỷ nguyên mới dẫn đầu làn sóng giáo dục phi lợi nhuận.
+[CodersX](https://coders-x.com/) được xem như một cuộc cách mạng công nghệ tại Việt Nam. Giúp hiện thực hoá ước mơ lập trình cho các bạn trẻ để mở ra kỷ nguyên mới dẫn đầu làn sóng giáo dục phi lợi nhuận.
 
 ## Lập trình là ngành không kén chọn
 

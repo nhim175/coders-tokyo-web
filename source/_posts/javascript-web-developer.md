@@ -83,4 +83,4 @@ Những điều trên đủ để thấy bề dày của Javascript. Và đây l
 
 Tựu chung lại, học bất kỳ ngôn ngữ lập trình sẽ mở ra cho bạn cơ hội vô tận và cung cấp vô số lợi ích. Với hàng trăm ngôn ngữ lập trình ngoài kia, thật khó để biết bắt đầu từ đâu. Trong số hàng trăm ngôn ngữ lập trình, không ngôn ngữ nào linh hoạt như JavaScript. Các lý do trên chỉ bắt đầu cho thấy giá trị của nó. Thông qua JavaScript phổ biến với hàng trăm thư viện và sử dụng rộng rãi, có vô số thứ để làm những điều thú vị với ngôn ngữ này.
 
-Nếu bạn chưa biết nên bắt đầu học Javascript như thế nào? Thì hãy thử học cùng với cộng đồng [Coders.Tokyo](https://coders.tokyo/), và đừng lo vì nó hoàn toàn miễn phí
+Nếu bạn chưa biết nên bắt đầu học Javascript như thế nào? Thì hãy thử học cùng với cộng đồng [CodersX](https://coders-x.com/), và đừng lo vì nó hoàn toàn miễn phí

@@ -17,7 +17,7 @@ Chào mừng các bạn quay lại với topic `React + TypeScript` phần 2. �
 3. Sử dụng với `Redux`
 4. Generic Component pattern
 
-Bạn nào chưa xem phần 1 có thể xem tại: [React TypeScript phần 1](https://coders.tokyo/2019/06/29/react-typescript-p1/)
+Bạn nào chưa xem phần 1 có thể xem tại: [React TypeScript phần 1](https://coders-x.com/2019/06/29/react-typescript-p1/)
 
 ### Utility Types
 ----

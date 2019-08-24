@@ -81,7 +81,7 @@ Nếu bạn làm việc với `node.js`, có lẽ bạn sẽ ít tiếp xúc v�
 
 ## Kết
 
-Tôi tin rằng những điều trên sẽ giúp bạn nhiều trên con đường `master` Javascript. Và để học những thứ trên, tôi xin giới thiệu bạn vào trang web [Coders.Tokyo.](https://coders.tokyo/) Ở đó bạn sẽ được hướng dẫn một cách đơn giản nhất với những thứ phức tạp nhất. Cám ơn các bạn đã dành một chút thời gian để đọc bài, nếu thấy hay các bạn hãy share bài để ủng hộ tụi mình nhé.
+Tôi tin rằng những điều trên sẽ giúp bạn nhiều trên con đường `master` Javascript. Và để học những thứ trên, tôi xin giới thiệu bạn vào trang web [CodersX.](https://coders-x.com/) Ở đó bạn sẽ được hướng dẫn một cách đơn giản nhất với những thứ phức tạp nhất. Cám ơn các bạn đã dành một chút thời gian để đọc bài, nếu thấy hay các bạn hãy share bài để ủng hộ tụi mình nhé.
 
 ## Tham Khảo
 

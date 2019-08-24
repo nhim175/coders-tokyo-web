@@ -4,32 +4,32 @@ date: 2019-03-28 18:19:07
 authorId: hong_quang
 ---
 
-<figure class="wp-block-image">![Success Story Coders Tokyo](https://res.cloudinary.com/djeghcumw/image/upload/v1553746144/blog/shutterstock_300479180-653x339.jpg)</figure>
+<figure class="wp-block-image">![Success Story CodersX](https://res.cloudinary.com/djeghcumw/image/upload/v1553746144/blog/shutterstock_300479180-653x339.jpg)</figure>
 
-Tiếp theo chuyên mục "Câu chuyện thành công" của những học viên tại Coders.Tokyo, hôm nay phóng viên (PV) Hồng Quang của tòa báo Coders Tokyo Content Team sẽ phỏng vấn anh chàng Minh Tân (MT) - vừa được nhận làm nhân viên chính thức của công ty Everydoy.
+Tiếp theo chuyên mục "Câu chuyện thành công" của những học viên tại CodersX, hôm nay phóng viên (PV) Hồng Quang của tòa báo CodersX Content Team sẽ phỏng vấn anh chàng Minh Tân (MT) - vừa được nhận làm nhân viên chính thức của công ty Everydoy.
 
 <!-- more -->
 
-Hãy cùng mình trò chuyện và nghe những câu chuyện của Minh Tân về quá trình học tập tại Coders Tokyo cũng như những kinh nghiệm về lập trình nhé!
+Hãy cùng mình trò chuyện và nghe những câu chuyện của Minh Tân về quá trình học tập tại CodersX cũng như những kinh nghiệm về lập trình nhé!
 
 Trước tiên chúng ta hãy cùng xem qua profile của chàng frontend developer trẻ tuổi này nào:
 
-<figure class="wp-block-image">![Success story Coders Tokyo Minh Tan](https://res.cloudinary.com/djeghcumw/image/upload/v1553746241/blog/53367886_268309107386018_2223607498030448640_n.jpg.jpg)</figure>
+<figure class="wp-block-image">![Success story CodersX Minh Tan](https://res.cloudinary.com/djeghcumw/image/upload/v1553746241/blog/53367886_268309107386018_2223607498030448640_n.jpg.jpg)</figure>
 
 *   Họ tên: Vũ Minh Tân
 *   Ngày sinh: 1/1/1998
 *   Công ty: Everydoy
-*   Quá trình học tập tại Coders Tokyo: từ tháng 30/10/2018
+*   Quá trình học tập tại CodersX: từ tháng 30/10/2018
 *   Các khóa đã học: javascript cơ bản, react js
 *   Sở thích: Nghe nhạc, du lịch
 
-## Chia sẻ của Minh Tân trong quá trình học tại Coders Tokyo
+## Chia sẻ của Minh Tân trong quá trình học tại CodersX
 
 ### Điều Minh Tân ấn tượng ở cộng đồng?
 
 *   PV: Bạn đã học những khóa nào của cộng đồng?
 *   MT: Javascript cơ bản, react js
-*   PV: Chào Minh Tân, tham gia Coders Tokyo, điều bạn ấn tượng nhất về cộng đồng là gì?
+*   PV: Chào Minh Tân, tham gia CodersX, điều bạn ấn tượng nhất về cộng đồng là gì?
 *   MT: Sự nhiệt tình của mọi người.
 
 ### Khó khăn trong quá trình học
@@ -51,7 +51,7 @@ Hãy thay đổi suy nghĩ, ta hãy cứ nghĩ rằng nó là 1 công cụ, 1 c�
 *   MT: Đừng nên ngồi 1 chỗ khi đang bí thay vì đó đứng lên đi lại đâu đó rồi quay lại code tiếp. À có 1 cái em đã mắc phải là bị phân vân giữa các khóa học:
 *   Như đang học dở phần này chưa xong, lại nhảy phần khác thành ra cuối cùng chẳng biết mình học được gì, đúng hơn là không theo lộ trình.
 
-Bởi vây có 1 lộ trình học rõ ràng là rất quan trọng. [https://school.coders.tokyo/](https://school.coders.tokyo/) đã xây dựng được lộ trình đó, nên các member cứ yên tâm follow theo nhé.
+Bởi vây có 1 lộ trình học rõ ràng là rất quan trọng. [https://school.coders-x.com/](https://school.coders-x.com/) đã xây dựng được lộ trình đó, nên các member cứ yên tâm follow theo nhé.
 
 Để khắc phục phần "phân vân" của Minh Tân. Cơ chế của lộ trình đã làm được điều đó. Nếu bạn không hoàn thành, ví dụ: "JavaScript từ A-Z 2018" bạn sẽ không thể nào học tiếp khóa "HTML for dummies" hay "UI Design 2018", …
 
@@ -74,7 +74,7 @@ Bởi vây có 1 lộ trình học rõ ràng là rất quan trọng. [https://sc
 
 ## Chia sẻ về buổi phỏng vấn intern
 
-<figure class="wp-block-image">![Success story Coders Tokyo](https://res.cloudinary.com/djeghcumw/image/upload/v1553746693/blog/interview-tips.jpg)</figure>
+<figure class="wp-block-image">![Success story CodersX](https://res.cloudinary.com/djeghcumw/image/upload/v1553746693/blog/interview-tips.jpg)</figure>
 
 *   PV: Tên công ty bạn đã pass phỏng vấn là gì?
 *   MT: EveryDoy
@@ -92,5 +92,5 @@ Bởi vây có 1 lộ trình học rõ ràng là rất quan trọng. [https://sc
 2.  [https://www.youtube.com/channel/UCxRgDi15EJsB2ayyP-eg3Tg](https://www.youtube.com/channel/UCxRgDi15EJsB2ayyP-eg3Tg)
 3.  [https://www.youtube.com/channel/UCTBGXCJHORQjivtgtMsmkAQ](https://www.youtube.com/channel/UCTBGXCJHORQjivtgtMsmkAQ)
 
-_Phóng viên Hồng Quang thường trú báo Coders Tokyo Content tại Hà Nội_
+_Phóng viên Hồng Quang thường trú báo CodersX Content tại Hà Nội_
 

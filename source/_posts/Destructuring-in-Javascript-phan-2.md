@@ -5,7 +5,7 @@ authorId: hong_quang
 tags:
 ---
 
-<figure class="wp-block-image">![Object Destructuring - Destructuring in Javascript - Coders Tokyo](https://res.cloudinary.com/djeghcumw/image/upload/v1555463416/blog/es6-destructuring.png)
+<figure class="wp-block-image">![Object Destructuring - Destructuring in Javascript - CodersX](https://res.cloudinary.com/djeghcumw/image/upload/v1555463416/blog/es6-destructuring.png)
 </figure>
 
 ## Object Destructuring
@@ -14,11 +14,11 @@ tags:
 
 <!-- more -->
 
-Nếu các bạn chưa xem [phần 1](https://coders.tokyo/2019/03/21/Destructuring-in-javascript--phan-1/) thì nên coi lại. Để ta hiểu hơn và có 1 cái nhìn tổng quan về kỹ thuật _destructuring_ trước khi tìm hiểu _**Object destructuring**_ trong blog này nhé.
+Nếu các bạn chưa xem [phần 1](https://coders-x.com/2019/03/21/Destructuring-in-javascript--phan-1/) thì nên coi lại. Để ta hiểu hơn và có 1 cái nhìn tổng quan về kỹ thuật _destructuring_ trước khi tìm hiểu _**Object destructuring**_ trong blog này nhé.
 
 ## Cách code truyền thống với Object Destructuring
 
-<figure class="wp-block-image">![Object Destructuring - Destructuring in Javascript - Coders Tokyo](https://res.cloudinary.com/djeghcumw/image/upload/v1555463581/blog/destructring.jpg)
+<figure class="wp-block-image">![Object Destructuring - Destructuring in Javascript - CodersX](https://res.cloudinary.com/djeghcumw/image/upload/v1555463581/blog/destructring.jpg)
 </figure>
 
 Trong ES5, để lấy `values` từ `objects` ta chỉ cần biết các `keys` nào giữ các `values` ta muốn và sau đó là gõ `myObject.myKey` là ta sẽ lấy được phải không? Như ví dụ dưới đây, giả sử ta có 1 person `object`, gồm các `properties`: `name`, `age`, `gender`, `address`, `phone`. Nếu ta muốn lấy các giá trị của `name` và `age` ta sẽ làm:
@@ -75,7 +75,7 @@ console.log(`I am ${name} from ${country} and I am ${age} years old.`);
 
 ## Using Different Variable Names
 
-<figure class="wp-block-image">![Object Destructuring - Destructuring in Javascript - Coders Tokyo](https://res.cloudinary.com/djeghcumw/image/upload/v1555463667/blog/destrucuring-renaming.png)
+<figure class="wp-block-image">![Object Destructuring - Destructuring in Javascript - CodersX](https://res.cloudinary.com/djeghcumw/image/upload/v1555463667/blog/destrucuring-renaming.png)
 
 </figure>
 
@@ -131,11 +131,11 @@ const { scores: {} } = student;
 ### Bomberman 2D game
 
 <div class="wp-block-image">
-<figure class="aligncenter">![Object Destructuring - Destructuring in Javascript - Coders Tokyo](https://res.cloudinary.com/djeghcumw/image/upload/v1553139652/blog/1___Qjq_ioJpGPq8h4phyyng.png)
+<figure class="aligncenter">![Object Destructuring - Destructuring in Javascript - CodersX](https://res.cloudinary.com/djeghcumw/image/upload/v1553139652/blog/1___Qjq_ioJpGPq8h4phyyng.png)
 </figure>
 </div>
 
-Bạn còn nhớ game Bombeman mà ta đã sử dụng [Array Destructuring](https://coders.tokyo/2019/03/21/Destructuring-in-javascript--phan-1/) trong phần 1 không? Ở blog này, ta sẽ thử code hàm `getPosition` bằng cách sử dụng *Object destructuring* nhé!
+Bạn còn nhớ game Bombeman mà ta đã sử dụng [Array Destructuring](https://coders-x.com/2019/03/21/Destructuring-in-javascript--phan-1/) trong phần 1 không? Ở blog này, ta sẽ thử code hàm `getPosition` bằng cách sử dụng *Object destructuring* nhé!
 
 
 ```javascript
@@ -168,7 +168,7 @@ Giả sử bạn đang làm module `login` của 1 app nào đó. Và bạn sẽ
 
 Chạy `localhost` với port là 3000 và route sẽ là: `localhost:3000/v1/auth/login`. Trong Postman sẽ có dạng như sau:
 
-<figure class="wp-block-image">![Object Destructuring - Destructurinig in Javascript - Coders Tokyo](https://res.cloudinary.com/djeghcumw/image/upload/v1555436808/blog/Screenshot_from_2019-04-17_00-46-25.png)
+<figure class="wp-block-image">![Object Destructuring - Destructurinig in Javascript - CodersX](https://res.cloudinary.com/djeghcumw/image/upload/v1555436808/blog/Screenshot_from_2019-04-17_00-46-25.png)
 </figure>
 
 Và code ở trong backend, ta cần phải lấy được `username` và `password` để có thể query vào trong Database.
@@ -208,15 +208,15 @@ Nếu càng dùng nhiều _destructuring_ trong code của mình, chắc chắn 
 
 Nếu có bất cứ câu hỏi hay thắc mắc nào, hãy để lại ở dưới bình luận và chúng ta sẽ cùng nhau thảo luận nhé!
 
-**Cuối cùng**: chúc các bạn có sức khỏe, tinh thần luôn sảng khoái để học tập thật tốt! Cố lên các học viên Coders Tokyo <3
+**Cuối cùng**: chúc các bạn có sức khỏe, tinh thần luôn sảng khoái để học tập thật tốt! Cố lên các học viên CodersX <3
 
-Đọc lại Destructuring in Javascript phần 1 tại: [https://coders.tokyo/2019/03/21/Destructuring-in-javascript–phan-1/](https://coders.tokyo/2019/03/21/Destructuring-in-javascript--phan-1/)
+Đọc lại Destructuring in Javascript phần 1 tại: [https://coders-x.com/2019/03/21/Destructuring-in-javascript–phan-1/](https://coders-x.com/2019/03/21/Destructuring-in-javascript--phan-1/)
 
 Bài viết có tham khảo từ các blog sau:
 
 *   [https://medium.freecodecamp.org/array-destructuring-in-es6-30e398f21d10](https://medium.freecodecamp.org/array-destructuring-in-es6-30e398f21d10)
 *   [https://medium.com/@codingsam/awesome-javascript-destructuring-assignment-55fd2e9d3dc4](https://medium.com/@codingsam/awesome-javascript-destructuring-assignment-55fd2e9d3dc4)
 
-Đọc thêm các blog khác tại: [https://coders.tokyo/blog/](https://coders.tokyo/blog/)
+Đọc thêm các blog khác tại: [https://coders-x.com/blog/](https://coders-x.com/blog/)
 
-Tham gia cộng đồng học lập trình miễn phí: [https://coders.tokyo/](https://coders.tokyo/)
+Tham gia cộng đồng học lập trình miễn phí: [https://coders-x.com/](https://coders-x.com/)

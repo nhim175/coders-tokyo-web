@@ -9,7 +9,7 @@ tags:
 
 Sự mới mẻ luôn luôn là điều tốt!
 
-Trước đây, chắc hẳn các bạn đã biết cách sao chép một giá trị trong [Javascript](https://coders.tokyo/2019/03/09/javascript-web-developer/), thậm chí nếu bạn không biết nó. Có thể bạn cũng đã nghe nói về mô hình lập trình chức năng mà bạn không nên sửa đổi bất kỳ dữ liệu hiện có nào. Để làm được điều đó, bạn phải biết cách sao chép các giá trị trong JavaScript một cách an toàn. Vậy hôm nay, chúng ta sẽ đi tìm hiểu làm thế nào để không mắc một trong các sai lầm đó!
+Trước đây, chắc hẳn các bạn đã biết cách sao chép một giá trị trong [Javascript](https://coders-x.com/2019/03/09/javascript-web-developer/), thậm chí nếu bạn không biết nó. Có thể bạn cũng đã nghe nói về mô hình lập trình chức năng mà bạn không nên sửa đổi bất kỳ dữ liệu hiện có nào. Để làm được điều đó, bạn phải biết cách sao chép các giá trị trong JavaScript một cách an toàn. Vậy hôm nay, chúng ta sẽ đi tìm hiểu làm thế nào để không mắc một trong các sai lầm đó!
 
 <!-- more -->
 
@@ -19,7 +19,7 @@ Việc sao chép nghe đơn giản, nhưng không hẳn!. Khi bạn thực hiệ
 
 Trong lập trình, chúng ta lưu trữ giá trị trong biến. Việc sao chép nghĩa là bạn khởi tạo một biến mới và có cùng giá trị với biến bạn muốn sao chép. Tuy nhiên có 2 vấn đề quan trọng cần xem xét, đó là: **Deep copying** và **Shallow copying**. **Deep copying** có nghĩa là tất cả giá trị của biến mới sẽ được sao chép và ngắt kết nối với biến ban đầu. **Shallow copying** có nghĩa là khi sao chép thì các giá trị đó vẫn còn được kết nối với biến ban đầu.
 
-> _Để thực sự hiểu việc sao chép, bạn phải tìm hiểu cách [JavaScript](https://coders.tokyo/2019/03/09/javascript-web-developer/) lưu trữ các giá trị._
+> _Để thực sự hiểu việc sao chép, bạn phải tìm hiểu cách [JavaScript](https://coders-x.com/2019/03/09/javascript-web-developer/) lưu trữ các giá trị._
 
 ## Các kiểu dữ liệu căn bản <g class="gr_ gr_12 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" id="12" data-gr-id="12">trong</g> Javascript
 
@@ -31,7 +31,7 @@ Các loại dữ liệu căn bản bao gồm:
 - **undefined**
 - **null**
 
-Khi bạn tạo ra các giá trị này, chúng sẽ liên hệ chặt chẽ với biến mà chúng được lưu trữ. Chúng chỉ tồn tại 1 lần. Điều đó có nghĩa rằng, bạn không phải thực sự lo lắng về việc sao chép các loại dữ liệu căn bản trong [JavaScript](https://coders.tokyo/2019/03/09/javascript-web-developer/). Khi bạn sao chép , nó sẽ là một bản copy thực sự. Hãy cũng xem ví dụ:
+Khi bạn tạo ra các giá trị này, chúng sẽ liên hệ chặt chẽ với biến mà chúng được lưu trữ. Chúng chỉ tồn tại 1 lần. Điều đó có nghĩa rằng, bạn không phải thực sự lo lắng về việc sao chép các loại dữ liệu căn bản trong [JavaScript](https://coders-x.com/2019/03/09/javascript-web-developer/). Khi bạn sao chép , nó sẽ là một bản copy thực sự. Hãy cũng xem ví dụ:
 
 ```javascript
 const a = 5;
@@ -75,7 +75,7 @@ Bây giờ chúng ta cùng xem, làm thế nào để sao chép giá trị **Obj
 
 ## Object
 
-Có rất nhiều cách để thực hiện sao chép một **Object,** đặc biệt với sự phát triển và mở rộng của kỹ thuật [Javascript](https://coders.tokyo/2019/03/09/javascript-web-developer/) mới.
+Có rất nhiều cách để thực hiện sao chép một **Object,** đặc biệt với sự phát triển và mở rộng của kỹ thuật [Javascript](https://coders-x.com/2019/03/09/javascript-web-developer/) mới.
 
 ### Spread operator
 
@@ -214,7 +214,7 @@ Giống như một **object,** sử dụng phương pháp trên để sao chép 
 
 ### BONUS: copying instance of custom classes
 
-Khi bạn thực sự master về [Javascript](https://coders.tokyo/2019/03/09/javascript-web-developer/) và bạn muốn thông qua việc **class hoặc constructor** để thực hiện sao chép.
+Khi bạn thực sự master về [Javascript](https://coders-x.com/2019/03/09/javascript-web-developer/) và bạn muốn thông qua việc **class hoặc constructor** để thực hiện sao chép.
 
 Như đề cập ở trước, bạn không thể `stringify + parse` chúng, vì điều này sẽ làm mất **class method** của bạn. Vì vậy, bạn nên thêm một phương thức sao chép tùy chỉnh để tạo một **new instance** với tất cả các giá trị cũ. Hãy xem cách thức hoạt động của nó:
 
@@ -277,4 +277,4 @@ class Counter {
 
 ## Lời kết
 
-Đó là những phương pháp mà tôi đúc kết được trong qúa trình tìm hiểu. Tôi hi vọng các bạn sẽ thích nó và áp dụng nó một cách thuần thục. Nếu bạn nào muốn tìm hiểu sâu hơn [Javascript](https://coders.tokyo/2019/03/09/javascript-web-developer/), các bạn có thể truy cập vào trang [Coders.Tokyo](https://coders.tokyo/). Với hệ thống bài giảng, bài tập tuyệt vời tôi tin rằng các bạn sẽ thích nó. Các bạn share bài ủng hộ cộng đồng và lan tỏa giá trị cho các bạn khác nhé.
+Đó là những phương pháp mà tôi đúc kết được trong qúa trình tìm hiểu. Tôi hi vọng các bạn sẽ thích nó và áp dụng nó một cách thuần thục. Nếu bạn nào muốn tìm hiểu sâu hơn [Javascript](https://coders-x.com/2019/03/09/javascript-web-developer/), các bạn có thể truy cập vào trang [CodersX](https://coders-x.com/). Với hệ thống bài giảng, bài tập tuyệt vời tôi tin rằng các bạn sẽ thích nó. Các bạn share bài ủng hộ cộng đồng và lan tỏa giá trị cho các bạn khác nhé.

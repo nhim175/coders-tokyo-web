@@ -12,7 +12,7 @@ tags:
 <!-- more -->
 
 Các phần sẽ bổ trợ lẫn nhau và giúp bạn học nhanh và hiệu quả nhất có thể. Do đó bạn không nên các phần trước... Nếu bạn chưa đọc phần một thì có thể tham khảo thêm tại liên kết dưới đây:
-[https://coders.tokyo/2019/04/08/chia-se-qua-trinh-tu-hoc-lap-trinh-p1/](https://coders.tokyo/2019/04/08/chia-se-qua-trinh-tu-hoc-lap-trinh-p1/)
+[https://coders-x.com/2019/04/08/chia-se-qua-trinh-tu-hoc-lap-trinh-p1/](https://coders-x.com/2019/04/08/chia-se-qua-trinh-tu-hoc-lap-trinh-p1/)
 
 Tiếp đến phần hai này, bạn đã có một môi trường thật tốt để chuyên tâm cho việc học. Giờ mình sẽ tiếp tục chia sẽ với bạn những phần tiếp theo. Bạn sẽ học nhanh hơn, tốt hơn rất nhiều vì mình đã trải qua rồi, mình đã thay bạn kiểm chứng rồi.
 
@@ -32,9 +32,9 @@ Thời đại công nghệ 4.0 này thật không khó để tìm cho mình mộ
 
 Cách đơn giản mà mình thường dùng là lên mạng xã hội hoặc cộng đồng học lập trình nào đấy. Chia sẽ kiến thức của bản thân lên cho mọi người cùng học và tranh luận. Tự nhiên sẽ có nhiều người đến và bạn sẽ có rất nhiều cơ hội để tìm những người bạn phù hợp để học cùng.
 
-Mình trước đây học một mình là chính và mình học cực kỳ chậm. Khi mình tham gia Coders.Tokyo trong thời gian đầu. Mình khá là nhúc nhát, nhưng sau vài lần được nhìn thấy anh Thịnh chia sẽ thì mình cũng muốn thử. Mình đã lấy can đảm để quay clip hướng dẫn CSS đầu tiên và đăng lên cộng đồng.
+Mình trước đây học một mình là chính và mình học cực kỳ chậm. Khi mình tham gia CodersX trong thời gian đầu. Mình khá là nhúc nhát, nhưng sau vài lần được nhìn thấy anh Thịnh chia sẽ thì mình cũng muốn thử. Mình đã lấy can đảm để quay clip hướng dẫn CSS đầu tiên và đăng lên cộng đồng.
 
-Cái tên **Lư Minh Thông** xuất hiện ngày một nhiều hơn trên Group. Và cuối cùng rất nhiều người biết đến mình và mình làm quen được với rất nhiều người. Một số trong những người mình tình cờ quen biết đấy bầy giờ là đồng đội trong team Leaders của Coders.Tokyo cùng với mình.
+Cái tên **Lư Minh Thông** xuất hiện ngày một nhiều hơn trên Group. Và cuối cùng rất nhiều người biết đến mình và mình làm quen được với rất nhiều người. Một số trong những người mình tình cờ quen biết đấy bầy giờ là đồng đội trong team Leaders của CodersX cùng với mình.
 
 ## Mình học được gì từ những người bạn mới này?
 

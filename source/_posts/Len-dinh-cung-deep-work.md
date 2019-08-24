@@ -138,4 +138,4 @@ Chỉ đọc mà không hành thì bạn chỉ dừng ở mức **biết** thôi
 
 Hãy lên kế hoạch thực hành deep work dựa vào template mẫu. Bạn cần đăng ký tài khoản trên todoist trước, rồi nhấn vào link [này](http://bit.ly/todoist-deep-work-template) để xem template và làm theo nhé. Chúc các bạn lên đỉnh.
 
-Nếu bạn muốn có nhiều cơ hội trải nghiệm hơn, hãy tham gia cộng đồng học lập trình miễn phí [Coders.Tokyo](https://school.coders.tokyo/) với chúng mình. Together, we change the world.
+Nếu bạn muốn có nhiều cơ hội trải nghiệm hơn, hãy tham gia cộng đồng học lập trình miễn phí [CodersX](https://school.coders-x.com/) với chúng mình. Together, we change the world.

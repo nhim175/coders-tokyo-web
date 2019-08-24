@@ -16,7 +16,7 @@ Trước khi nói về đáp án thì hãy cùng xem mọi người suy nghĩ g�
 
 **Nguyen Ngoc Anh**
 
-Theo mình nghĩ thì X có nghĩa là sự hợp tác của các thành viên trong #coders_tokyo" Great things in business are never done by one person. They’re done by a team of people". ngoài ra X trong Extra tạo nên sự khác biệt or exercise, X thường đc thay thế cho "Versus" (VS) có nghĩa là giao đấu,khẳng sư phát triển của Gr không hề thua kém các Gr nhóm khác. :D chắc vậy
+Theo mình nghĩ thì X có nghĩa là sự hợp tác của các thành viên trong #codersx" Great things in business are never done by one person. They’re done by a team of people". ngoài ra X trong Extra tạo nên sự khác biệt or exercise, X thường đc thay thế cho "Versus" (VS) có nghĩa là giao đấu,khẳng sư phát triển của Gr không hề thua kém các Gr nhóm khác. :D chắc vậy
 
 **Nguyễn Thuỳ Dương**
 
@@ -24,7 +24,7 @@ X là ẩn, bất kì ai, bất ký tuổi nào, giới tính nào, dân tộc n
 
 **Lê Phước Hoài**
 
-X là ẩn số. Là bất kì đại diện nào trong cộng đồng. Phải không a Thịnh Coders.Tokyo
+X là ẩn số. Là bất kì đại diện nào trong cộng đồng. Phải không a Thịnh CodersX
 
 **Trần Thái Sơn**
 
@@ -45,7 +45,7 @@ X : đại diện cho những con người phi thường, "sinh ra để giải 
 **Trường Trường**
 
 Founder muốn tạo ra sự bí ẩn. Trong toán học và khoa học X là ẩn số tượng trưng cho sự bí ẩn và huyền bí . Đằng sau chữ X còn là một câu chuyện li kì đầy bí ẩn.Theo khảo sát của anh #gồ nhà mình. Lượng người click vào một bài báo với tựa đề những câu chuyện lì kì và bí ẩn có số lượng tương tác rất cao so với mặt bằng content chung.
-Nên founder Coders.Tokyo đã mượn từ X rút gọn để nhằm mang đến sự tò mò thích thú của các bạn. Và một phần nữa các bạn biết gói Snack khoai tây vị trứng muối TaYo X cũng là một gói bimbbim mà founder thích ăn. Vì vậy lấy chữ X đấy bạn #hoài.
+Nên founder CodersX đã mượn từ X rút gọn để nhằm mang đến sự tò mò thích thú của các bạn. Và một phần nữa các bạn biết gói Snack khoai tây vị trứng muối TaYo X cũng là một gói bimbbim mà founder thích ăn. Vì vậy lấy chữ X đấy bạn #hoài.
 
 **Thiên Chí Đinh**
 
@@ -59,13 +59,13 @@ Experience + Extreme + Extend
 
 Code.X là chương trình Tư duy Thiết kế và Khoa học Máy tính ba năm dành cho học sinh trung học, cho phép họ trở thành người thay đổi trong cộng đồng của họ. Trọng tâm là thay đổi tư duy để phát triển sinh viên như là tác nhân thay đổi. Bằng cách tích hợp khoa học máy tính, tư duy thiết kế và tiếp xúc văn hóa, sinh viên không chỉ đạt được các kỹ năng công nghệ mà còn làm thế nào để sử dụng các kỹ năng đó để xác định và tạo ra các giải pháp.
 
-Bài viết gốc: [https://www.facebook.com/coders.tokyo/photos/a.1753001401461815/2271099512985332/?type=3&theater](https://www.facebook.com/coders.tokyo/photos/a.1753001401461815/2271099512985332/?type=3&theater)
+Bài viết gốc: [https://www.facebook.com/codersx/photos/a.1753001401461815/2271099512985332/?type=3&theater](https://www.facebook.com/codersx/photos/a.1753001401461815/2271099512985332/?type=3&theater)
 
 ### Đáp án
 
 Tất cả mọi câu trả lời đều đúng. X đại diện cho sự tự do, sáng tạo, là bất cứ thứ gì mà các bạn có thể hình dung, tưởng tượng ra. X là điểm đến tiếp theo của cộng đồng. X là những ẩn số. X là biểu hiện của sự cân xứng, sự đam mê.
 
-### Sát nhập Coders.Tokyo và CodersX
+### Sát nhập CodersX và CodersX
 
 CodersX cho tới này là một team gồm trên dưới 30 bạn giúp duy trì các công việc trong cộng đồng.
 

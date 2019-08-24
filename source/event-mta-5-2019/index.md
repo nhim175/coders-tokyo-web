@@ -35,7 +35,7 @@ markdown:
     <!--end of container-->
   </section>
 
-  <img class="d-none" src="https://coders.tokyo/images/meta-cover.jpg" />
+  <img class="d-none" src="https://coders-x.com/images/meta-cover.jpg" />
 
   <section class="cta cta-4 space--xxs">
     <div class="container">
@@ -103,7 +103,7 @@ markdown:
         <div class="col-md-10 col-lg-8">
           <h2>Diễn giả</h2>
           <p class="lead">
-            Coders.Tokyo hân hạnh giới thiệu về các diễn giả của buổi hội thảo, những người có kinh nghiệm trong lĩnh vực lập trình, đào tạo về kỹ thuật cũng như tiếng Nhật từ các công ty lớn tại Nhật Bản và Việt Nam.
+            CodersX hân hạnh giới thiệu về các diễn giả của buổi hội thảo, những người có kinh nghiệm trong lĩnh vực lập trình, đào tạo về kỹ thuật cũng như tiếng Nhật từ các công ty lớn tại Nhật Bản và Việt Nam.
           </p>
         </div>
       </div>
@@ -119,7 +119,7 @@ markdown:
           <div class="feature feature-8">
             <img alt="Thịnh Phạm" style="width: 128px;" src="/images/events/thinh.png" />
             <h5>Thịnh Phạm</h5>
-            <span>Founder @ Coders.Tokyo</span>
+            <span>Founder @ CodersX</span>
             <br/>
             <span>Cựu sinh viên MTA</span>
           </div>
@@ -128,7 +128,7 @@ markdown:
           <div class="feature feature-8">
             <img alt="Katsutoshi Yamada" style="width: 128px;" src="/images/events/toshi.png" />
             <h5>Katsutoshi Yamada</h5>
-            <span>Co-founder @ Coders.Tokyo</span>
+            <span>Co-founder @ CodersX</span>
             <br/>
             <span>COO @ Liberty Pool</span>
           </div>
@@ -137,7 +137,7 @@ markdown:
           <div class="feature feature-8">
             <img alt="Katsutoshi Yamada" style="width: 128px;" src="/images/events/khoa.png" />
             <h5>Khoa Bùi</h5>
-            <span>Partner @ Coders.Tokyo</span>
+            <span>Partner @ CodersX</span>
             <br/>
             <span>CEO @ KoiJapan</span>
           </div>
@@ -153,7 +153,7 @@ markdown:
         <div class="col-md-10 col-lg-8">
           <h2>Khách mời</h2>
           <p class="lead">
-            Ngoài các diễn giả và speaker chính của cộng đồng Coders.Tokyo thì ban tổ chức có mời thêm một số khách mời đặc biệt. Họ đều là những người đã và đang thành công trong giới lập trình tại Việt Nam hoặc nước ngoài.
+            Ngoài các diễn giả và speaker chính của cộng đồng CodersX thì ban tổ chức có mời thêm một số khách mời đặc biệt. Họ đều là những người đã và đang thành công trong giới lập trình tại Việt Nam hoặc nước ngoài.
           </p>
         </div>
       </div>
@@ -229,12 +229,12 @@ markdown:
     <div class="container">
       <div class="row">
         <div class="col-md-8 mb-4">
-          <h4>Áo phông Coders.Tokyo đang chờ đón bạn</h4>
+          <h4>Áo phông CodersX đang chờ đón bạn</h4>
           <p class="lead">
-            Quà tặng sẽ được chuẩn bị đầy đủ kèm theo các phần giao lưu hoạt động, trò chơi nhằm tạo nên kỷ niệm giữa sinh viên và cộng đồng Coders.Tokyo.
-            Bằng cách tham gia trả lời các câu hỏi vui về lập trình hoặc chiến thắng trong các phần trò chơi sẽ được trao tặng áo phông, huy hiệu và sticker của Coders.Tokyo
+            Quà tặng sẽ được chuẩn bị đầy đủ kèm theo các phần giao lưu hoạt động, trò chơi nhằm tạo nên kỷ niệm giữa sinh viên và cộng đồng CodersX.
+            Bằng cách tham gia trả lời các câu hỏi vui về lập trình hoặc chiến thắng trong các phần trò chơi sẽ được trao tặng áo phông, huy hiệu và sticker của CodersX
           </p>
-          <p class="lead text-center"><b>Áo phông Coders.Tokyo</b></p>
+          <p class="lead text-center"><b>Áo phông CodersX</b></p>
           <div class="text-center">
             <a class="btn type--uppercase"
               href="http://bit.ly/coders-tokyo-mta-05-2019"

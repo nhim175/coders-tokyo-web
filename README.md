@@ -1,6 +1,6 @@
 [![CircleCI](https://circleci.com/gh/nhim175/coders-tokyo-web.svg?style=svg)](https://circleci.com/gh/nhim175/coders-tokyo-web)
 
-# Coders.Tokyo Website
+# CodersX Website
 
 Made with [Hexo.js](https://hexo.io/)
 

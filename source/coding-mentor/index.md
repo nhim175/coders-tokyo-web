@@ -1,6 +1,6 @@
 ---
 title: Học lập trình nhanh hơn cùng Mentor
-description: Coders.Tokyo là một cộng đồng học lập trình miễn phí, với mong muốn tất cả mọi người ở khắp nơi trên thế giới được học lập trình miễn phí.
+description: CodersX là một cộng đồng học lập trình miễn phí, với mong muốn tất cả mọi người ở khắp nơi trên thế giới được học lập trình miễn phí.
 date: 2018-06-03 17:40:47
 markdown:
   gfm: false
@@ -14,7 +14,7 @@ markdown:
           <h1 class="color--primary">MentorX</h1>
           <h2 class="h1">Speed up 🚀 quá trình học của bạn.</h2>
           <a class="btn btn--primary type--uppercase"
-            href="https://school.coders.tokyo/coding-mentor"
+            href="https://school.coders-x.com/coding-mentor"
             target="_blank">
             <span class="btn__text">
               Tìm mentor ngay
@@ -27,7 +27,7 @@ markdown:
     </div>
     <!--end of container-->
   </section>
-  <img class="d-none" src="https://coders.tokyo/images/meta-cover.jpg" />
+  <img class="d-none" src="https://coders-x.com/images/meta-cover.jpg" />
 
   <section class="cta cta-4 space--xxs unpad--bottom">
     <div class="container">
@@ -35,7 +35,7 @@ markdown:
         <div class="col-md-12 text-center">
           <hr>
           <span class="label label--inline">Free</span>
-          <span><a href="http://school.coders.tokyo/register" target="_blank"><b>Đăng ký</b></a> để nhận ngay <b class="color--primary-2">khoá học lập trình 1 năm</b> và cơ hội <b class="color--primary-2">đi làm tại Nhật</b> hoàn toàn <b class="color--primary-2">MIỄN PHÍ</b>.</span>
+          <span><a href="http://school.coders-x.com/register" target="_blank"><b>Đăng ký</b></a> để nhận ngay <b class="color--primary-2">khoá học lập trình 1 năm</b> và cơ hội <b class="color--primary-2">đi làm tại Nhật</b> hoàn toàn <b class="color--primary-2">MIỄN PHÍ</b>.</span>
         </div>
       </div>
       <!--end of row-->
