@@ -44,23 +44,37 @@ markdown:
 
   <section class="switchable switchable--switch feature-large">
     <div class="container">
-      <div class="row justify-content-around">
-        <div class="col-md-6 col-12 text-center">
-          <img alt="Tutor" class="border--round box-shadow-wide" src="/images/me.jpg" />
-          <!--end video cover-->
-        </div>
-        <div class="col-md-6 col-lg-5">
-          <div class="switchable__text">
-            <h2>Ai là người hướng dẫn bạn học?</h2>
-            <p class="lead">
-              Mình là <a href="https://www.facebook.com/nhim175" target="_blank"><b>Thịnh</b></a>, hiện đang là Lead Developer tại <a href="https://www.zehitomo.com/en" target="_blank"><b>Zehitomo</b></a>, một Startup ở Tokyo. Với kinh nghiệm <b class="color--primary-2">8 năm</b> làm lập trình viên web/app, trong đó có <b class="color--primary-2">6 năm</b> làm việc tại Nhật Bản, mình muốn chia sẻ phương pháp học để giúp các bạn <b class="color--primary-2">đi đúng hướng, rút ngắn thời gian học, truyền cảm hứng</b> cho các bạn theo đuổi con đường trở thành một developer giỏi.
-            </p>
-          </div>
+      <div class="row justify-content-center pb-5">
+        <div class="col-md-8">
+          <h2 class="text-center">Tại sao bạn nên học tại CodersX?</h2>
+          <p class="lead">
+            CodersX đang xây dựng một cộng đồng lập trình viên lớn nhất Việt Nam, nơi mọi người được học lập trình miễn phí, giúp đỡ nhau cả trong quá trình học cũng như đi làm.
+          </p>
         </div>
       </div>
-      <!--end of row-->
+      <div class="row text-center">
+        <div class="col-md-3 mb-5">
+            <img width="261" src="/images/home/where-to-start.svg">
+            <h4>Bắt đầu từ đâu?</h4>
+            <p>Khó khăn đầu tiên ai cũng gặp phải khi học lập trình: Bắt đầu từ đâu? CodersX có <a href="/tuts"><b>10 khoá học theo trình tự</b></a> giúp bạn trở thành developer từ con số 0.</p>
+        </div>
+        <div class="col-md-3 mb-5">
+            <img width="261" src="/images/home/community-support.svg">
+            <h4>Hỗ trợ 24/7</h4>
+            <p>Nhóm chat trên Slack với hàng ngàn thành viên thân thiện giúp đỡ nhau giải quyết các bài tập khó gặp phải trong quá trình học.</p>
+        </div>
+        <div class="col-md-3 mb-5">
+            <img width="261" src="/images/home/study-for-work.svg">
+            <h4>Học để đi làm</h4>
+            <p>Các khoá học được cập nhật với các kiến thức mới nhất và ngắn nhất giúp bạn tự tin xin việc sau khi học xong.</p>
+        </div>
+        <div class="col-md-3 mb-5">
+            <img width="261" src="/images/home/go-to-japan.svg">
+            <h4>Đi Nhật miễn phí</h4>
+            <p>Sau khi học xong các khoá học và bổ xung tiếng Nhật, bạn sẽ có cơ hội được giới thiệu tới các doanh nghiệp tại Nhật Bản hoàn toàn miễn phí.</p>
+        </div>
+      </div>
     </div>
-    <!--end of container-->
   </section>
 
   <section class="bg--secondary">
