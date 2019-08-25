@@ -65,9 +65,9 @@ Bài viết gốc: [https://www.facebook.com/codersx/photos/a.1753001401461815/2
 
 Tất cả mọi câu trả lời đều đúng. X đại diện cho sự tự do, sáng tạo, là bất cứ thứ gì mà các bạn có thể hình dung, tưởng tượng ra. X là điểm đến tiếp theo của cộng đồng. X là những ẩn số. X là biểu hiện của sự cân xứng, sự đam mê.
 
-### Sát nhập CodersX và CodersX
+### Sát nhập Coders.Tokyo và CodersX
 
-CodersX cho tới này là một team gồm trên dưới 30 bạn giúp duy trì các công việc trong cộng đồng.
+CodersX cho tới nay là một team gồm trên dưới 30 bạn giúp duy trì các công việc trong cộng đồng.
 
 Để một cộng đồng có thể lan toả nhanh hơn, tất cả mỗi người chúng ta cần chung một tay để xây dựng nó.
 
