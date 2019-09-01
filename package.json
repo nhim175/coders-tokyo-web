@@ -23,5 +23,17 @@
     "hexo-renderer-marked": "^1.0.1",
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-server": "^0.2.0"
-  }
+  },
+  "description": "[![CircleCI](https://circleci.com/gh/nhim175/coders-tokyo-web.svg?style=svg)](https://circleci.com/gh/nhim175/coders-tokyo-web)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hongquangraem/coders-tokyo-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hongquangraem/coders-tokyo-web/issues"
+  },
+  "homepage": "https://github.com/hongquangraem/coders-tokyo-web#readme"
 }
