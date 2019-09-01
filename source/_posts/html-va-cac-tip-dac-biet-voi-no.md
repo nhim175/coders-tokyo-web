@@ -65,7 +65,7 @@ Thông thường bạn biết đến với cách set chiều dài và chiều r�
 
 ## Kết Luận!
 
-Đó là những tip mà mình tình cờ thu thập được . Nếu bạn muốn tìm hiểu kỹ hơn về trang Web , hãy truy cập [Coders.Tokyo](https://coders.tokyo/) . Với hệ thống bài giảng,bài tập phong phú và cực kì chất lượng , mình hi vọng bạn sẽ tự tay làm một trang Web thật tuyệt vời.
+Đó là những tip mà mình tình cờ thu thập được . Nếu bạn muốn tìm hiểu kỹ hơn về trang Web , hãy truy cập [CodersX](https://coders-x.com/) . Với hệ thống bài giảng,bài tập phong phú và cực kì chất lượng , mình hi vọng bạn sẽ tự tay làm một trang Web thật tuyệt vời.
 
 ## Các tài liệu mà mình <g class="gr_ gr_3 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" id="3" data-gr-id="3">tham</g> khảo :
 

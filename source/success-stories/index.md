@@ -12,9 +12,9 @@ markdown:
       <div class="row">
         <div class="col-md-6 col-lg-8">
           <h1 class="color--primary">Câu chuyện thành công của học viên.</h1>
-          <h2 class="h2">Các học viên nói gì về Coders.Tokyo?</h2>
+          <h2 class="h2">Các học viên nói gì về CodersX?</h2>
           <a class="btn btn--primary type--uppercase"
-            href="http://school.coders.tokyo/register"
+            href="http://school.coders-x.com/register"
             target="_blank">
             <span class="btn__text">
               Đăng ký học
@@ -28,7 +28,7 @@ markdown:
     <!--end of container-->
   </section>
   
-  <img class="d-none" src="https://coders.tokyo/images/meta-cover.jpg" />
+  <img class="d-none" src="https://coders-x.com/images/meta-cover.jpg" />
 
   <section class="cta cta-4 space--xxs unpad--bottom">
     <div class="container">
@@ -36,7 +36,7 @@ markdown:
         <div class="col-md-12 text-center">
           <hr>
           <span class="label label--inline">Free</span>
-          <span><a href="http://school.coders.tokyo/register" target="_blank"><b>Đăng ký</b></a> để nhận ngay <b class="color--primary-2">khoá học lập trình 1 năm</b> và cơ hội <b class="color--primary-2">đi làm tại Nhật</b> hoàn toàn <b class="color--primary-2">MIỄN PHÍ</b>.</span>
+          <span><a href="http://school.coders-x.com/register" target="_blank"><b>Đăng ký</b></a> để nhận ngay <b class="color--primary-2">khoá học lập trình 1 năm</b> và cơ hội <b class="color--primary-2">đi làm tại Nhật</b> hoàn toàn <b class="color--primary-2">MIỄN PHÍ</b>.</span>
         </div>
       </div>
       <!--end of row-->
@@ -73,7 +73,7 @@ markdown:
               <img class="testimonial__image rounded-circle" alt="Image" src="http://graph.facebook.com/100004682324766/picture?type=normal">
           </div>
           <div class="col-lg-7 col-md-8 col-12">
-              <span class="h3">“Em đã theo cộng đồng Coders.Tokyo cũng đc 6,7 tháng rồi. Và em hiện đang sắp thực tập ở công ty TMA Solutions chi nhánh ở Quy Nhơn về nội dung: ES6, Express, MongoDB, RESTful API, Backend as a Service (BaaS), Exercise and Assignment, Deploy... nói chung em cũng nắm hết rồi. Rất tự tin để đầu tháng sau bắt đầu thực tập.”
+              <span class="h3">“Em đã theo cộng đồng CodersX cũng đc 6,7 tháng rồi. Và em hiện đang sắp thực tập ở công ty TMA Solutions chi nhánh ở Quy Nhơn về nội dung: ES6, Express, MongoDB, RESTful API, Backend as a Service (BaaS), Exercise and Assignment, Deploy... nói chung em cũng nắm hết rồi. Rất tự tin để đầu tháng sau bắt đầu thực tập.”
               </span>
               <h5>Ngô Hưng</h5>
               <span>Thực tập @ TMA Solutions</span>
@@ -95,7 +95,7 @@ markdown:
               <img class="testimonial__image rounded-circle" alt="Image" src="http://graph.facebook.com/100011313607719/picture?type=normal">
           </div>
           <div class="col-lg-7 col-md-8 col-12">
-              <span class="h3">“Em đã tự học JS tại Coders.Tokyo và đã bắt đầu đi làm lập trình front-end tại DFO Global - Doanh nghiệp đến từ Canada. Công việc hiện tại của em sử dụng hoàn toàn 100% kiến thức tự học tại Coders.Tokyo.”
+              <span class="h3">“Em đã tự học JS tại CodersX và đã bắt đầu đi làm lập trình front-end tại DFO Global - Doanh nghiệp đến từ Canada. Công việc hiện tại của em sử dụng hoàn toàn 100% kiến thức tự học tại CodersX.”
               </span>
               <h5>Lư Minh Thông</h5>
               <span>Front-end Developer @ DFO Global</span>
@@ -106,7 +106,7 @@ markdown:
               <img class="testimonial__image rounded-circle" alt="Image" src="http://graph.facebook.com/100002984736533/picture?type=normal">
           </div>
           <div class="col-lg-7 col-md-8 col-12">
-              <span class="h3">“Em đã học được rất nhiều kinh nghiệm từ khóa học NodeJS và JavaScript của anh, những kinh nghiệm đó mà khi đi làm em không để ý tới như cách viết và sử dụng các hàm một cách performance nhất, các lỗ hỗng security có hại đến server. Hiện tại thì em đã đi làm nhưng em vẫn cày nốt ReactJS, các khóa mới của anh và giao lưu cũng các bạn ở Coders.Tokyo.”
+              <span class="h3">“Em đã học được rất nhiều kinh nghiệm từ khóa học NodeJS và JavaScript của anh, những kinh nghiệm đó mà khi đi làm em không để ý tới như cách viết và sử dụng các hàm một cách performance nhất, các lỗ hỗng security có hại đến server. Hiện tại thì em đã đi làm nhưng em vẫn cày nốt ReactJS, các khóa mới của anh và giao lưu cũng các bạn ở CodersX.”
               </span>
               <h5>Nguyễn Quý Đông</h5>
               <span>Full-stack Developer @ Công ty Hoàng Gia</span>

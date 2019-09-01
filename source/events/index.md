@@ -31,7 +31,7 @@ markdown:
     <p class="banner_view_more">Cuộn để biết thêm chi tiết</p>
   </section>
 
-  <img class="d-none" src="https://coders.tokyo/images/meta-cover.jpg" />
+  <img class="d-none" src="https://coders-x.com/images/meta-cover.jpg" />
 
   <section class="cta cta-4 space--xxs">
     <div class="container">
@@ -121,7 +121,7 @@ markdown:
         <div class="col-md-10 col-lg-8">
           <h2>Diễn giả</h2>
           <p class="lead">
-            Coders.Tokyo hân hạnh giới thiệu về các diễn giả của buổi hội thảo, những người có kinh nghiệm trong lĩnh vực lập trình, đào tạo về kỹ thuật cũng như tiếng Nhật từ các công ty lớn tại Nhật Bản và Việt Nam.
+            CodersX hân hạnh giới thiệu về các diễn giả của buổi hội thảo, những người có kinh nghiệm trong lĩnh vực lập trình, đào tạo về kỹ thuật cũng như tiếng Nhật từ các công ty lớn tại Nhật Bản và Việt Nam.
           </p>
         </div>
       </div>
@@ -137,14 +137,14 @@ markdown:
           <div class="feature feature-8">
             <img alt="Thịnh Phạm" style="width: 128px;" src="/images/events/thinh.png" />
             <h5>Thịnh Phạm</h5>
-            <span>Founder @ Coders.Tokyo</span>
+            <span>Founder @ CodersX</span>
           </div>
         </div>
         <div class="col-md-4">
           <div class="feature feature-8">
             <img alt="Katsutoshi Yamada" style="width: 128px;" src="/images/events/toshi.png" />
             <h5>Katsutoshi Yamada</h5>
-            <span>Co-founder @ Coders.Tokyo</span>
+            <span>Co-founder @ CodersX</span>
           </div>
         </div>
         <div class="col-md-4">
@@ -203,11 +203,11 @@ markdown:
     <div class="container">
       <div class="row">
         <div class="col-12 text-center">
-          <h4>Áo phông Coders.Tokyo đang chờ đón bạn</h4>
+          <h4>Áo phông CodersX đang chờ đón bạn</h4>
           <p class="lead">
-            Những bạn tham gia nhiệt quyết trong suốt sự kiện sẽ được Founder trao tặng những chiếc áo Coders.Tokyo. Quà tặng tuy không nhiều giá trị nhưng ý nghĩa tinh thần là rất to lớn. Ngoài ra bạn sẽ có cơ hội được mời vào đội ngũ CodersX để đông hành cùng mọi người nếu bạn có thể.
+            Những bạn tham gia nhiệt quyết trong suốt sự kiện sẽ được Founder trao tặng những chiếc áo CodersX. Quà tặng tuy không nhiều giá trị nhưng ý nghĩa tinh thần là rất to lớn. Ngoài ra bạn sẽ có cơ hội được mời vào đội ngũ CodersX để đông hành cùng mọi người nếu bạn có thể.
           </p>
-          <!-- <p class="lead text-center"><b>Áo phông Coders.Tokyo</b></p> -->
+          <!-- <p class="lead text-center"><b>Áo phông CodersX</b></p> -->
           <!-- <div class="text-center">
             <a class="btn type--uppercase"
               href="http://bit.ly/coders-tokyo-da-nang"

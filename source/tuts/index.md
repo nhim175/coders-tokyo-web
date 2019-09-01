@@ -14,7 +14,7 @@ markdown:
           <h1 class="color--primary">Các bài giảng về lập trình Web/App.</h1>
           <h2 class="h2">JavaScript, Node, React, Angular and more.</h2>
           <a class="btn btn--primary type--uppercase"
-            href="http://school.coders.tokyo/register"
+            href="http://school.coders-x.com/register"
             target="_blank">
             <span class="btn__text">
               Đăng ký học
@@ -28,7 +28,7 @@ markdown:
     <!--end of container-->
   </section>
 
-  <img class="d-none" src="https://coders.tokyo/images/meta-cover.jpg" />
+  <img class="d-none" src="https://coders-x.com/images/meta-cover.jpg" />
 
   <section class="cta cta-4 space--xxs unpad--bottom">
     <div class="container">
@@ -36,7 +36,7 @@ markdown:
         <div class="col-md-12 text-center">
           <hr>
           <span class="label label--inline">Free</span>
-          <span><a href="http://school.coders.tokyo/register" target="_blank"><b>Đăng ký</b></a> để nhận ngay <b class="color--primary-2">khoá học lập trình 1 năm</b> và cơ hội <b class="color--primary-2">đi làm tại Nhật</b> hoàn toàn <b class="color--primary-2">MIỄN PHÍ</b>.</span>
+          <span><a href="http://school.coders-x.com/register" target="_blank"><b>Đăng ký</b></a> để nhận ngay <b class="color--primary-2">khoá học lập trình 1 năm</b> và cơ hội <b class="color--primary-2">đi làm tại Nhật</b> hoàn toàn <b class="color--primary-2">MIỄN PHÍ</b>.</span>
         </div>
       </div>
       <!--end of row-->
@@ -51,7 +51,7 @@ markdown:
         <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
             <h2>#0 - Định hướng học lập trình</h2>
-            <span>by Coders.Tokyo</span>
+            <span>by CodersX</span>
           </div>
           <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1554302373/tuts/0-dinh-huong.png" title="Khoá học lập trình miễn phí" alt="Khoá học lập trình miễn phí">
           <p class="lead">
@@ -62,7 +62,7 @@ markdown:
         <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
             <h2>#1 - JavaScript từ A-Z 2019</h2>
-            <span>by Coders.Tokyo</span>
+            <span>by CodersX</span>
           </div>
           <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/c_fill,h_540,w_960,f_auto/v1554302373/tuts/1-js.jpg" title="Học lập trình JavaScript" alt="Học lập trình JavaScript">
           <p class="lead">
@@ -73,7 +73,7 @@ markdown:
         <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
             <h2>#2 - HTML for dummies</h2>
-            <span>by Coders.Tokyo</span>
+            <span>by CodersX</span>
           </div>
           <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1554294805/tuts/2-html.png" title="Học lập trình HTML" alt="Học lập trình HTML">
           <p class="lead">
@@ -93,7 +93,7 @@ markdown:
         <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
             <h2>#3 - Git - from Zero to Hero</h2>
-            <span>by Coders.Tokyo</span>
+            <span>by CodersX</span>
           </div>
           <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/v1554294804/tuts/3-git.png" title="Khoá học Git miễn phí" alt="Khoá học Git miễn phí">
           <p class="lead">
@@ -104,7 +104,7 @@ markdown:
         <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
             <h2>#4 - UI Design 2019</h2>
-            <span>by Coders.Tokyo</span>
+            <span>by CodersX</span>
           </div>
           <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1554294804/tuts/4-design.png" title="Học UI Design miễn phí" alt="Học UI Design miễn phí">
           <p class="lead">
@@ -115,7 +115,7 @@ markdown:
         <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
             <h2>#5 - Master CSS 2019</h2>
-            <span>by Coders.Tokyo</span>
+            <span>by CodersX</span>
           </div>
           <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1554294804/tuts/5-css.png" title="Khoá học CSS miễn phí" alt="Khoá học CSS miễn phí">
           <p class="lead">
@@ -135,7 +135,7 @@ markdown:
         <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
             <h2>#6 - Bootstrap 4</h2>
-            <span>by Coders.Tokyo</span>
+            <span>by CodersX</span>
           </div>
           <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1554294804/tuts/6-bootstrap.png" title="Khoá học Bootstrap miễn phí" alt="Khoá học Boostrap miễn phí">
           <p class="lead">
@@ -146,7 +146,7 @@ markdown:
         <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
             <h2>#7 - Node Express 2019</h2>
-            <span>by Coders.Tokyo</span>
+            <span>by CodersX</span>
           </div>
           <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1554294804/tuts/7-express.png" title="Khoá học NodeJS - ExpressJS miễn phí" alt="Khoá học NodeJS - ExpressJS miễn phí">
           <p class="lead">
@@ -157,7 +157,7 @@ markdown:
         <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
             <h2>#8 - JavaScript Advanced 2019</h2>
-            <span>by Coders.Tokyo</span>
+            <span>by CodersX</span>
           </div>
           <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1554294804/tuts/8-js-advanced.png" title="Khoá học JavaScript nâng cao miễn phí" alt="Khoá học JavaScript nâng cao miễn phí">
           <p class="lead">
@@ -177,7 +177,7 @@ markdown:
         <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
             <h2>#9 - Tự học React 2019</h2>
-            <span>by Coders.Tokyo</span>
+            <span>by CodersX</span>
           </div>
           <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1554294804/tuts/9-react.png" title="Khoá học ReactJS miễn phí" alt="Khoá học ReactJS miễn phí">
           <p class="lead">
@@ -188,7 +188,7 @@ markdown:
         <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
             <h2>#10 - React Native 2019</h2>
-            <span>by Coders.Tokyo</span>
+            <span>by CodersX</span>
           </div>
           <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1554294804/tuts/10-react-native.png" title="Khoá học React Native miễn phí" alt="Khoá học React Native miễn phí">
           <p class="lead">
@@ -219,9 +219,9 @@ markdown:
         <div class="col-md-10 col-lg-4 course">
           <div class="text-block">
             <h2>Live stream videos</h2>
-            <span>by Coders.Tokyo</span>
+            <span>by CodersX</span>
           </div>
-          <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1554294804/tuts/12-live-stream.png" title="Coders.Tokyo Live Stream" alt="Coders.Tokyo Live Stream">
+          <img class="course-thumbnail" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1554294804/tuts/12-live-stream.png" title="CodersX Live Stream" alt="CodersX Live Stream">
           <p class="lead">
             Playlist tổng hợp video các buổi live stream 2 tuần một lần. Xem lịch live stream lần tới <a href="https://www.facebook.com/events/181709499152508/" target="_blank">tại đây</a>. Bạn cũng có thể gửi chủ đề bạn muốn Live stream về <a href="https://fb.com/coders.tokyo/" target="_blank">Fanpage</a> để tụi mình tổng hợp nhé!
           </p>

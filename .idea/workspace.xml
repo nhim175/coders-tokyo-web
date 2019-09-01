@@ -2,8 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f30b7d1b-c1cf-4ac2-8da6-e965cdffb2eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/_posts/debounce-javascript.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/coders-tokyo/source/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/coders-tokyo/source/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/11-thu-phai-hoc-tren-con-duong-tro-thanh-master-javascript.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/11-thu-phai-hoc-tren-con-duong-tro-thanh-master-javascript.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/6-tips-to-give-constructive-feedbacks.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/6-tips-to-give-constructive-feedbacks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/7-ly-do-tai-sao-ban-nen-su-dung-Linux-de-lap-trinh.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/7-ly-do-tai-sao-ban-nen-su-dung-Linux-de-lap-trinh.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Ban-chua-hieu-JS-dau-ky-1-scope-hoisting.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Ban-chua-hieu-JS-dau-ky-1-scope-hoisting.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Ban-chua-hieu-JS-dau-ky-2-coercion.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Ban-chua-hieu-JS-dau-ky-2-coercion.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Ban-da-thuc-su-hieu-git-phan-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Ban-da-thuc-su-hieu-git-phan-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Cau-chuyen-thanh-cong-minh-tan-frondent-dev.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Cau-chuyen-thanh-cong-minh-tan-frondent-dev.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Con-gai-co-phu-hop-voi-nghanh-lap-trinh-hay-khong.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Con-gai-co-phu-hop-voi-nghanh-lap-trinh-hay-khong.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Destructuring-in-Javascript-phan-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Destructuring-in-Javascript-phan-2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Destructuring-in-javascript--phan-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Destructuring-in-javascript--phan-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Execution-Context-va-Execution-Stack-trong-Javascript.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Execution-Context-va-Execution-Stack-trong-Javascript.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Hieu-ve-nao-ky-1-tri-nho-hoat-dong-nhu-the-nao.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Hieu-ve-nao-ky-1-tri-nho-hoat-dong-nhu-the-nao.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Hieu-ve-nao-ky-2-ban-do-tu-duy.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Hieu-ve-nao-ky-2-ban-do-tu-duy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Hieu-ve-nao-ky-3-tai-sao-ban-ngu.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Hieu-ve-nao-ky-3-tai-sao-ban-ngu.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Hieu-ve-nao-ky-4-tam-tri.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Hieu-ve-nao-ky-4-tam-tri.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Ky-nang-mem-cho-dan-CNTT.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Ky-nang-mem-cho-dan-CNTT.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Lap-trinh-khong-quan-trong-tuoi-tac-ma-chi-can-dam-me.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Lap-trinh-khong-quan-trong-tuoi-tac-ma-chi-can-dam-me.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Len-dinh-cung-deep-work.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Len-dinh-cung-deep-work.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Life.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Life.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Loi-ich-ho-den-giai-phap-trong-qua-trinh-tu-hoc-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Loi-ich-ho-den-giai-phap-trong-qua-trinh-tu-hoc-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Loi-ich-ho-den-giai-phap-trong-qua-trinh-tu-hoc-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Loi-ich-ho-den-giai-phap-trong-qua-trinh-tu-hoc-2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/authentication-jwt-nodejs.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/authentication-jwt-nodejs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/bootstrap4-nhung-dieu-chung-ta-nen-biet-phan-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/bootstrap4-nhung-dieu-chung-ta-nen-biet-phan-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/cach-lam-double-slider-sign-in-va-sign-up.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/cach-lam-double-slider-sign-in-va-sign-up.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/cau-chuyen-thanh-cong-lai-huan.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/cau-chuyen-thanh-cong-lai-huan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/chia-se-qua-trinh-tu-hoc-lap-tring-p2.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/chia-se-qua-trinh-tu-hoc-lap-tring-p2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/chu-x-trong-coders-x.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/chu-x-trong-coders-x.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/da-nang-sau-mua-la-cau-vong.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/da-nang-sau-mua-la-cau-vong.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/dung-chi-doc-sach.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/dung-chi-doc-sach.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/hieu-sau-hon-ve-viec-sao-chep-gia-tri-trong-javascript.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/hieu-sau-hon-ve-viec-sao-chep-gia-tri-trong-javascript.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/html-va-cac-tip-dac-biet-voi-no.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/html-va-cac-tip-dac-biet-voi-no.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/javascript-web-developer.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/javascript-web-developer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/lam-the-nao-mot-dong-ma-da-thay-doi-cuoc-song-cua-toi.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/lam-the-nao-mot-dong-ma-da-thay-doi-cuoc-song-cua-toi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/react-typescript-p2.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/react-typescript-p2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/ren-luyen-kha-nang-tuong-tuong-de-hoc-tot-hon.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/ren-luyen-kha-nang-tuong-tuong-de-hoc-tot-hon.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/success-stories-ngo-hung.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/success-stories-ngo-hung.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/tai-sao-muon-di-nhanh-khong-nen-di-mot-minh.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/tai-sao-muon-di-nhanh-khong-nen-di-mot-minh.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/ux-ui-design-la-cai-quai-gi.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/ux-ui-design-la-cai-quai-gi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/who-am-i-and-connecting-the-dots-story.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/who-am-i-and-connecting-the-dots-story.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/coding-mentor/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/coding-mentor/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/event-danang-5-2019/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/event-danang-5-2019/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/event-mta-5-2019/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/event-mta-5-2019/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/events/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/events/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/success-stories/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/success-stories/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/team/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/team/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/tuts/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/tuts/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/coders-tokyo/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/coders-tokyo/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/coders-tokyo/layout/_partial/archive.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/coders-tokyo/layout/_partial/archive.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/coders-tokyo/layout/_partial/footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/coders-tokyo/layout/_partial/footer.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/coders-tokyo/layout/_partial/header.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/coders-tokyo/layout/_partial/header.ejs" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,45 +68,40 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/_posts/debounce-javascript.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="369">
-                <caret line="244" column="21" lean-forward="true" selection-start-line="244" selection-start-column="21" selection-end-line="244" selection-end-column="21" />
-                <folding>
-                  <element signature="n#!!doc" expanded="true" />
-                  <element signature="n#!!doc" expanded="true" />
-                  <element signature="n#!!doc" expanded="true" />
-                  <element signature="n#!!doc" expanded="true" />
-                  <element signature="n#!!doc" expanded="true" />
-                  <element signature="e#0#65#0" expanded="true" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/memoization-la-gi.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="80">
-                <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>&lt;img</find>
+      <find>![1</find>
+      <find>![</find>
+      <find>https://coders.tokyo</find>
+      <find>https://school.coders.tokyo</find>
+      <find>http://school.coders.tokyo</find>
+      <find>coders.</find>
+      <find>Coders.</find>
+      <find>Tokyo</find>
+      <find>Coders Tokyo</find>
+      <find>coderstokyo</find>
+      <find>coders.tokyo</find>
+      <find>tokyo</find>
+      <find>Coders.Tokyo</find>
+      <find>coders tokyo</find>
     </findStrings>
+    <replaceStrings>
+      <replace>https://coders-x.com</replace>
+      <replace>https://school.coders-x.com</replace>
+      <replace>http://school.coders-x.com</replace>
+      <replace>codersx</replace>
+      <replace>coders-x.com</replace>
+      <replace>CodersX</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/themes</dir>
+      <dir>$PROJECT_DIR$/scaffolds</dir>
+      <dir>$PROJECT_DIR$/source</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,23 +111,28 @@
       <list>
         <option value="$PROJECT_DIR$/themes/coders-tokyo/source/css/custom.css" />
         <option value="$PROJECT_DIR$/source/_posts/debounce-javascript.md" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/coders-tokyo-web.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/source/_posts/react-typescript.md" />
+        <option value="$PROJECT_DIR$/source/_posts/react-typescript-p2.md" />
+        <option value="$PROJECT_DIR$/themes/coders-tokyo/_config.yml" />
+        <option value="$PROJECT_DIR$/themes/coders-tokyo/layout/_partial/header.ejs" />
+        <option value="$PROJECT_DIR$/themes/coders-tokyo/layout/_partial/archive.ejs" />
+        <option value="$PROJECT_DIR$/source/_posts/ren-luyen-kha-nang-tuong-tuong-de-hoc-tot-hon.md" />
+        <option value="$PROJECT_DIR$/source/_posts/cau-chuyen-thanh-cong-lai-huan.md" />
+        <option value="$PROJECT_DIR$/source/_posts/cach-lam-double-slider-sign-in-va-sign-up.md" />
+        <option value="$PROJECT_DIR$/source/_posts/Destructuring-in-Javascript-phan-2.md" />
+        <option value="$PROJECT_DIR$/source/_posts/authentication-jwt-nodejs.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/themes/coders-tokyo/layout/_partial/footer.ejs" />
+        <option value="$PROJECT_DIR$/source/_posts/tai-sao-muon-di-nhanh-khong-nen-di-mot-minh.md" />
+        <option value="$PROJECT_DIR$/source/_posts/chu-x-trong-coders-x.md" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="1389" />
-    <option name="height" value="1047" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -93,32 +146,6 @@
               <item name="coders-tokyo-web" type="b2602c69:ProjectViewProjectNode" />
               <item name="coders-tokyo-web" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="coders-tokyo-web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coders-tokyo-web" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coders-tokyo-web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coders-tokyo-web" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="coders-tokyo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coders-tokyo-web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coders-tokyo-web" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="coders-tokyo" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coders-tokyo-web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coders-tokyo-web" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="coders-tokyo" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -127,6 +154,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -156,31 +184,34 @@
       <option name="presentableId" value="Default" />
       <updated>1560653908217</updated>
       <workItem from="1560653909358" duration="5384000" />
+      <workItem from="1561868083581" duration="6335000" />
+      <workItem from="1566354418603" duration="2736000" />
+      <workItem from="1566357738323" duration="220000" />
+      <workItem from="1566360366169" duration="333000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5384000" />
+    <option name="totallyTimeSpent" value="26579000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1920" height="1048" extended-state="6" />
     <layout>
-      <window_info id="npm" side_tool="true" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17755532" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18018967" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.33261105" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.18114407" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -240,16 +271,6 @@
     <entry file="file://$PROJECT_DIR$/themes/coders-tokyo/layout/_partial/post/gallery.ejs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/memoization-la-gi.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="80">
-            <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/coders-tokyo/source/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -257,19 +278,208 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/memoization-la-gi.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/debounce-javascript.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="369">
-            <caret line="244" column="21" lean-forward="true" selection-start-line="244" selection-start-column="21" selection-end-line="244" selection-end-column="21" />
+          <first_editor relative-caret-position="3502">
+            <caret line="244" column="21" selection-start-line="244" selection-start-column="21" selection-end-line="244" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/react-typescript-p2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="212">
+            <caret line="337" column="514" selection-start-line="337" selection-start-column="514" selection-end-line="337" selection-end-column="514" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/react-typescript-p1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="13" selection-start-line="11" selection-end-line="11" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/coders-tokyo/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/coders-tokyo/layout/_partial/header.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="44" column="112" selection-start-line="44" selection-start-column="112" selection-end-line="44" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/coders-tokyo/layout/_partial/archive.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/7-ly-do-tai-sao-ban-nen-su-dung-Linux-de-lap-trinh.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="311">
+            <caret line="74" column="70" selection-start-line="74" selection-start-column="70" selection-end-line="74" selection-end-column="70" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/6-tips-to-give-constructive-feedbacks.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="168">
+            <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/ren-luyen-kha-nang-tuong-tuong-de-hoc-tot-hon.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="572">
+            <caret line="73" column="123" selection-start-line="73" selection-start-column="123" selection-end-line="73" selection-end-column="123" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/who-am-i-and-connecting-the-dots-story.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="164">
+            <caret line="56" column="41" lean-forward="true" selection-start-line="56" selection-start-column="41" selection-end-line="56" selection-end-column="41" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="326">
+            <caret line="55" column="225" selection-start-line="55" selection-start-column="220" selection-end-line="55" selection-end-column="225" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/cau-chuyen-thanh-cong-lai-huan.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="38">
+            <caret line="15" column="83" selection-start-line="15" selection-start-column="83" selection-end-line="15" selection-end-column="83" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/cach-lam-double-slider-sign-in-va-sign-up.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="206">
+            <caret line="414" column="21" selection-start-line="414" selection-start-column="21" selection-end-line="414" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/Destructuring-in-Javascript-phan-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="288">
+            <caret line="210" column="115" selection-start-line="210" selection-start-column="115" selection-end-line="210" selection-end-column="115" />
             <folding>
               <element signature="n#!!doc" expanded="true" />
               <element signature="n#!!doc" expanded="true" />
               <element signature="n#!!doc" expanded="true" />
-              <element signature="n#!!doc" expanded="true" />
-              <element signature="n#!!doc" expanded="true" />
-              <element signature="e#0#65#0" expanded="true" />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/authentication-jwt-nodejs.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="164">
+            <caret line="251" column="118" selection-start-line="251" selection-start-column="118" selection-end-line="251" selection-end-column="118" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/coders-tokyo/layout/_partial/footer.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/tai-sao-muon-di-nhanh-khong-nen-di-mot-minh.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="723">
+            <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/chu-x-trong-coders-x.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="245">
+            <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="192">
+            <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>

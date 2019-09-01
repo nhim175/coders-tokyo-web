@@ -93,7 +93,7 @@ Một nhà thiết kế `UI` làm cho sản phẩm dễ dàng và trực quan h�
 
 Khi bạn nghĩ về nó, câu nói trên hoàn toàn đúng theo quan điểm của người dùng. Nếu một trong hai UI hoặc UX kém, người dùng sẽ cảm nhận được một sản phẩm kém hơn. Điều đó có nghĩa là, cả UI và UX đều cần nhiều hơn chứ không nên riêng lẻ. Nó thật sự tuyệt vời khi chúng kết hợp hoàn hảo với nhau. Bằng cách mở rộng sản phẩm, chúng ta sẽ làm nên một sản phẩm hoàn hảo và thú vị hơn.
 
-Để tìm hiểu kỹ hơn về thiết kế [UI Design](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-sXiG2d0OVT51dU5ifqoV-e). Mình xin giới thiệu cho các bạn một khoá học đến từ [Coder.Tokyo](https://coders.tokyo/). Khoá học này sẽ giúp các bạn hiểu rõ hơn và thực hành chúng một cách đơn giản. Các bạn nhớ share, like để ủng hộ tụi mình nhé.
+Để tìm hiểu kỹ hơn về thiết kế [UI Design](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-sXiG2d0OVT51dU5ifqoV-e). Mình xin giới thiệu cho các bạn một khoá học đến từ [Coder.Tokyo](https://coders-x.com/). Khoá học này sẽ giúp các bạn hiểu rõ hơn và thực hành chúng một cách đơn giản. Các bạn nhớ share, like để ủng hộ tụi mình nhé.
 
 ## Tài liệu tham khảo: 
 

@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Coders.Tokyo - Cộng đồng học lập trình miễn phí
+title: CodersX - Cộng đồng học lập trình miễn phí
 subtitle: Together coding the future
-description: Coders.Tokyo là một cộng đồng học lập trình miễn phí. Đến với Coders.Tokyo, bạn sẽ được học và làm việc trong môi trường chuyên nghiệp với tinh thần làm việc của người Nhật, văn hoá làm việc và cách suy nghĩ của người Mỹ.
+description: CodersX là một cộng đồng học lập trình miễn phí. Đến với CodersX, bạn sẽ được học và làm việc trong môi trường chuyên nghiệp với tinh thần làm việc của người Nhật, văn hoá làm việc và cách suy nghĩ của người Mỹ.
 keywords: coding, free, javascript, programming, web, app
 author: Thinh Pham
 language: vi
@@ -13,7 +13,7 @@ timezone: Asia/Bangkok
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://coders.tokyo
+url: http://coders-x.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -73,7 +73,7 @@ pagination_dir: page
 # Authors
 authors:
   default:
-    name: Coders.Tokyo
+    name: CodersX
     url: https://www.facebook.com/coders.tokyo
   hong_quang:
     name: Hồng Quang

@@ -6,7 +6,7 @@ tags:
 ---
 ![Cách làm một double slider Sign-in và Sign-up Form](https://res.cloudinary.com/djeghcumw/image/upload/v1554896320/blog/0_6-JxbwsPgUN6VvBZ.gif)
 
-Chắc hẳn bạn đã và đang sử dụng Facebook, Google, Twitter, Coders Tokyo,.. thì việc tạo tài khoản để login vào hệ thống là đều hay diễn ra. Và hầu như trong số các bạn ít khi quan tâm đến cái khung sign in/sign up trông nó ra sau, nó không ấn tượng với bạn lắm nhỉ, vì suy cho cùng bạn chỉ cần nhớ username và password thôi là đủ rồi 😄
+Chắc hẳn bạn đã và đang sử dụng Facebook, Google, Twitter, CodersX,.. thì việc tạo tài khoản để login vào hệ thống là đều hay diễn ra. Và hầu như trong số các bạn ít khi quan tâm đến cái khung sign in/sign up trông nó ra sau, nó không ấn tượng với bạn lắm nhỉ, vì suy cho cùng bạn chỉ cần nhớ username và password thôi là đủ rồi 😄
 
 Nhưng để một trang web gây ấn tượng với bạn khi mới lần đầu “gặp gỡ” thì việc xây dựng một giao diện sign in/sign up thân thiện hơn và trải nghiệm tốt hơn là đều khá cần thiết đấy chứ 😉
 
@@ -414,7 +414,7 @@ Uầy, cuối cùng cũng làm xong rồi (^^)
 
 Bài này hơi khó về animation, phải không? Tuy nhiên, tôi hy vọng bạn đã học được điều gì đó từ nó.
 
-Bạn không quên rằng bạn cũng có thể làm được những thứ này từ những khoá học trên Coders Tokyo.  
+Bạn không quên rằng bạn cũng có thể làm được những thứ này từ những khoá học trên CodersX.  
 
 Cảm ơn bạn đã dành thời gian đọc, tôi hy vọng rằng bạn đã học được điều gì đó mới!
 

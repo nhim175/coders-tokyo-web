@@ -50,7 +50,7 @@ Biết là việc này rất khó, vì đa phần chúng ta đều đang phấn 
 
 Khó nhưng nếu bạn không thử, có nghĩa là bạn tự làm mất đi 1 cơ hội sống với chính bản thân mình. Và sẽ không có cơ hội để làm lại ở 1 “cuộc đời khác”. Sẽ có cách để bạn tìm thấy cái mà bạn thực sự thích, với những bạn đi làm sẽ ít thời gian hơn nhưng không phải không thể. Với các bạn sinh viên thì rất dễ. Hãy tham gia những lớp học năng khiếu như nhạc hoạ để thử xem bạn có phải là tài năng ẩn dật hay không. Hãy tham gia vào các nhóm cộng đồng, biết đâu bạn muốn trở thành 1 tình nguyện viên giúp đỡ các trẻ em nghèo ở các vùng khó khăn. Hãy đi du lịch thật nhiều, biết đâu bạn sẽ trở thành 1 hướng dẫn viên giỏi, đi khắp các nước sau này. Hãy học ngôn ngữ, biết đâu bạn sẽ trở thành 1 chuyên gia ngôn ngữ giỏi. Không nhất thiết bạn phải theo đuổi một cái gì để ra thật nhiều tiền. Tiền sẽ tự đến với bạn, theo nhiều cách, khi bạn làm cái mình thích và làm hết mình vì nó.
 
-Với mình, mục đích cuối cùng của mình trong thời gian còn lại của cuộc đời sẽ là: Thay đổi hệ thống giáo dục trên thế giới, biến giáo dục thành miễn phí và phải tạo hứng thú cho người học. Xây dựng các địa điểm học miễn phí cho mọi người trên khắp thế giới. Sẽ không có công ty nào sau Zehitomo mà mình làm thuê cho nữa. Công ty tiếp theo sẽ là **Coders.Tokyo** trụ sở đặt tại Tokyo.
+Với mình, mục đích cuối cùng của mình trong thời gian còn lại của cuộc đời sẽ là: Thay đổi hệ thống giáo dục trên thế giới, biến giáo dục thành miễn phí và phải tạo hứng thú cho người học. Xây dựng các địa điểm học miễn phí cho mọi người trên khắp thế giới. Sẽ không có công ty nào sau Zehitomo mà mình làm thuê cho nữa. Công ty tiếp theo sẽ là **CodersX** trụ sở đặt tại Tokyo.
 
 ## 5. Kết
 

@@ -1,5 +1,5 @@
 ---
-title: Đội ngũ phát triển cộng đồng Coders.Tokyo
+title: Đội ngũ phát triển cộng đồng CodersX
 description: Những con người đang làm việc chăm chỉ hàng ngày để đem lại nền giáo dục miễn phí cho bạn.
 date: 2018-08-19 12:16:53
 markdown:
@@ -30,7 +30,7 @@ markdown:
     <!--end of container-->
   </section>
 
-  <img class="d-none" src="https://coders.tokyo/images/meta-cover.jpg" />
+  <img class="d-none" src="https://coders-x.com/images/meta-cover.jpg" />
 
   <section class="text-center bg--secondary">
     <div class="container">
@@ -103,7 +103,7 @@ markdown:
             <h2>Dev Team</h2>
           </div>
           <p class="lead">
-            Đây là team tập hợp các developer chân chính đến từ khắp mọi nơi. Mọi người đang làm việc chăm chỉ hàng ngày để có thể tạo ra nhiều giá trị hữu ích cho tất cả người học và cộng đồng Coders.Tokyo!
+            Đây là team tập hợp các developer chân chính đến từ khắp mọi nơi. Mọi người đang làm việc chăm chỉ hàng ngày để có thể tạo ra nhiều giá trị hữu ích cho tất cả người học và cộng đồng CodersX!
           </p>
         </div>
       </div>
@@ -262,7 +262,7 @@ markdown:
             <h2>Design Team</h2>
           </div>
           <p class="lead">
-            Team chịu trách nhiệm thiết kế cho CodersX và Coders.Tokyo trong suốt thời gian qua. Những sản phẩm như flyer, standee và banner trong các buổi event là những sản phẩm đáng tự hào của nhóm. Đây cũng là trợ thủ đắc lực của Content Team!
+            Team chịu trách nhiệm thiết kế cho CodersX và CodersX trong suốt thời gian qua. Những sản phẩm như flyer, standee và banner trong các buổi event là những sản phẩm đáng tự hào của nhóm. Đây cũng là trợ thủ đắc lực của Content Team!
           </p>
         </div>
       </div>
@@ -302,7 +302,7 @@ markdown:
             <h2>Growth Team</h2>
           </div>
           <p class="lead">
-            Team chịu trách nhiệm tìm hướng đi, giải pháp và kêu gọi đầu tư đồng thời tìm kiếm đối tác mở rộng cho cộng đồng. Đây là một hạt nhân có thể gây bùng nổ thành công cho Coders.Tokyo trong tương lai!
+            Team chịu trách nhiệm tìm hướng đi, giải pháp và kêu gọi đầu tư đồng thời tìm kiếm đối tác mở rộng cho cộng đồng. Đây là một hạt nhân có thể gây bùng nổ thành công cho CodersX trong tương lai!
           </p>
         </div>
       </div>
@@ -349,7 +349,7 @@ markdown:
             <h2 id="join-us">Join the awesome team</h2>
           </div>
           <p class="lead">
-            Cộng đồng Coders.Tokyo được sinh ra với mục đích mang lại một nền giáo dục miễn phí cho tất cả mọi người trên thế giới, bắt đầu bằng việc cung cấp các khoá học lập trình miễn phí cho sinh viên Việt Nam. Nếu bạn yêu thích cộng đồng, muốn đóng góp một phần vào sự trưởng thành của cộng đồng, muốn làm việc với một team rất awesome, hãy tham gia và <b>let's make it happen</b> :)
+            Cộng đồng CodersX được sinh ra với mục đích mang lại một nền giáo dục miễn phí cho tất cả mọi người trên thế giới, bắt đầu bằng việc cung cấp các khoá học lập trình miễn phí cho sinh viên Việt Nam. Nếu bạn yêu thích cộng đồng, muốn đóng góp một phần vào sự trưởng thành của cộng đồng, muốn làm việc với một team rất awesome, hãy tham gia và <b>let's make it happen</b> :)
           </p>
           <a class="btn btn--primary type--uppercase"
             href="http://bit.ly/coders-tokyo-join-us"

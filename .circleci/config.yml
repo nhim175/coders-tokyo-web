@@ -51,3 +51,12 @@ jobs:
       - run:
           name: 'Deploy to Hosting'
           command: node_modules/.bin/firebase deploy --token "$FIREBASE_TOKEN"
+
+workflows:
+  version: 2
+  deploy:
+    jobs:
+      - build:
+          filters:
+            branches:
+              only: master

@@ -4,7 +4,9 @@ menu:
   Tutorials: /tuts
   Team: /team
   Success stories: /success-stories
+  MentorX: /coding-mentor
   Blog: /blog
+  Hỏi đáp: https://ask.coders-x.com
 rss: /atom.xml
 
 # Content
@@ -43,5 +45,3 @@ authors:
   - hong_quang:
     name: Hồng Quang
     url: facebook.com
-  
-
