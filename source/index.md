@@ -71,7 +71,7 @@ markdown:
         <div class="col-md-3 mb-5">
             <img width="261" src="/images/home/go-to-japan.svg">
             <h4>Đi Nhật miễn phí</h4>
-            <p>Sau khi học xong các khoá học và bổ xung tiếng Nhật, bạn sẽ có cơ hội được giới thiệu tới các doanh nghiệp tại Nhật Bản hoàn toàn miễn phí.</p>
+            <p>Sau khi học xong các khoá học và bổ sung tiếng Nhật, bạn sẽ có cơ hội được giới thiệu tới các doanh nghiệp tại Nhật Bản hoàn toàn miễn phí.</p>
         </div>
       </div>
     </div>
