@@ -6,9 +6,13 @@ tags:
 
 Đây là bài thứ hai trong cuốn [97 Things Every Programmer Should Know](https://www.oreilly.com/library/view/97-things-every/9780596809515/) của tác giả Kevlin Henney. Cuốn sách này là tập hợp những tip nhỏ và hữu ích có thể sẽ giúp cho bạn trở thành một developer chuyên nghiệp hơn.
 
+![https://res.cloudinary.com/djeghcumw/image/upload/c_scale,f_auto,w_1152/v1575657112/blog/photo-1516259762381-22954d7d3ad2.jpg](https://res.cloudinary.com/djeghcumw/image/upload/c_scale,f_auto,w_1152/v1575657112/blog/photo-1516259762381-22954d7d3ad2.jpg)
+
 ## Phần 2. Ứng dụng các nguyên tắc của Functional Programming
 
 Functional Programming gần đây lấy lại được sự yêu thích từ cộng đồng lập trình. Một phần là bởi vì những tính chất mới của functional programming được đưa ra để giải quyết các khó khăn gặp phải trong ngành của chúng ta. Tuy nhiên, dù đấy là một ứng dụng quan trọng, nhưng nó cũng không phải là lý do buộc bạn phải biết functional programming.
+
+<!--more-->
 
 Việc làm chủ được functional programming có thể cải thiện được chất lượng code của bạn. Nếu bạn hiểu sâu và áp dụng được mô hình này, thiết kế của bạn sẽ rất minh bạch.
 
