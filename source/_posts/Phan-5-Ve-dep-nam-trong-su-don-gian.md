@@ -21,6 +21,8 @@ Có vài thứ chúng ta vẫn phấn đấu khi code:
 - Tốc độ phát triển
 - The elusive quality of beauty (không biết dịch sao cho hay)
 
+<!--more-->
+
 Plato nói với chúng ta rằng cái nhân tố quyết định tới những thứ nói trên đó là sự đơn giản.
 
 Code đẹp là code thế nào? Câu hỏi này khá là chủ quan. Sự nhận thức về cái đẹp dựa vào kiến thức của mỗi người, giống như là nhân thức về mọi thứ của chúng ta đều dựa vào kinh nghiệm, kiến thức đã qua. Những người học nghệ thuật thì có nhận thức khác (hoặc cách tiếp cận khác) về vẻ đẹp so với người học khoa học. Những người học nghệ thuật thường tiếp cận về vẻ đẹp trong phần mềm bằng cách so sánh phần mềm với tác phẩm nghệ thuật, trong khi người học khoa học có xu hướng nói về tính đối xứng và tỉ lệ vàng, cố gắng thu gọn mọi thứ về các công thức. Theo kinh nghiệm của tôi, sự đơn giản là căn cứ cho phần lớn các lập luận của cả hai bên.
