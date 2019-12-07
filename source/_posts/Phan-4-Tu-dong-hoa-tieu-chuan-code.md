@@ -4,7 +4,7 @@ date: 2019-12-07 11:53:44
 tags:
 ---
 
-Đây là bài thứ ba trong cuốn [97 Things Every Programmer Should Know](https://www.oreilly.com/library/view/97-things-every/9780596809515/) của tác giả Kevlin Henney. Cuốn sách này là tập hợp những tip nhỏ và hữu ích có thể sẽ giúp cho bạn trở thành một developer chuyên nghiệp hơn.
+Đây là bài thứ tư trong cuốn [97 Things Every Programmer Should Know](https://www.oreilly.com/library/view/97-things-every/9780596809515/) của tác giả Kevlin Henney. Cuốn sách này là tập hợp những tip nhỏ và hữu ích có thể sẽ giúp cho bạn trở thành một developer chuyên nghiệp hơn.
 
 ![https://res.cloudinary.com/djeghcumw/image/upload/v1575698277/blog/WFTPM.png](https://res.cloudinary.com/djeghcumw/image/upload/v1575698277/blog/WFTPM.png)
 
