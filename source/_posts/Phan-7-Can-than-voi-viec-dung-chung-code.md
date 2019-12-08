@@ -27,3 +27,7 @@ Khi số dòng code tôi viết được giảm đi, ngược lại tôi đã l�
 Những cái lỗi này nó nguy hiểm ở chỗ, trông thì có vẻ là ý tưởng hay. Khi ứng dụng vào đúng chỗ, thì nó phát huy giá trị. Ngược lại sai chỗ thì nó tăng chi phí hơn là giá trị. Khi gặp phải một codebase mà không biết chắc là các phần được dùng ở những chỗ nào, tôi giờ cẩn thận hơn nhiều về việc dùng chung.
 
 Cẩn thận với việc xài chung. Hãy kiểm tra ngữ cảnh. Sau đó mới tiếp tục.
+
+---
+
+Khi bạn thấy 2 đoạn code giống nhau, ngay lập tức bạn sẽ nghĩ tới việc tách chúng ra thành một function để có thể dùng chung. Hãy cân nhắc xem ngữ cảnh của chúng có giống nhau không. Liệu trong tương lai khi business của 1 trong 2 bên thay đổi thì phần dùng chung đó có còn được dùng chung nữa không, nếu không thì bạn nên xem lại.
