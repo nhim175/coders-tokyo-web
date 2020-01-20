@@ -267,3 +267,11 @@ article .article__body p > img {
   color: #000000;
 
 }
+
+.slider {
+  margin-bottom: 50px;
+}
+
+.slide {
+  width: 100%;
+}

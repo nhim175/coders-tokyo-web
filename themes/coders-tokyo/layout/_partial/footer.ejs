@@ -86,6 +86,24 @@ js('https://cdnjs.cloudflare.com/ajax/libs/smooth-scroll/14.2.1/smooth-scroll.mi
   var scroll = new SmoothScroll('a[href*="#"]');
 </script>
 
+<script>
+  var elem = document.getElementById('main-carousel');
+  var flkty = new Flickity( elem, {
+    // options
+    cellAlign: 'left',
+    contain: false,
+    autoPlay: true,
+    pageDots: false,
+    accessibility: true,
+    rightToLeft: false,
+    initialIndex: 0,
+    freeScroll: false,
+    prevNextButtons: true,
+    wrapAround: true,
+    cellSelector: '.slide',
+  });
+</script>
+
 <!-- <footer id="footer">
   <% if (theme.sidebar === 'bottom'){ %>
     <%- partial('_partial/sidebar') %>

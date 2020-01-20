@@ -2,8 +2,8 @@
 menu:
   Trang chủ: /
   Tutorials: /tuts
-  Team: /team
-  Success stories: /success-stories
+  # Team: /team
+  # Success stories: /success-stories
   MentorX: /coding-mentor
   Blog: /blog
   Hỏi đáp: https://ask.coders-x.com

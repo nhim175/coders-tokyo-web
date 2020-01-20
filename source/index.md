@@ -83,7 +83,7 @@ markdown:
         <div class="col-md-8">
           <h2 class="text-center">Bạn sẽ được học gì?</h2>
           <p class="lead">
-            Đến với cộng đồng <a href="https://www.facebook.com/coders.tokyo" target="_blank"><b>CodersX</b></a> không những bạn được học về lập trình miễn phí, bạn còn có cơ hội thực tập với những dự án thực tế, có cơ hội được giới thiệu tới các công ty lớn tại Nhật Bản.
+            Đến với cộng đồng <a href="https://www.facebook.com/codersx/" target="_blank"><b>CodersX</b></a> không những bạn được học về lập trình miễn phí, bạn còn có cơ hội thực tập với những dự án thực tế, có cơ hội được giới thiệu tới các công ty lớn tại Nhật Bản.
           </p>
         </div>
       </div>
@@ -147,11 +147,127 @@ markdown:
   <section class="pb-0">
     <div class="container">
       <div class="row justify-content-center pb-5">
-        <div class="col-md-8">
-          <h2 class="text-center">Mục đích của mình là gì?</h2>
-          <p class="lead">
-            Mình có một mong muốn là giúp những người nghèo ở khắp nơi trên thế giới, những người mà không có tiền mua máy tính, được học và làm quen với lập trình. Mình muốn định hướng cho các bạn trẻ thích học lập trình mà không biết bắt đầu từ đâu. Với tốc độ thay đổi công nghệ nhanh như hiện tại, càng nhiều lập trình viên giỏi thì thế giới càng phát triển nhanh hơn.
-          </p>
+        <div class="col-md-12">
+          <h2 class="text-center">Chia sẻ từ học viên</h2>
+          <div class="slider slider--inline-arrows" id="main-carousel">
+            <div class="slide">
+              <div class="testimonial row justify-content-center">
+                  <div class="col-lg-2 col-md-4 col-6 text-center">
+                      <img class="testimonial__image rounded-circle" alt="Image" src="http://graph.facebook.com/100010138781089/picture?type=normal">
+                  </div>
+                  <div class="col-lg-8 col-md-8 col-12">
+                      <span class="h3">“Em học khoá JS của Anh ạ! Tuy chưa xong nhưng giờ em đang thử việc ở vị trí JS developer. Nhờ khoá của anh mà em không còn sợ JS nữa.”
+                      </span>
+                      <h5>Ngô Nguyễn Kim Châu</h5>
+                      <span>JS Developer @ Sutrix Solutions</span>
+                  </div>
+              </div>
+            </div>
+            <div class="slide">
+              <div class="testimonial row justify-content-center">
+                <div class="col-lg-2 col-md-4 col-6 text-center">
+                    <img class="testimonial__image rounded-circle" alt="Image" src="http://graph.facebook.com/100003327612465/picture?type=normal">
+                </div>
+                <div class="col-lg-8 col-md-8 col-12">
+                    <span class="h3">“Main role của em hiện tại là nhận file từ designer sau đó dựng thành khung web, dùng pug và scss là chủ yếu, sau đó thêm sửa hiệu ứng cũng như là responsive và giúp team lắp giao diện vào dự án.”
+                    </span>
+                    <h5>Hoàng Phan</h5>
+                    <span>Markup Dev @ Framgia</span>
+                </div>
+              </div>
+            </div>
+            <div class="slide">
+              <div class="testimonial row justify-content-center">
+                <div class="col-lg-2 col-md-4 col-6 text-center">
+                    <img class="testimonial__image rounded-circle" alt="Image" src="http://graph.facebook.com/100004682324766/picture?type=normal">
+                </div>
+                <div class="col-lg-8 col-md-8 col-12">
+                    <span class="h3">“Em đã theo cộng đồng CodersX cũng đc 6,7 tháng rồi. Và em hiện đang sắp thực tập ở công ty TMA Solutions chi nhánh ở Quy Nhơn về nội dung: ES6, Express, MongoDB, RESTful API, Backend as a Service (BaaS), Exercise and Assignment, Deploy... nói chung em cũng nắm hết rồi. Rất tự tin để đầu tháng sau bắt đầu thực tập.”
+                    </span>
+                    <h5>Ngô Hưng</h5>
+                    <span>Thực tập @ TMA Solutions</span>
+                </div>
+              </div>
+            </div>
+            <div class="slide">
+              <div class="testimonial row justify-content-center">
+                <div class="col-lg-2 col-md-4 col-6 text-center">
+                    <img class="testimonial__image rounded-circle" alt="Image" src="http://graph.facebook.com/100027009860842/picture?type=normal">
+                </div>
+                <div class="col-lg-8 col-md-8 col-12">
+                    <span class="h3">“Nhờ khoá học về cả Front-End và Back-End của anh mà giờ em và các bạn partner đang học cùng có thể đủ tự tin để xin project thực tế về làm, thanks anh nhiều ạ ❤”
+                    </span>
+                    <h5>Minh Toàn</h5>
+                    <span>Sinh viên @ Đại học Cần Thơ</span>
+                </div>
+              </div>
+            </div>
+            <div class="slide">
+              <div class="testimonial row justify-content-center">
+                <div class="col-lg-2 col-md-4 col-6 text-center">
+                    <img class="testimonial__image rounded-circle" alt="Image" src="http://graph.facebook.com/100011313607719/picture?type=normal">
+                </div>
+                <div class="col-lg-8 col-md-8 col-12">
+                    <span class="h3">“Em đã tự học JS tại CodersX và đã bắt đầu đi làm lập trình front-end tại DFO Global - Doanh nghiệp đến từ Canada. Công việc hiện tại của em sử dụng hoàn toàn 100% kiến thức tự học tại CodersX.”
+                    </span>
+                    <h5>Lư Minh Thông</h5>
+                    <span>Front-end Developer @ DFO Global</span>
+                </div>
+              </div>
+            </div>
+            <div class="slide">
+              <div class="testimonial row justify-content-center">
+                <div class="col-lg-2 col-md-4 col-6 text-center">
+                    <img class="testimonial__image rounded-circle" alt="Image" src="http://graph.facebook.com/100002984736533/picture?type=normal">
+                </div>
+                <div class="col-lg-8 col-md-8 col-12">
+                    <span class="h3">“Em đã học được rất nhiều kinh nghiệm từ khóa học NodeJS và JavaScript của anh, những kinh nghiệm đó mà khi đi làm em không để ý tới như cách viết và sử dụng các hàm một cách performance nhất, các lỗ hỗng security có hại đến server. Hiện tại thì em đã đi làm nhưng em vẫn cày nốt ReactJS, các khóa mới của anh và giao lưu cũng các bạn ở CodersX.”
+                    </span>
+                    <h5>Nguyễn Quý Đông</h5>
+                    <span>Full-stack Developer @ Công ty Hoàng Gia</span>
+                </div>
+              </div>
+            </div>
+            <div class="slide">
+              <div class="testimonial row justify-content-center">
+                <div class="col-lg-2 col-md-4 col-6 text-center">
+                    <img class="testimonial__image rounded-circle" alt="Image" src="http://graph.facebook.com/100004052093787/picture?type=normal">
+                </div>
+                <div class="col-lg-8 col-md-8 col-12">
+                    <span class="h3">“Em học Javascript với Express trên kênh anh và thấy hay. Đặc biệt là javascript và DOM.”
+                    </span>
+                    <h5>Bùi Chính Hiệp</h5>
+                    <span>Fresher Angular @ Fsoft HCM</span>
+                </div>
+              </div>
+            </div>
+            <div class="slide">
+              <div class="testimonial row justify-content-center">
+                <div class="col-lg-2 col-md-4 col-6 text-center">
+                    <img class="testimonial__image rounded-circle" alt="Image" src="http://graph.facebook.com/100004124741638/picture?type=normal">
+                </div>
+                <div class="col-lg-8 col-md-8 col-12">
+                    <span class="h3">“Dù không học đúng lộ trình của anh nhưng nhờ tham gia cộng đồng em mới giúp đỡ những bài mới, và cũng đồng nghĩa mỗi lần giúp em phải xem xét lại kiến thức mới dám giúp và cũng nhờ series JS của anh mà em làm việc với Backend bên JS tốt hơn.”
+                    </span>
+                    <h5>Hiền Lương</h5>
+                    <span>Thực tập @ Cty Startup</span>
+                </div>
+              </div>
+            </div>
+            <div class="slide">
+              <div class="testimonial row justify-content-center">
+                <div class="col-lg-2 col-md-4 col-6 text-center">
+                    <img class="testimonial__image rounded-circle" alt="Image" src="http://graph.facebook.com/100004157195813/picture?type=normal">
+                </div>
+                <div class="col-lg-8 col-md-8 col-12">
+                    <span class="h3">“Cả team fresher JS cty em đều học anh.”
+                    </span>
+                    <h5>Nguyễn Đông</h5>
+                    <span>Developer @ NTQ Solution JSC</span>
+                </div>
+              </div>
+            </div>
+          </div>
           <div class="testimonial text-center">
             <blockquote>
                 “Stay hungry, stay foolish.”
