@@ -146,6 +146,7 @@ markdown:
                                                   <p class="box-feedback__mentor">
                                                       Được <strong>Thịnh Phạm</strong> mentor
                                                   </p>
+                                                  <p class="box-feedback__star">★ ★ ★ ★ ★</p>
                                               </div>
                                           </div>
                                       </div>
@@ -155,7 +156,7 @@ markdown:
                             <div class="box-feedback">
                                 <div class="box-feedback__content mb15">
                                     <p class="comment">
-                                        Tuyệt vời MentorX
+                                        chị mentor rất nhiệt tình ạ.
                                     </p>
                                 </div>
                                 <div class="box-feedback__info">
@@ -167,11 +168,12 @@ markdown:
                                         </div>
                                         <div class="col-9">
                                             <h6 class="box-feedback__name">
-                                                Tuấn Thành
+                                                Trần Hiền Anh
                                             </h6>
                                             <p class="box-feedback__mentor">
-                                                Được <strong>Thịnh Phạm</strong> mentor
+                                                Được <strong>Trần Nhật Anh</strong> mentor
                                             </p>
+                                            <p class="box-feedback__star">★ ★ ★ ★ ★</p>
                                         </div>
                                     </div>
                                 </div>
@@ -181,7 +183,7 @@ markdown:
                             <div class="box-feedback">
                                 <div class="box-feedback__content mb15">
                                     <p class="comment">
-                                        Thật tuyệt anh ạ , em cảm ơn anh ^^
+                                        Anh rất nhiệt tình ạ. còn cho em các tips để cải thiện code của mình ạ
                                     </p>
                                 </div>
                                 <div class="box-feedback__info">
@@ -193,11 +195,12 @@ markdown:
                                         </div>
                                         <div class="col-9">
                                             <h6 class="box-feedback__name">
-                                                Ngọc Hà
+                                                Trần Hiền Anh
                                             </h6>
                                             <p class="box-feedback__mentor">
-                                                Được <strong>Thịnh Phạm</strong> mentor
+                                                Được <strong>Sơn</strong> mentor
                                             </p>
+                                            <p class="box-feedback__star">★ ★ ★ ★ ★</p>
                                         </div>
                                     </div>
                                 </div>
@@ -224,6 +227,7 @@ markdown:
                                             <p class="box-feedback__mentor">
                                                 Được <strong>Thịnh Phạm</strong> mentor
                                             </p>
+                                            <p class="box-feedback__star">★ ★ ★ ★ ★</p>
                                         </div>
                                     </div>
                                 </div>
