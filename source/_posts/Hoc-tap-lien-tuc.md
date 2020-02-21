@@ -11,6 +11,8 @@ tags:
 Chúng ta đang sống trong khoảng thời gian thú vị. Khi sự phát triển lan rộng trên toàn thế giới, bạn biết rằng có rất nhiều người có khả năng làm được công việc của bạn. Bạn cần phải học liên tục để đáp ứng nhu cầu của thị trường. Nếu không bạn sẽ trở thành một con khủng long tụt hậu, kẹt mãi với một công việc, cho đến một ngày bạn không còn cần thiết nữa hoặc công việc của bạn được thuê ngoài với "mức giá" rẻ hơn.
 Vậy bạn sẽ làm gì? Một số nhà tuyển dụng đủ rộng rãi để cung cấp khóa huấn luyện để mở rộng những kỹ năng mà bạn có. Một số khác không thể dành thời gian và tiền bạc cho bất kì một khóa đào tạo nào. Để chơi một cách an toàn, bạn cần phải chịu trách nhiệm cho việc giáo dục của bạn.
 
+![Học tập liên tục](https://assets.kpmg/content/dam/kpmg/images/2016/06/Cyber-Security-Benchmark-2016.jpg/jcr:content/renditions/cq5dam.web.1200.630.jpg)
+
 Đây là danh sách các cách giúp bạn tiếp tục học tập. Nhiều trong số này bạn có thể tìm thấy trên Internet miễn phí:
 * Đọc sách, tạp chí, blog, Twitter, website. Nếu bạn muốn đào sâu vào một chủ đề, hãy cân nhắc tham gia vào một mailing-list hoặc một nhóm chia sẻ các thông tin liên quan với chủ đề đó.
 * Nếu bạn thực sự muốn đắm mình trong một công nghệ, hãy bắt tay vào viết code.
