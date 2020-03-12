@@ -4,7 +4,8 @@ menu:
   Tutorials: /tuts
   # Team: /team
   # Success stories: /success-stories
-  MentorX: /coding-mentor
+  # MentorX: /coding-mentor
+  Khoá học 2020: /course-2020
   Blog: /blog
   Hỏi đáp: https://ask.coders-x.com
 rss: /atom.xml
@@ -29,7 +30,7 @@ index_widgets:
 # - archive
 
 # widget behavior
-archive_type: 'monthly'
+archive_type: "monthly"
 show_count: false
 
 # Miscellaneous
