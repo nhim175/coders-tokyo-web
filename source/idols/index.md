@@ -35,7 +35,7 @@ markdown:
       <div class="row justify-content-center">
         <div class="col-md-10 col-lg-8">
           <div class="text-block">
-            <h2>CodersX Idols</h2>
+            <h1>CodersX Idols</h1>
           </div>
           <!-- <p class="lead">
             CodersX được chia thành nhiều nhóm, mỗi nhóm sẽ đảm nhận một lượng công việc nhất định. Content Team chịu trách nhiệm biên soạn, xử lý nội dung và sắp xếp lịch đăng tải sao cho phù hợp nhất có thể.
@@ -54,7 +54,7 @@ markdown:
         <div class="col-md-4">
           <div class="feature feature-8">
             <img alt="Sang Tran" style="width: 128px;" class="img-circle" src="https://corize.co.jp/wp-content/uploads/2019/10/sang.jpg">
-            <h5>Trần Sáng</h5>
+            <h5>Sáng Trần</h5>
             <span>Developer</span>
           </div>
         </div>
@@ -147,7 +147,7 @@ markdown:
       <div class="row justify-content-center">
         <div class="col-md-10 col-lg-8">
           <div class="text-block">
-            <h2>Mentors</h2>
+            <h1>Mentors</h1>
           </div>
           <!-- <p class="lead">
             Đây là team tập hợp các developer chân chính đến từ khắp mọi nơi. Mọi người đang làm việc chăm chỉ hàng ngày để có thể tạo ra nhiều giá trị hữu ích cho tất cả người học và cộng đồng CodersX!
@@ -218,7 +218,7 @@ markdown:
         <div class="col-md-3">
           <div class="feature feature-8">
             <img alt="Tran Dinh Sang" style="width: 128px;" class="img-circle" src="https://corize.co.jp/wp-content/uploads/2019/10/sang.jpg">
-            <h5>Tran Dinh Sang</h5>
+            <h5>Trần Đình Sáng</h5>
             <span>Developer</span>
           </div>
         </div>
@@ -260,7 +260,7 @@ markdown:
           <div class="col-md-3">
             <div class="feature feature-8">
               <img alt="Trang Pham" style="width: 128px;" class="img-circle" src="https://lh3.googleusercontent.com/a-/AAuE7mATmUnAZev0zvqtGT7-UkNAdMJnnVAoP4CffNWI9g">
-              <h5>Trang Pham</h5>
+              <h5>Trang Phạm</h5>
               <span> Developer</span>
             </div>
           </div>
