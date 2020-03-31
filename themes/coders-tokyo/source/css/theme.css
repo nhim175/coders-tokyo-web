@@ -5992,6 +5992,7 @@ p .material-icons:first-child {
   left: 0;
 }
 .feature h5 {
+  text-transform: capitalize;
   margin: 0;
 }
 .feature h4 {
