@@ -130,7 +130,13 @@ h6,
   font-size: 1.35714286em;
   line-height: 1.68421053em;
 }
-@media all and (max-width: 767px) {
+@media all and (max-width: 768px) {
+  .team__headerbox .title-h2{
+    display: block!important;
+ }
+ .team__headerbox .title-h2 span{
+  display: none;
+}
   h1,
   .h1 {
     font-size: 2.35714286em;
@@ -141,6 +147,7 @@ h6,
     font-size: 1.78571429em;
     line-height: 1.5em;
   }
+  
   h3,
   .h3 {
     font-size: 1.35714286em;

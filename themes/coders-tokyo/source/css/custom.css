@@ -191,7 +191,10 @@ article .article__body p > img {
 .team__headerbox h2 {
   color: white !important;
 }
-
+.team__headerbox .title-h2{
+   display: flex;
+   justify-content: center;
+}
 .team__parallax--box {
   display: flex;
   flex-direction: column;

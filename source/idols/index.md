@@ -13,7 +13,8 @@ markdown:
         <div class="col-md-6 col-lg-8">
           <div class="team__headerbox">
             <h1 class="color--white"> CodersX Idols</h1>
-            <h2 class="h2">Cố gắng mỗi ngày - Thành công sẽ đến</h2>
+            <h2 class="h2 title-h2">
+               <div> Cố gắng mỗi ngày <span> - </span> </div> Thành công sẽ đến</h2>
             <!-- <a class="btn btn--primary type--uppercase" href="#join-us" data-scroll>
               <span class="btn__text">
                 Tham gia cùng team
