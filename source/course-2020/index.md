@@ -14,7 +14,7 @@ markdown:
           <h1 class="color--primary">Khoá học CodersX 2020</h1>
           <h2 class="h1">Learn different.</h2>
           <a class="btn btn--primary type--uppercase"
-            href="https://www.youtube.com/watch?v=p1-rAcEIVq4"
+            href="https://docs.google.com/document/d/1JmwU280GJdg1n54VJxgyy0igaPJU4ZTIYx1E8CAEANU/edit#heading=h.xtlut64goj0y"
             target="_blank">
             <span class="btn__text">
               Giới thiệu khoá học
@@ -28,20 +28,6 @@ markdown:
     <!--end of container-->
   </section>
   <img class="d-none" src="https://coders-x.com/images/meta-cover.jpg" />
-
-  <section class="cta cta-4 space--xxs unpad--bottom">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12 text-center">
-          <hr>
-          <span class="label label--inline">Free</span>
-          <span><a href="http://school.coders-x.com/register" target="_blank"><b>Đăng ký</b></a> để nhận ngay <b class="color--primary-2">khoá học lập trình 1 năm</b> và cơ hội <b class="color--primary-2">đi làm tại Nhật</b> hoàn toàn <b class="color--primary-2">MIỄN PHÍ</b>.</span>
-        </div>
-      </div>
-      <!--end of row-->
-    </div>
-    <!--end of container-->
-  </section>
 
   <section>
     <div class="container">
