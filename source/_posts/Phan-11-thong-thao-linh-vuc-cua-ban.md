@@ -2,7 +2,7 @@ Title | date | Tag
 ----- | ---- | ----
 Phần 11. Thông thạo lĩnh vực của bạn | 2020-04-14 13:26:00 |
 
-Đây là bài thứ 10 trong cuốn [97 Things Every Programmer Should Know](https://www.oreilly.com/library/view/97-things-every/9780596809515/) của tác giả Kevlin Henney. Cuốn sách này là tập hợp những tip nhỏ và hữu ích có thể sẽ giúp cho bạn trở thành một developer chuyên nghiệp hơn.
+Đây là bài thứ 11 trong cuốn [97 Things Every Programmer Should Know](https://www.oreilly.com/library/view/97-things-every/9780596809515/) của tác giả Kevlin Henney. Cuốn sách này là tập hợp những tip nhỏ và hữu ích có thể sẽ giúp cho bạn trở thành một developer chuyên nghiệp hơn.
 
 ![image](https://www.thegioimaychu.vn/blog/wp-content/uploads/2019/04/cloudjobs.jpg)
 
