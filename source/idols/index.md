@@ -77,15 +77,15 @@ markdown:
       <div class="row">
         <div class="col-md-4 col-6">
           <div class="feature feature-8">
-            <img alt="MAI LY" style="width: 128px;" class="img-circle" src="https://corize.co.jp/wp-content/uploads/2019/10/ly.jpg">
-            <h5>mai ly</h5>
+            <img alt="Mai Ly" style="width: 128px;" class="img-circle" src="https://corize.co.jp/wp-content/uploads/2019/10/ly.jpg">
+            <h5>Mai Ly</h5>
             <span>HR Manager</span>
           </div>
         </div>
         <div class="col-md-4 col-6">
           <div class="feature feature-8">
-            <img alt="QUY TAN" style="width: 128px;"  class="img-circle" src="https://corize.co.jp/wp-content/uploads/2020/02/quy-tan-2.png">
-            <h5>quý tân</h5>
+            <img alt="Quý Tân" style="width: 128px;"  class="img-circle" src="https://corize.co.jp/wp-content/uploads/2020/02/quy-tan-2.png">
+            <h5>Quý Tân</h5>
             <span>Developer</span>
           </div>
         </div>
@@ -128,13 +128,6 @@ markdown:
             <div class="feature feature-8">
               <img alt="THAI ANH" style="width: 128px;" class="img-circle" src="https://corize.co.jp/wp-content/uploads/2020/03/stephen_cheng_square.png">
               <h5>thái anh</h5>
-              <span>Developer</span>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="feature feature-8">
-              <img alt="NGUYEN BUI" style="width: 128px;" class="img-circle" src="https://res.cloudinary.com/djeghcumw/image/upload/v1583565253/mhumrvgaqqxqfzp0xhgp.jpg">
-              <h5>nguyện bùi</h5>
               <span>Developer</span>
             </div>
           </div>
