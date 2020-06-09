@@ -51,7 +51,7 @@ markdown:
               <h5>Thịnh Phạm</h5>
               <span>Founder</span>
             </div>
-          </div>
+        </div>
         <div class="col-md-4 col-6">
           <div class="feature feature-8">
             <img alt="Sang Tran" style="width: 128px;" class="img-circle" src="https://corize.co.jp/wp-content/uploads/2019/10/sang.jpg">
@@ -269,13 +269,6 @@ markdown:
             <div class="feature feature-8">
               <img alt="Trần Thái Sơn" style="width: 128px;" class="img-circle" src="https://res.cloudinary.com/djeghcumw/image/upload/f_auto/v1560400166/codersx_resource/Tha%CC%81i_So%CC%9Bn.png">
               <h5>Trần Thái Sơn</h5>
-              <span> Developer</span>
-            </div>
-          </div>
-          <div class="col-md-4 col-6">
-            <div class="feature feature-8">
-              <img alt="Bùi Văn Nguyện" style="width: 128px;" class="img-circle" src="https://res.cloudinary.com/djeghcumw/image/upload/v1583565253/mhumrvgaqqxqfzp0xhgp.jpg">
-              <h5>Bùi Văn Nguyện</h5>
               <span> Developer</span>
             </div>
           </div>
