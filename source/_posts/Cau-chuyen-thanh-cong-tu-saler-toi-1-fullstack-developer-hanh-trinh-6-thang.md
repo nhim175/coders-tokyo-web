@@ -120,8 +120,6 @@ Và cũng hay đùa là : làm xong bài này là đi làm đc 1k$ rồi nên l�
 
 **Thành**: Mình cũng đang **giúp 2 bạn** nữa đang học theo **CodersX** và mình thấy là việc **học nhóm** sẽ rất tốt cho mọi người. Ai mạnh điểm nào thì sẽ bù lại được cho người còn lại
 
-Mình cũng đang giúp 2 bạn nữa đang học theo codersX và a thấy là việc học nhóm sẽ rất tốt cho mọi người.
-
 Và 1 điều nữa đó là JS mình có cộng đồng có rất nhiều các pro như **anh Thịnh**, **anh Tiệp**, **anh Châu**, ... giúp đỡ mình vô điều kiện nên hãy chịu khó đăng bài và đừng giấu dốt!
  
 ## Những "Trái ngọt" đầu tiên
