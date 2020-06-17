@@ -18,7 +18,7 @@ Cùng nhau điểm qua 1 chút về thông tin của Thành trước khi đi và
 
 ![Le Tuan Thanh CodersX](https://res.cloudinary.com/hongquangraem/image/upload/v1592245072/CodersX-Blog/93705370_1542316682595037_2572113230465859584_n.jpg_w2uvbl.jpg)
 
- - **Họ và tên**: [Lê Tuấn Thành](https://www.facebook.com/tuanthanh0210)
+ - **Họ và tên**: Lê Tuấn Thành [Link FB](https://www.facebook.com/tuanthanh0210)
  - **Ngày sinh**: 27/09/1994
  - **Tham gia CodersX từ**: Tháng 8 - 2019
  - **Bắt đầu chuyên tâm học**: Giữa tháng 2 - 2020
@@ -45,7 +45,7 @@ Trước khi rẽ ngang con đường sự nghiệp, Thành là 1 Saler (Chuyên
 
 Mình đã cố gắng xem thật kỹ bài giảng của anh Thịnh để nắm đc cơ bản và cũng xem qua tài liệu trên một số trang web mà anh Thịnh recommend như MDN, Medium, FreeCodeCamp. Và cũng còn một người bạn giúp đỡ mình cũng rất nhiệt tình trong quá trình mình tham gia học code tại CodersX.
 
-![enter image description here](https://coders-x.com/images/meta-cover.jpg)
+![Le Tuan Thanh CodersX](https://coders-x.com/images/meta-cover.jpg)
 
 **PV**: Bạn có thể chia sẻ thêm về cách học của bạn trong lúc bạn học lập trình cho mọi người biết được không ?
 
@@ -59,7 +59,7 @@ Mỗi chúng ta đều có những cách học khác nhau, phù hợp riêng v�
 
 ## Khởi đầu muộn nhưng quyết tâm lớn
 
-![enter image description here](https://res.cloudinary.com/hongquangraem/image/upload/v1592245246/CodersX-Blog/hardwork-1531204016_wmhct8.jpg)
+![Le Tuan Thanh CodersX](https://res.cloudinary.com/hongquangraem/image/upload/v1592245246/CodersX-Blog/hardwork-1531204016_wmhct8.jpg)
 
 ### Trái ngành + Mất base sẽ như thế nào?
 
@@ -81,7 +81,7 @@ Ban đầu cũng có xin đi intern cho 1 công ty của ông anh, nhưng khi đ
 
 Nên quyết tâm nghỉ hẳn, và dồn hết sức để lấy lại gốc căn bản, từ đó là mình focus vào học và làm bài tập trên CodersX School luôn.
 
-![enter image description here](https://res.cloudinary.com/hongquangraem/image/upload/v1592245314/CodersX-Blog/5d5276ee2200003100f4fbe6_jhhvbk.jpg)
+![Le Tuan Thanh CodersX](https://res.cloudinary.com/hongquangraem/image/upload/v1592245314/CodersX-Blog/5d5276ee2200003100f4fbe6_jhhvbk.jpg)
 
 ### Những áp lực, suy nghĩ  mà ai cũng sẽ gặp
 
@@ -101,12 +101,12 @@ Nếu mình mà có tư tưởng so sánh thì sẽ không thể học được 
 
 Và cũng hay đùa là : làm xong bài này là đi làm đc 1k$ rồi nên là lại cố gắng =)))
 
-![enter image description here](https://res.cloudinary.com/hongquangraem/image/upload/v1592245468/CodersX-Blog/so-sanh_kyyaf3.jpg)
+![Le Tuan Thanh CodersX](https://res.cloudinary.com/hongquangraem/image/upload/v1592245468/CodersX-Blog/so-sanh_kyyaf3.jpg)
 
 **PV**: Mình có thấy bạn nhắc đến nhân vật **thằng Lưu** khá nhiều, đó là ai vậy nhỉ? Bạn có thể nói rõ hơn được không?
 
 ## Người đồng hành
-![enter image description here](https://res.cloudinary.com/hongquangraem/image/upload/v1592245593/CodersX-Blog/Partner-Page-Header-Graphic_xepvp1.png)
+![Le Tuan Thanh CodersX](https://res.cloudinary.com/hongquangraem/image/upload/v1592245593/CodersX-Blog/Partner-Page-Header-Graphic_xepvp1.png)
 
 **Thằng Lưu** - Tên thật là **Đào Danh Lưu** là 1 người bạn của mình, hiện tại đang là 1 Developer cho 1 công ty bên Nhật.
 
@@ -123,7 +123,7 @@ Và cũng hay đùa là : làm xong bài này là đi làm đc 1k$ rồi nên l�
 Và 1 điều nữa đó là JS mình có cộng đồng có rất nhiều các pro như **anh Thịnh**, **anh Tiệp**, **anh Châu**, ... giúp đỡ mình vô điều kiện nên hãy chịu khó đăng bài và đừng giấu dốt!
  
 ## Những "Trái ngọt" đầu tiên
-![enter image description here](https://res.cloudinary.com/hongquangraem/image/upload/v1592245411/CodersX-Blog/no_2Bluc_b2clgz.jpg)
+![Le Tuan Thanh CodersX](https://res.cloudinary.com/hongquangraem/image/upload/v1592245411/CodersX-Blog/no_2Bluc_b2clgz.jpg)
 Đó là câu chuyện của **Lê Tuấn Thành**, 1 bước rẽ ngang sự nghiệp, 1 qúa trình, 1 hành trình khổ luyện, và sau đây là những trái ngọt đầu tiên mà bạn ấy đã gặt được:
 
 ### Kết qủa thi sau khóa học 2020 trên CodersX School
